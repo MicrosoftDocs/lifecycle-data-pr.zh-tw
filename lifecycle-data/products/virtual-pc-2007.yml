@@ -1,0 +1,35 @@
+### YamlMime:Lifecycle
+metadata:
+  title: 虛擬 PC 2007
+  description: 虛擬 PC 2007 遵循固定生命週期原則。
+  ms.date: 07/28/2020
+  ms.openlocfilehash: f4c016f39a3c567e73c1f143299d4cbe59a6f528
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "807339"
+name: 虛擬 PC 2007
+summary: >
+  虛擬 PC 2007 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
+
+
+
+  > [!IMPORTANT]
+
+  > 已結束對此產品的支援。
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 05/05/2007
+  end: 07/10/2012
+  extendedEnd: 07/11/2017
+releases:
+- version: Service Pack 1
+  startDate: 07/03/2008
+  endDate: 07/11/2017
+- version: Original Release
+  startDate: 05/05/2007
+  endDate: 07/14/2009
+content: "\n## <a name=\"links\"></a>Links \n* [Service pack 原則](/lifecycle/policies/fixed#service-packs)"

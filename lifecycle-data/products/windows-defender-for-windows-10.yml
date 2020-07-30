@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows 10 版 windows Defender
+  description: Windows 10 版 windows Defender 遵循元件生命週期原則。
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 4bebd1c04c81844b3d0dde309f7fd75b1856fdf6
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "807332"
+name: Windows 10 版 windows Defender
+summary: >+
+  Windows 10 版 windows Defender 遵循[元件](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)生命週期原則。
+
+
+products:
+- windows
+policyType: component
+supportDates:
+  start: 07/29/2015
+  end: 10/14/2025
+releases:
+- version: Original Release
+  startDate: 07/29/2015
+  endDate: 10/14/2025
+content: "\n## <a name=\"links\"></a>Links \n* [Windows 10](/lifecycle/products/?terms=windows%2010)\n\n> [!NOTE]\n> 此版本稱為元件，遵循其上層產品的生命週期，Windows 10。"
