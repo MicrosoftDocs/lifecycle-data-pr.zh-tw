@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Visual Studio 2010
+  description: Visual Studio 2010 遵循固定生命週期原則。
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 30c112ab23bba45aaec60660ab85c362bcebf030
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "806966"
+name: Visual Studio 2010
+summary: >+
+  Visual Studio 2010 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
+
+
+  這適用于下列版本：代理人、All，ASP .NET MVC 4，Express，F # 2.0 Runtime，Lab Management，效能工具，Premium，Professional，Remote 偵錯工具，SDK，命令介面（整合），命令介面，Office System 4.0 Runtime，終極，VB Express，Visual c # Express，Visual c + + Express，Visual Web Developer Express，視覺效果 & 模型 SDK
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 06/29/2010
+  end: 07/14/2015
+  extendedEnd: 07/14/2020
+releases:
+- version: Service Pack 1
+  startDate: 03/08/2011
+  endDate: 07/14/2020
+- version: Original Release
+  startDate: 06/29/2010
+  endDate: 04/10/2012
+content: "\n## <a name=\"links\"></a>Links \n* [Service pack 原則](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>版本 \n* 代理\n* 全部\n* ASP .NET MVC 4\n* 表達\n* F # 2.0 執行時間\n* 實驗室管理\n* 效能工具\n* Premium\n* 專業\n* 遠端偵錯器\n* Sdk\n* 命令介面（整合式）\n* 命令介面（獨立的）\n* 團隊代理程式\n* 團隊瀏覽器\n* 測試專業人員\n* Office System 4.0 Runtime 的工具\n* 最終\n* VB Express\n* Visual c # Express\n* Visual c + + Express\n* Visual Web Developer Express\n* 視覺效果 & 模型 SDK"
