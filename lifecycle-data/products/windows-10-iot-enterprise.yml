@@ -1,0 +1,58 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows 10 IoT Enterprise
+  description: Windows 10 IoT Enterprise 遵循新式生命週期原則。
+  ms.date: 07/30/2020
+  ms.openlocfilehash: 159055d404da77afef0694120dc1c2faf04a22e3
+  ms.sourcegitcommit: e3a3bd051020add66386d68528657bb59240d90b
+  ms.translationtype: MT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 07/30/2020
+  ms.locfileid: "879070"
+name: Windows 10 IoT Enterprise
+summary: >
+  Windows 10 IoT Enterprise 遵循[新式](/lifecycle/policies/modern)生命週期原則。
+
+
+
+  > [!IMPORTANT]
+
+  > Microsoft 將繼續支援至少一個 Windows 10 半年通道，直到2025年10月14日為止。
+products:
+- windows
+policyType: modern-on-prem
+supportDates:
+  start: 07/29/2015
+  end: 10/14/2025
+releases:
+- version: Version 2004
+  startDate: 05/27/2020
+  endDate: 12/14/2021
+- version: Version 1909
+  startDate: 11/12/2019
+  endDate: 05/10/2022
+- version: Version 1903
+  startDate: 08/29/2019
+  endDate: 12/08/2020
+- version: Version 1809
+  startDate: 11/13/2018
+  endDate: 05/11/2021
+- version: Version 1803
+  startDate: 04/30/2018
+  endDate: 11/10/2020
+- version: Version 1709
+  startDate: 10/17/2017
+  endDate: 10/13/2020
+- version: Version 1703
+  startDate: 04/11/2017
+  endDate: 10/08/2019
+- version: Version 1607
+  startDate: 08/02/2016
+  endDate: 04/09/2019
+- version: Version 1511
+  startDate: 11/10/2015
+  endDate: 10/10/2017
+- version: Version 1507
+  startDate: 07/29/2015
+  endDate: 05/09/2017
+content: "\n## <a name=\"links\"></a>Links \n* [Windows 10 IoT Enterprise 的概述](/windows/iot-core/windows-iot-enterprise)\n* [Windows 生命週期事實資料表](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Windows 即服務（WaaS）](/windows/deployment/update/waas-quick-start)\n* [生命週期常見問題-Windows 產品](/lifecycle/faq/windows)\n\n> [!NOTE]\n> 除非推遲，後續的 Windows 10 半年通道功能更新可能會在列出的主流支援日期結束之前安裝。"
