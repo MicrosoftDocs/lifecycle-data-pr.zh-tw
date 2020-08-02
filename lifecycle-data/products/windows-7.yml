@@ -1,0 +1,37 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows 7
+  description: Windows 7 遵循固定生命週期原則。
+  ms.date: 07/28/2020
+  ms.openlocfilehash: a1b1b370fe7d15abae83da62603b4522ea79a307
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "806807"
+name: Windows 7
+summary: "Windows 7 遵循[固定](/lifecycle/policies/fixed)生命週期原則。\n\n這適用于下列版本： Enterprise、Enterprise N、Home Basic、Home Premium、Home Premium N、Professional、Professional for Embedded Systems、Professional N、Starter、Starter N、終極、終極的內嵌式系統，終極 N\n\n> [!IMPORTANT]\n> 已結束對此產品的支援。 請參閱下列遷移指南。 \n"
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 10/22/2009
+  end: 01/13/2015
+  extendedEnd: 01/14/2020
+releases:
+- version: Extended Security Update Year 3*
+  startDate: 01/11/2022
+  endDate: 01/10/2023
+- version: Extended Security Update Year 2*
+  startDate: 01/12/2021
+  endDate: 01/11/2022
+- version: Extended Security Update Year 1*
+  startDate: 01/14/2020
+  endDate: 01/12/2021
+- version: Service Pack 1
+  startDate: 02/22/2011
+  endDate: 01/14/2020
+- version: Original Release
+  startDate: 10/22/2009
+  endDate: 04/09/2013
+content: "> [!TIP]\n> ' * 擴充的安全性更新（ESU）可透過特定大量授權程式（適用于本產品的內嵌式系統版本）和專業人員，在超過支援的最後一年內。 請與您的 Microsoft 合作夥伴或客戶小組聯繫以深入瞭解。 \n\n## <a name=\"links\"></a>Links \n* [遷移指引](https://support.microsoft.com/help/4057281)\n* [從 Windows 7 升級到 Windows 10](/microsoft-365/enterprise/desktop-deployment-center-home?view=o365-worldwide)\n* [擴充的安全性更新程式（ESU）](/lifecycle/faq/extended-security-updates)\n* [Service pack 原則](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>版本 \n* 企業\n* Enterprise N\n* 家用基本版\n* 家用精品\n* 住宅精品 N\n* 專業\n* 內嵌系統的專業人員\n* 專業版 N\n* 起 動 器\n* Starter N\n* 最終\n* 內嵌系統的極致\n* 終極 N"
