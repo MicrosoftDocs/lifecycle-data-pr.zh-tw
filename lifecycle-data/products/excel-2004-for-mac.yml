@@ -1,0 +1,24 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Excel 2004 for Mac
+  description: Microsoft Excel 2004 for Mac 遵循固定生命週期原則。
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 51b0adf9f1c97f1ab2032784a18f4d0fbd9912c0
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "807128"
+name: Microsoft Excel 2004 for Mac
+summary: "Microsoft Excel 2004 for Mac 遵循[固定](/lifecycle/policies/fixed)生命週期原則。\n\n\n> [!IMPORTANT]\n> 已結束對此產品的支援。 \n"
+products:
+- office
+policyType: fixed-mainstream-only
+supportDates:
+  start: 07/29/2004
+  end: 01/10/2012
+releases:
+- version: Original Release
+  startDate: 07/29/2004
+  endDate: 01/10/2012
+content: ''

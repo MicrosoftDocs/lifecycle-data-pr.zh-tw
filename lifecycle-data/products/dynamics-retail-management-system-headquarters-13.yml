@@ -1,0 +1,29 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Dynamics 零售管理系統1。3
+  description: Dynamics Retail 管理系統1.3 遵循固定生命週期原則。
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 6ffb2235d34709672f16dea371e142cca0af0ef1
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "807134"
+name: Dynamics 零售管理系統1。3
+summary: >+
+  Dynamics Retail 管理系統1.3 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
+
+
+  這適用于下列版本：總部、Store Operations
+
+products:
+- dynamics
+policyType: fixed-mainstream-only
+supportDates:
+  start: 01/31/2006
+  end: 04/12/2011
+releases:
+- version: Original Release
+  startDate: 01/31/2006
+  endDate: 04/12/2011
+content: "\n\n\n## <a name=\"editions\"></a>版本 \n* 總部\n* 儲存區作業"
