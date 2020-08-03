@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft System Center 2012 應用程式控制器
+  description: Microsoft System Center 2012 App Controller 遵循固定生命週期原則。
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 955c3d74c044c24548fc2173c8d454e739b25505
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "849836"
+name: Microsoft System Center 2012 應用程式控制器
+summary: >+
+  Microsoft System Center 2012 App Controller 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
+
+
+products:
+- msc
+policyType: fixed
+supportDates:
+  start: 05/30/2012
+  end: 07/11/2017
+  extendedEnd: 07/12/2022
+releases:
+- version: Service Pack 1
+  startDate: 12/15/2012
+  endDate: 07/12/2022
+- version: Original Release
+  startDate: 05/30/2012
+  endDate: 01/14/2014
+content: "\n## <a name=\"links\"></a>Links \n* [System Center 資訊](/system-center/#pivot=components&panel=components-all)\n* [Service pack 原則](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Microsoft System Center 2012 是由元件所組成： Configuration Manager Data Protection Manager Operations Manager Orchestrator Service Manager 服務管理自動化 Virtual Machine Manager 服務供應商基礎"

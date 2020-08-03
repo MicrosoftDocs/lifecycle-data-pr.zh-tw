@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Azure 資訊保護用戶端
+  description: Azure 資訊保護用戶端遵循新式生命週期原則。
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 9a7e2c02d8f1d7ca3f071b5f36b97eab364b3340
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "849608"
+name: Azure 資訊保護用戶端
+summary: >+
+  Azure 資訊保護用戶端遵循[新式](/lifecycle/policies/modern)生命週期原則。
+
+
+products:
+- azure
+policyType: modern-online
+supportDates:
+  start: 10/01/2016
+  end: 03/31/2021
+releases:
+- version: Original Release
+  startDate: 10/01/2016
+  endDate: 03/31/2021
+content: "\n## <a name=\"links\"></a>Links \n* [服務資訊](/information-protection/rms-client/client-version-release-history#servicing-information-and-timelines)\n* [遷移指引](https://techcommunity.microsoft.com/t5/azure-information-protection/announcing-timelines-for-sunsetting-label-management-in-the/ba-p/1226179)\n\n> [!NOTE]\n> 為了提供整合和簡化的客戶體驗，azure 資訊保護用戶端（傳統型）和 Azure 入口網站中的標籤管理，在2021年3月31日為止已被取代。 此時間範圍可讓所有目前的 Azure 資訊保護客戶使用 Microsoft 資訊保護統一的標記平臺，轉變為我們整合的標籤解決方案。"

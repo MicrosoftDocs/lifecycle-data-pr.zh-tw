@@ -1,0 +1,29 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows server 2012 的 windows Server Update Services
+  description: Windows server 2012 的 windows Server Update Services 遵循元件生命週期原則。
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 4c901f9ed6f882c8009f8c6ea1df3cf55ac81d7c
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "849987"
+name: Windows server 2012 的 windows Server Update Services
+summary: >+
+  Windows server 2012 的 windows Server Update Services 遵循[元件](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)生命週期原則。
+
+
+products:
+- windows
+policyType: component
+supportDates:
+  start: 10/30/2012
+releases:
+- version: Original Release
+  startDate: 10/30/2012
+  endDate: 10/10/2023
+content: >-
+  > [!TIP]
+
+  > 此元件遵循其上層產品的生命週期，Windows Server 2012。

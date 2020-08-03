@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft iSCSI 軟體目標3。3
+  description: Microsoft iSCSI 軟體目標3.3 遵循元件生命週期原則。
+  ms.date: 07/28/2020
+  ms.openlocfilehash: c8ae05506cdc5e83920e82e4cc6bcfef3c03863e
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "849747"
+name: Microsoft iSCSI 軟體目標3。3
+summary: >
+  Microsoft iSCSI 軟體目標3.3 遵循[元件](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)生命週期原則。
+
+
+
+  > [!IMPORTANT]
+
+  > 已結束對此元件的支援。
+products:
+- windows
+policyType: component
+supportDates:
+  start: 12/20/2010
+  end: 10/08/2019
+releases:
+- version: Original Release
+  startDate: 12/20/2010
+  endDate: 10/08/2019
+content: ''

@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Internet Explorer 9
+  description: Internet Explorer 9 遵循元件生命週期原則。
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 595ea8f1727166a645aa139d28dc093b4b6f2b41
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "849771"
+name: Internet Explorer 9
+summary: >+
+  Internet Explorer 9 遵循[元件](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)生命週期原則。
+
+
+products:
+- internet-explorer
+policyType: component
+supportDates:
+  start: 03/15/2011
+releases:
+- version: Original Release
+  startDate: 03/15/2011
+content: "\n## <a name=\"links\"></a>Links \n* [遷移指引](https://www.microsoft.com/itpro/microsoft-edge)\n* [Internet Explorer 生命週期原則常見問題](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> 從2016年1月12日開始，只有可用於支援的作業系統的最新版本的 Internet Explorer 會收到技術支援和安全性更新。"

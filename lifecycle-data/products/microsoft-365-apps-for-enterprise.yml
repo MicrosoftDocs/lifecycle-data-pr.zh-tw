@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft 365 Apps 企業版
+  description: Microsoft 365 應用程式 enterprise 遵循新式生命週期原則。
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 5ba40811a13f29fa2677ddd6dfa56571327df7be
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "849770"
+name: Microsoft 365 Apps 企業版
+summary: >+
+  Microsoft 365 應用程式 enterprise 遵循[新式](/lifecycle/policies/modern)生命週期原則。
+
+
+products:
+- office
+policyType: modern-online
+supportDates:
+  start: 09/22/2015
+releases:
+- version: Original Release
+  startDate: 09/22/2015
+content: "\n## <a name=\"links\"></a>Links \n* [Office 設定支援矩陣](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2OqRI)\n* [系統需求](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources)\n* [服務資訊](/DeployOffice/change-management-for-office-365-clients)\n\n> [!NOTE]\n> 此產品先前命名為 Office 365 ProPlus。"

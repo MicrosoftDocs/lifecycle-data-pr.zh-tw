@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Azure 虛擬機器
+  description: Azure 虛擬機器遵循新式生命週期原則。
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 84ee256cb8f83f04ce94702234a380442fb2e69a
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "849853"
+name: Azure 虛擬機器
+summary: >+
+  Azure 虛擬機器遵循[新式](/lifecycle/policies/modern)生命週期原則。
+
+
+products:
+- azure
+policyType: modern-online
+supportDates:
+  start: 06/07/2012
+releases:
+- version: Original Release
+  startDate: 06/07/2012
+content: "\n## <a name=\"links\"></a>Links \n* [服務資訊](https://support.microsoft.com/help/2721672/microsoft-server-software-support-for-microsoft-azure-virtual-machines)"

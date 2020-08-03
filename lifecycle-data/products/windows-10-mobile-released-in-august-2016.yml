@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows 10 行動電話，2016年8月發行
+  description: Windows 10 移動版，在2016年8月發行會遵循固定生命週期原則。
+  ms.date: 07/28/2020
+  ms.openlocfilehash: b9e0a074c7472ba059b79bac77a05a001e76d8c3
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "849707"
+name: Windows 10 行動電話，2016年8月發行
+summary: >
+  Windows 10 移動版，在2016年8月發行會遵循[固定](/lifecycle/policies/fixed)生命週期原則。
+
+
+
+  > [!IMPORTANT]
+
+  > 已結束對此產品的支援。
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 08/16/2016
+  end: 10/09/2018
+releases:
+- version: Original Release
+  startDate: 08/16/2016
+  endDate: 10/09/2018
+content: "\n## <a name=\"links\"></a>Links \n* [裝置 OS 生命週期常見問題](/lifecycle/faq/device-operating-systems)\n* [Windows 10 行動裝置結束支援，2019年12月10日](/lifecycle/announcements/windows-10-mobile-end-of-support)"
