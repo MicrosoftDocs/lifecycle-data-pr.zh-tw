@@ -1,0 +1,43 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Server
+  description: Windows Server 遵循新式生命週期原則。
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 27a932028448e8fe9d583c1d4169c6818a0224b7
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "868183"
+name: Windows Server
+summary: >+
+  Windows Server 遵循[新式](/lifecycle/policies/modern)生命週期原則。
+
+
+  這適用于下列版本： Datacenter，Standard
+
+products:
+- windows
+policyType: modern-on-prem
+supportDates:
+  start: 10/17/2017
+releases:
+- version: Version 2004
+  startDate: 05/27/2020
+  endDate: 12/14/2021
+- version: Version 1909
+  startDate: 11/12/2019
+  endDate: 05/11/2021
+- version: Version 1903
+  startDate: 05/21/2019
+  endDate: 12/08/2020
+- version: Version 1809
+  startDate: 11/13/2018
+  endDate: 11/10/2020
+- version: Version 1803
+  startDate: 04/30/2018
+  endDate: 11/12/2019
+- version: Version 1709
+  startDate: 10/17/2017
+  endDate: 04/09/2019
+content: "\n## <a name=\"links\"></a>Links \n* [Windows Server 服務通道： LTSC 和 SAC](/windows-server/get-started-19/servicing-channels-19)\n* [生命週期常見問題-Windows 產品](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-windows-10-semi-annual-channels)\n\n> [!NOTE]\n> Windows 10 年10月的更新（版本1809）已于11月13日（2018）重新發行。 已據此調整支援日期。\n\n## <a name=\"editions\"></a>版本 \n* 資料中心\n* 標準"
