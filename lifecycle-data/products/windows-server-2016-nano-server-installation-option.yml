@@ -1,0 +1,29 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Server 2016 Nano Server 安裝選項
+  description: Windows Server 2016 Nano Server 安裝選項遵循新式生命週期原則。
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 6c8189a0fe39fe3ad0b79147e0b2ddbd67e3f799
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "850077"
+name: Windows Server 2016 Nano Server 安裝選項
+summary: >+
+  Windows Server 2016 Nano Server 安裝選項遵循[新式](/lifecycle/policies/modern)生命週期原則。
+
+
+  這適用于下列版本： Datacenter，Standard
+
+products:
+- windows
+policyType: modern-on-prem
+supportDates:
+  start: 10/15/2016
+  end: 10/09/2018
+releases:
+- version: Original Release
+  startDate: 10/15/2016
+  endDate: 10/09/2018
+content: "\n## <a name=\"links\"></a>Links \n* [服務資訊](/windows-server/get-started/nano-in-semi-annual-channel)\n* [生命週期常見問題-Windows 產品](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>版本 \n* 資料中心\n* 標準"

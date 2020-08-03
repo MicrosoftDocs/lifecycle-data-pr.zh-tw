@@ -1,0 +1,38 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Office for Mac 2011
+  description: Microsoft Office for Mac 2011 遵循固定生命週期原則。
+  ms.date: 07/28/2020
+  ms.openlocfilehash: b2469fc1a66c94cb7a3d71ea25595ed2eb4be125
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "849719"
+name: Microsoft Office for Mac 2011
+summary: >+
+  Microsoft Office for Mac 2011 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
+
+
+  這適用于下列版本：「學術」、「家用」和「公司」、「家用和商務家用」（家用和學生）。
+
+products:
+- office
+policyType: fixed-mainstream-only
+supportDates:
+  start: 12/09/2010
+  end: 10/10/2017
+releases:
+- version: Service Pack 3
+  startDate: 01/29/2013
+  endDate: 10/10/2017
+- version: Service Pack 2
+  startDate: 04/12/2012
+  endDate: 04/08/2014
+- version: Service Pack 1
+  startDate: 04/15/2011
+  endDate: 07/09/2013
+- version: Original Release
+  startDate: 12/09/2010
+  endDate: 01/10/2012
+content: "\n## <a name=\"links\"></a>Links \n* [Service pack 原則](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Microsoft Office for Mac 2011 的主流支援已擴充，如下所示，可提供所有客戶使用標準生命週期過渡時程表。\n\n## <a name=\"editions\"></a>版本 \n* 學術\n* 家用和商務\n* 家用和商務家用使用計畫\n* 家用和學生版\n* 標準"

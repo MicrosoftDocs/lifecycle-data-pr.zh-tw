@@ -1,0 +1,24 @@
+### YamlMime:Lifecycle
+metadata:
+  title: 適用于 Mac 的 Outlook 2011
+  description: 適用于 Mac 的 Outlook 2011 遵循固定生命週期原則。
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 61a62fb9ad78ceb10de85cd875d2435072b9c770
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "849679"
+name: 適用于 Mac 的 Outlook 2011
+summary: "適用于 Mac 的 Outlook 2011 遵循[固定](/lifecycle/policies/fixed)生命週期原則。\n\n\n> [!IMPORTANT]\n> 已結束對此產品的支援。 \n"
+products:
+- office
+policyType: fixed-mainstream-only
+supportDates:
+  start: 12/09/2010
+  end: 10/10/2017
+releases:
+- version: Original Release
+  startDate: 12/09/2010
+  endDate: 10/10/2017
+content: "\n\n> [!NOTE]\n> Microsoft Office for Mac 2011 的主流支援已擴充，可提供所有客戶的標準生命週期過渡時程表"

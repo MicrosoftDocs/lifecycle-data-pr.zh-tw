@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows 8
+  description: Windows 8 遵循固定生命週期原則。
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 1204c4097b59cb5449cb8145f06b6d755b3a4d27
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "849866"
+name: Windows 8
+summary: >
+  Windows 8 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
+
+
+  這適用于下列版本： Enterprise、Enterprise N、N、Pro with Media Center、Professional、Professional N
+
+
+  > [!IMPORTANT]
+
+  > 已結束對此產品的支援。 客戶必須更新為 Windows 8.1 才能繼續支援。
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 10/30/2012
+  extendedEnd: 01/12/2016
+releases:
+- version: Original Release
+  startDate: 10/30/2012
+  endDate: 01/12/2016
+content: "\n## <a name=\"links\"></a>Links \n* [生命週期常見問題-Windows 8。1](/lifecycle/faq/windows#windows-81)\n\n\n## <a name=\"editions\"></a>版本 \n* 企業\n* Enterprise N\n* N\n* 具有媒體中心的 Pro\n* 專業\n* 專業版 N"

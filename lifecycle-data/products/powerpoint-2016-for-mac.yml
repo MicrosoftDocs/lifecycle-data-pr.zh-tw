@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Mac 版 PowerPoint 2016
+  description: 適用于 Mac 的 PowerPoint 2016 遵循固定生命週期原則。
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 73500fa1b2c71854c832aec2777d83cbd087d669
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "849875"
+name: Mac 版 PowerPoint 2016
+summary: >+
+  適用于 Mac 的 PowerPoint 2016 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
+
+
+products:
+- office
+policyType: fixed-mainstream-only
+supportDates:
+  start: 09/27/2015
+  end: 10/13/2020
+releases:
+- version: Original Release
+  startDate: 09/27/2015
+  endDate: 10/13/2020
+content: ''

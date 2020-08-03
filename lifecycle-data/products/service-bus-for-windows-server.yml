@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Server 服務匯流排
+  description: Windows Server 服務匯流排遵循元件生命週期原則。
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 1641a04266351d29d8b152c5bc87f62207344b65
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "849827"
+name: Windows Server 服務匯流排
+summary: >
+  Windows Server 服務匯流排遵循[元件](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)生命週期原則。
+
+
+
+  > [!IMPORTANT]
+
+  > 當服務匯流排1.1 是 SharePoint Server 2016 或 SharePoint Server 2013 的元件時，將會根據各自 SharePoint 伺服器版本的支援日期結束，加以支援。
+products:
+- windows
+policyType: component
+supportDates:
+  start: 10/18/2012
+  end: 01/10/2023
+releases:
+- version: Original Release
+  startDate: 10/18/2012
+  endDate: 01/10/2023
+content: ''

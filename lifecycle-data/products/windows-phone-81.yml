@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: 此設定適用於下列類型的裝置：
+  description: Windows Phone 8.1 遵循固定生命週期原則。
+  ms.date: 07/28/2020
+  ms.openlocfilehash: d81cd34117e63701bf48f128d7d3aafdd93ac581
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "849910"
+name: 此設定適用於下列類型的裝置：
+summary: >
+  Windows Phone 8.1 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
+
+
+
+  > [!IMPORTANT]
+
+  > 已結束對此產品的支援。
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 06/24/2014
+  end: 07/11/2017
+releases:
+- version: Original Release
+  startDate: 06/24/2014
+  endDate: 07/11/2017
+content: "\n## <a name=\"links\"></a>Links \n* [Windows Phone 8.1 常見問題](https://support.microsoft.com/help/4036480/windows-phone-8-1-end-of-support-faq)\n\n> [!NOTE]\n> Microsoft 會在生命循環開始日期之後的最少36個月內，對作業系統（包括安全性更新）提供更新。 這些更新將會進行增量備份，每個更新都會在其前面的更新上建立。 客戶必須安裝每個更新，才可繼續支援。 傳播這些增量更新的動作可能是由您購買電話的行動裝置操作員或電話製造商所控制，而安裝需要您的電話有任何先前的更新。 更新可用性也會因國家、地區和硬體功能而異。"
