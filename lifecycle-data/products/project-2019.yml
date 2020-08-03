@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: 專案2019
+  description: 專案2019遵循固定生命週期原則。
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 45a8867c9d0b7cde39aa153cc117dfb17a180dea
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "868138"
+name: 專案2019
+summary: >+
+  專案2019遵循[固定](/lifecycle/policies/fixed)生命週期原則。
+
+
+  這適用于下列版本： Professional，Standard
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 09/24/2018
+  end: 10/10/2023
+  extendedEnd: 10/14/2025
+releases:
+- version: Original Release
+  startDate: 09/24/2018
+  endDate: 10/14/2025
+content: "\n\n\n## <a name=\"editions\"></a>版本 \n* 專業\n* 標準"

@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows 10 Mobile Enterprise，2017年10月發行
+  description: Windows 10 Mobile Enterprise （2017年10月發行）遵循固定生命週期原則。
+  ms.date: 07/28/2020
+  ms.openlocfilehash: eca2b57c1fc69d610cf6f8cf0232c11eccf06ead
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "868117"
+name: Windows 10 Mobile Enterprise，2017年10月發行
+summary: >
+  Windows 10 Mobile Enterprise （2017年10月發行）遵循[固定](/lifecycle/policies/fixed)生命週期原則。
+
+
+
+  > [!IMPORTANT]
+
+  > 已結束對此產品的支援。
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 10/17/2017
+  end: 12/10/2019
+  extendedEnd: 01/14/2020
+releases:
+- version: Original Release
+  startDate: 10/17/2017
+content: "\n## <a name=\"links\"></a>Links \n* [裝置 OS 生命週期常見問題](/lifecycle/faq/device-operating-systems)\n* [Windows 10 行動裝置結束支援，2019年12月10日](/lifecycle/announcements/windows-10-mobile-end-of-support)"
