@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows XP 共用電腦工具套件1。0
+  description: Windows XP 共用電腦工具套件1.0 遵循元件生命週期原則。
+  ms.date: 07/28/2020
+  ms.openlocfilehash: cda86dcb795ef79a185306ce5bc5517397457e53
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "807670"
+name: Windows XP 共用電腦工具套件1。0
+summary: >+
+  Windows XP 共用電腦工具套件1.0 遵循[元件](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)生命週期原則。
+
+
+products:
+- windows
+policyType: component
+supportDates:
+  start: 08/24/2005
+  end: 01/10/2012
+releases:
+- version: Original Release
+  startDate: 08/24/2005
+  endDate: 01/10/2012
+content: ''
