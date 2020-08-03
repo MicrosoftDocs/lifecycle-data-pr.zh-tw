@@ -1,0 +1,32 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft .NET 微架構移植套件3。0
+  description: Microsoft .NET 微架構移植套件3.0 遵循固定生命週期原則。
+  ms.date: 07/28/2020
+  ms.openlocfilehash: bceaa4d262839239519b3ea3244f762d88982921
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "807808"
+name: Microsoft .NET 微架構移植套件3。0
+summary: >
+  Microsoft .NET 微架構移植套件3.0 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
+
+
+
+  > [!IMPORTANT]
+
+  > 已結束對此產品的支援。
+products:
+- dotnet
+policyType: fixed
+supportDates:
+  start: 01/25/2009
+  end: 04/08/2014
+  extendedEnd: 07/11/2017
+releases:
+- version: Original Release
+  startDate: 01/25/2009
+  endDate: 07/11/2017
+content: ''
