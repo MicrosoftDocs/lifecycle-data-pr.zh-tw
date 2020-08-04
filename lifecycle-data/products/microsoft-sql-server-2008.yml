@@ -2,19 +2,19 @@
 metadata:
   title: Microsoft SQL Server 2008
   description: Microsoft SQL Server 2008 遵循固定生命週期原則。
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 8dd6dece999e9bea86eb5b4172ae47f925fa2772
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 08/03/2020
+  ms.openlocfilehash: 15d47cb19d68d2ebb70659d43f7341eba2db1663
+  ms.sourcegitcommit: ea5579a833360652f47792f68134e2b25be4d487
   ms.translationtype: MT
   ms.contentlocale: zh-TW
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "807408"
+  ms.lasthandoff: 08/04/2020
+  ms.locfileid: "882206"
 name: Microsoft SQL Server 2008
 summary: >
   Microsoft SQL Server 2008 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
 
 
-  這適用于下列版本：開發人員、Enterprise、Express、Express Services、Standard、Small Business Standard Edition、Web、Workgroup
+  這適用于下列版本： Datacenter，Developer，Enterprise，Express，Express Services，Standard，Standard，Standard Edition for Small Business，Web，Workgroup
 
 
   > [!IMPORTANT]
@@ -43,4 +43,4 @@ releases:
 - version: Original Release
   startDate: 11/06/2008
   endDate: 04/13/2010
-content: "> [!TIP]\n> 延伸安全性更新（ESU）適用于本產品的資料中心、Standard、Enterprise、Web、Workgroup 和 Embedded 版本，最多可超過支援終止的3年。\n\n## <a name=\"links\"></a>Links \n* [擴充的安全性更新程式（ESU）](/lifecycle/faq/extended-security-updates)\n* [SQL 發行服務博客](https://blogs.msdn.com/b/sqlreleaseservices/archive/2014/09/26/sql-server-2008-r2-service-pack-3-has-released.aspx)\n* [遷移指引](https://azure.microsoft.com/blog/announcing-new-options-for-sql-server-2008-and-windows-server-2008-end-of-support/)\n* [Service pack 原則](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> 僅限 IA64，除非7/9/2019，否則會支援 SP3。\n\n## <a name=\"editions\"></a>版本 \n* Developer\n* 企業\n* 表達\n* 使用高級服務 Express\n* 標準\n* 適用于小型企業的 Standard Edition\n* 網頁\n* 工作組"
+content: "> [!TIP]\n> 本產品的資料中心、Standard、Enterprise、Web 和 Workgroup 版本可使用擴充的安全性更新（ESU），最多可超過支援終止後的3年。\n版本-------------------------------開始日期----結束日期\n\n擴充安全性更新第3年---07/13/2021---07/12/2022\n\n延伸安全性更新第2年---07/14/2021---07/13/2021\n\n擴充安全性更新第1年---07/9/2019---07/14/2020\n\n\n## <a name=\"links\"></a>Links \n* [遷移指引](https://azure.microsoft.com/blog/announcing-new-options-for-sql-server-2008-and-windows-server-2008-end-of-support/)\n* [Service pack 原則](/lifecycle/policies/fixed#service-packs)\n* [擴充的安全性更新程式（ESU）](/lifecycle/faq/extended-security-updates)\n* [SQL 發行服務博客](https://blogs.msdn.com/b/sqlreleaseservices/archive/2014/09/26/sql-server-2008-r2-service-pack-3-has-released.aspx)\n\n> [!NOTE]\n> 僅限 IA64，除非7/9/2019，否則會支援 SP3。\n\n## <a name=\"editions\"></a>版本 \n* 資料中心\n* Developer\n* 企業\n* 表達\n* 使用高級服務 Express\n* 標準\n* 適用于小型企業的 Standard Edition\n* 網頁\n* 工作組"
