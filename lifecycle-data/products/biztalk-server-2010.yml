@@ -2,19 +2,19 @@
 metadata:
   title: BizTalk Server 2010
   description: BizTalk Server 2010 遵循固定生命週期原則。
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 0e1ec4100c78330ba53becb9c910129cf0f2602c
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 08/06/2020
+  ms.openlocfilehash: 95ff78ba6073c8bc72f1f20e188a98747e4acf75
+  ms.sourcegitcommit: 87091f3fdb147e1254e631d31a0f7baeda61a424
   ms.translationtype: MT
   ms.contentlocale: zh-TW
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "807717"
+  ms.lasthandoff: 08/06/2020
+  ms.locfileid: "885101"
 name: BizTalk Server 2010
 summary: >+
   BizTalk Server 2010 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
 
 
-  這適用于下列版本： Branch、Developer、Enterprise、Standard
+  這適用于下列版本： Branch、Developer、Enterprise、Enterprise RFID、Standard
 
 products:
 - microsoft-servers
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 11/14/2010
   endDate: 01/12/2021
-content: "\n## <a name=\"links\"></a>Links \n* [遷移指引](/biztalk/install-and-config-guides/upgrade-to-biztalk-server-2020)\n* [版本資訊](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n\n\n## <a name=\"editions\"></a>版本 \n* 分公司\n* Developer\n* 企業\n* 標準"
+content: "\n## <a name=\"links\"></a>Links \n* [遷移指引](/biztalk/install-and-config-guides/upgrade-to-biztalk-server-2020)\n* [版本資訊](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n\n\n## <a name=\"editions\"></a>版本 \n* 分公司\n* Developer\n* 企業\n* Enterprise RFID\n* 標準"
