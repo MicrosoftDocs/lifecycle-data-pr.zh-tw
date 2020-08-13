@@ -2,13 +2,13 @@
 metadata:
   title: Microsoft BizTalk 主機系統2.0 的配接器
   description: 主機系統2.0 的 Microsoft BizTalk 配接器遵循固定生命週期原則。
-  ms.date: 07/28/2020
-  ms.openlocfilehash: f80e0cf76eebd3d54f478080a80929cb15778886
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 08/12/2020
+  ms.openlocfilehash: 425db6cb5918efdf9afc544d8a0e8bb554ce695c
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
   ms.translationtype: MT
   ms.contentlocale: zh-TW
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "807499"
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "893489"
 name: Microsoft BizTalk 主機系統2.0 的配接器
 summary: >+
   主機系統2.0 的 Microsoft BizTalk 配接器遵循[固定](/lifecycle/policies/fixed)生命週期原則。
