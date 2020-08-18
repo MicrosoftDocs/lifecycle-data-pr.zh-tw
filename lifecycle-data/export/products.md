@@ -1,27 +1,27 @@
 ---
-title: 匯出產品
+title: 生命週期資料匯出
 description: 匯出產品生命週期資訊
-ms.date: 08/17/2020
-ms.openlocfilehash: 01a34995c0dd1fc9fb0c5f75c4460357e091ccce
-ms.sourcegitcommit: 7479dd5eeb9cabdd9c8ad4f401261cbc4d7c6e27
+ms.date: 08/18/2020
+ms.openlocfilehash: 80145edf59e6406d32292d846ae3f263cddd294a
+ms.sourcegitcommit: 6bed901441570ef084842edd1b7e5dfbc192c99a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "899793"
+ms.lasthandoff: 08/18/2020
+ms.locfileid: "902393"
 ---
-# <a name="export"></a>匯出
+# <a name="lifecycle-data-export"></a>生命週期資料匯出
 
 > [!IMPORTANT]
 > 此頁面正在開發中。
 
 ## <a name="export-all-products"></a>匯出所有產品
-匯出所有不含任何篩選器的產品。
+按一下下列專案，以匯出所有產品的生命週期資料：
 
 > [!div class="nextstepaction"]
 > [匯出所有產品](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
 
-## <a name="export-products-by-category"></a>依類別匯出產品
-選取要匯出的群組：
+## <a name="export-products-by-family-and-group"></a>依系列和群組匯出產品
+選取系列，然後選取要匯出的群組。 附注：選取 [群組值時，就會開始匯出]。 
 
 > [!div class="op_multi_selector" title1="家庭" title2="Group"]
 > - [ ( .NET |所有) ](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'.NET')
@@ -80,8 +80,8 @@ ms.locfileid: "899793"
 > - [ (Windows |安全性) ](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Security')
 > - [ (Windows |伺服器) ](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Server')
 
-## <a name="export-products-by-end-of-support-year"></a>支援年結束時匯出產品
-選取一年來匯出產品終止服務的年：
+## <a name="export-products-by-end-of-support-date"></a>在支援日期之後匯出產品
+選取 [一年]，以查看產品是否到達支援終止。 附注：選取 [年份] 值時，就會開始匯出。
 
 > [!div class="op_single_selector"]
 > - [2002](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2002))
