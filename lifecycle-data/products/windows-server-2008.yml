@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: cb16ce7326c75c0c560a1b8a0078d03656d58c21
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "807673"
@@ -14,12 +14,12 @@ summary: >
   Windows Server 2008 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
 
 
-  這適用于下列版本： Datacenter、Datacenter （無 Hyper-V，Enterprise，Hyper-V Enterprise），適用于 Itanium-Based 系統，Foundation，Standard，Standard，不 Hyper-V，Web
+  本文適用於下列版本：Datacenter、Datacenter (不含 Hyper-V)、Enterprise、Enterprise (不含 Hyper-V)、適用於 Itanium 型系統、Foundation, Standard、Standard (不含 Hyper-V)、Web
 
 
   > [!IMPORTANT]
 
-  > 已結束對此產品的支援。 請參閱下列遷移指南。
+  > 此產品的支援已終止。 請參閱下面的移轉指引。
 products:
 - windows
 policyType: fixed
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 05/06/2008
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>Links \n* [遷移指引](https://aka.ms/AA1ovn4)\n* [伺服器升級資訊](/windows-server/upgrade/upgrade-overview)\n* [擴充的安全性更新程式（ESU）](/lifecycle/faq/extended-security-updates)\n* [Service pack 原則](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> 延伸安全性更新（ESU）可透過此產品版本的資料中心、Standard、Enterprise 和 Embedded 版本的特定大量授權方案取得，最多可超過支援終止後的3年。 請與您的 Microsoft 合作夥伴或客戶小組聯繫以深入瞭解。 \n\n版本-------------------------------開始日期----結束日期\n\n擴充安全性更新第3年---01/11/2022---01/10/2023\n\n延伸安全性更新第2年---01/12/2021---01/11/2022\n\n擴充安全性更新第1年---01/14/2020---01/12/2021\n> [!NOTE]\n> Windows Server 2008 Foundation 發行于5月21日，2009\n\n## <a name=\"editions\"></a>版本 \n* 資料中心\n* 不含 Hyper-V 的資料中心\n* 企業\n* 不含 Hyper-V 的企業\n* Itanium-Based 系統\n* 基礎\n* 標準\n* 不含 Hyper-V 的標準\n* 網頁"
+content: "\n## <a name=\"links\"></a>連結 \n* [移轉指引](https://aka.ms/AA1ovn4)\n* [伺服器升級資訊](/windows-server/upgrade/upgrade-overview)\n* [延伸安全性更新方案 (ESU)](/lifecycle/faq/extended-security-updates)\n* [Service Pack 原則](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> 本產品的 Datacenter、Standard、Enterprise 及 Embedded 版本可透過特定大量授權方案取得延伸安全性更新 (ESU)，結束支援後最多還可使用三年。 請連絡您的 Microsoft 合作夥伴或帳戶小組以深入了解。 \n\n版本-------------------------------開始日期----結束日期\n\n延伸安全性更新第 3 年---2022/01/11---2023/01/10\n\n延伸安全性更新第 2 年---2021/01/12---2022/01/11\n\n延伸安全性更新第 1 年---2020/01/14---2021/01/12\n> [!NOTE]\n> Windows Server 2008 Foundation 已於 2009 年 5 月 21 日發行。\n\n## <a name=\"editions\"></a>版本 \n* Datacenter\n* Datacenter (不含 Hyper-V)\n* Enterprise\n* Enterprise (不含 Hyper-V)\n* 適用於 Itanium 型系統\n* Foundation\n* 標準版\n* Standard (不含 Hyper-V)\n* 網址"

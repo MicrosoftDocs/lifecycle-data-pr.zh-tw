@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: d4fd2bce3e032cdc468570a458c8f10c60ff9170
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "806948"
@@ -14,12 +14,12 @@ summary: >
   Windows XP 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
 
 
-  這適用于下列版本：家用，Professional，Professional for Embedded Systems，Starter
+  本文適用於下列版本：Home、Professional、Professional for Embedded Systems、Starter
 
 
   > [!IMPORTANT]
 
-  > 已結束對此產品的支援。 請參閱下列遷移指南。
+  > 此產品的支援已終止。 請參閱下面的移轉指引。
 products:
 - windows
 policyType: fixed
@@ -43,4 +43,4 @@ releases:
 - version: Original Release
   startDate: 12/31/2001
   endDate: 08/30/2005
-content: "\n## <a name=\"links\"></a>Links \n* [遷移指引](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Service pack 原則](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>版本 \n* 首頁\n* 專業\n* 內嵌系統的專業人員\n* 起 動 器"
+content: "\n## <a name=\"links\"></a>連結 \n* [移轉指引](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Service Pack 原則](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>版本 \n* Home\n* Professional\n* 適用於內嵌系統的專業版\n* Starter"

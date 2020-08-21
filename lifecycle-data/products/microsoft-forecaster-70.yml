@@ -1,15 +1,15 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Forecaster 7。0
+  title: Microsoft Forecaster 7.0
   description: Microsoft Forecaster 7.0 遵循固定生命週期原則。
   ms.date: 07/28/2020
   ms.openlocfilehash: e9af608bbdf2d19517b58ebe46d545b09078be8d
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "807451"
-name: Microsoft Forecaster 7。0
+name: Microsoft Forecaster 7.0
 summary: >+
   Microsoft Forecaster 7.0 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
 
@@ -40,4 +40,4 @@ releases:
 - version: Original Release
   startDate: 05/30/2007
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Links \n* [遷移指引](https://mbs.microsoft.com/customersource/northamerica/news-events/news-events/news/ForecasterDiscontinuationNoticeGP)\n* [Service pack 原則](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Forecaster 支援結束日期表示，除非散佈為 Dynamics 產品的元件。 當以 Dynamics 產品發佈時，Dynamics 週期日期會覆寫 Forecaster 日期。"
+content: "\n## <a name=\"links\"></a>連結 \n* [移轉指引](https://mbs.microsoft.com/customersource/northamerica/news-events/news-events/news/ForecasterDiscontinuationNoticeGP)\n* [Service Pack 原則](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> 如果不是以 Dynamics 產品的元件進行散發，Forecaster 會在指定的日期結束支援。 隨 Dynamics 產品一起散發時，Dynamics 生命週期日期將取代 Forecaster 的日期。"

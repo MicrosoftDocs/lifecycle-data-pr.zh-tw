@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 4300bd472c7f836c9d93e7f7e3da2005da410bac
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "849869"
@@ -14,7 +14,7 @@ summary: >+
   Visual Studio 2015 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
 
 
-  這適用于下列版本：代理人、社區、Enterprise、Express for Web、Express for Windows 10、Express for Windows Desktop、模型 SDK、專業、版本管理、遠端工具、SDK、命令介面（整合式）、命令介面（獨立）、測試專業程式、Visual c + + 可再發行專案
+  本文適用於下列版本：Agents、Community、Enterprise、Express for Web、Express for Windows 10、Express for Windows Desktop、Modeling SDK、Professional、Release Management、Remote Tools、SDK、Shell (整合模式)、Shell (獨立模式)、Test Professional、Visual C++ 可轉散發套件
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 07/20/2015
   endDate: 10/14/2025
-content: "\n## <a name=\"links\"></a>Links \n* [服務資訊](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>版本 \n* 代理\n* 社群\n* 企業\n* Web Express\n* Windows 10 版 Express\n* Windows Desktop Express\n* 模型 SDK\n* 專業\n* 版本管理\n* 遠端工具\n* Sdk\n* 命令介面（整合式）\n* 命令介面（獨立的）\n* 測試專業人員\n* Visual c + + 可再發行"
+content: "\n## <a name=\"links\"></a>連結 \n* [服務資訊](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>版本 \n* Agents\n* Community\n* Enterprise\n* Express for Web\n* Express for Windows 10\n* Express for Windows Desktop\n* Modeling SDK\n* Professional\n* Release Management\n* 遠端工具\n* SDK\n* Shell (整合模式)\n* Shell (獨立模式)\n* Test Professional\n* Visual C++ 可轉散發套件"

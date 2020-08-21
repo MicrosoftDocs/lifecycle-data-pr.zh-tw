@@ -5,12 +5,12 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: a1b1b370fe7d15abae83da62603b4522ea79a307
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "806807"
-name: Windows 7
-summary: "Windows 7 遵循[固定](/lifecycle/policies/fixed)生命週期原則。\n\n這適用于下列版本： Enterprise、Enterprise N、Home Basic、Home Premium、Home Premium N、Professional、Professional for Embedded Systems、Professional N、Starter、Starter N、終極、終極的內嵌式系統，終極 N\n\n> [!IMPORTANT]\n> 已結束對此產品的支援。 請參閱下列遷移指南。 \n"
+name: Windows 7
+summary: "Windows 7 遵循[固定](/lifecycle/policies/fixed)生命週期原則。\n\n本文適用於下列版本：企業版、企業版 N、家用入門版、家用進階版、 家用進階版 N、專業版、適用於內嵌系統的專業版、專業版 N、簡易版、簡易版 N、旗艦版、適用於內嵌系統的旗艦版、 旗艦版 N\n\n> [!IMPORTANT]\n> 此產品的支援已終止。 請參閱下面的移轉指引。 \n"
 products:
 - windows
 policyType: fixed
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 10/22/2009
   endDate: 04/09/2013
-content: "> [!TIP]\n> ' * 擴充的安全性更新（ESU）可透過特定大量授權程式（適用于本產品的內嵌式系統版本）和專業人員，在超過支援的最後一年內。 請與您的 Microsoft 合作夥伴或客戶小組聯繫以深入瞭解。 \n\n## <a name=\"links\"></a>Links \n* [遷移指引](https://support.microsoft.com/help/4057281)\n* [從 Windows 7 升級到 Windows 10](/microsoft-365/enterprise/desktop-deployment-center-home?view=o365-worldwide)\n* [擴充的安全性更新程式（ESU）](/lifecycle/faq/extended-security-updates)\n* [Service pack 原則](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>版本 \n* 企業\n* Enterprise N\n* 家用基本版\n* 家用精品\n* 住宅精品 N\n* 專業\n* 內嵌系統的專業人員\n* 專業版 N\n* 起 動 器\n* Starter N\n* 最終\n* 內嵌系統的極致\n* 終極 N"
+content: "> [!TIP]\n> '* 本產品的 Windows 7 專業版、企業版及適用於內嵌系統的專業版可透過特定大量授權方案取得延伸安全性更新 (ESU)，結束支援後最多還可使用三年。 請連絡您的 Microsoft 合作夥伴或帳戶小組以深入了解。 \n\n## <a name=\"links\"></a>連結 \n* [移轉指引](https://support.microsoft.com/help/4057281)\n* [從 Windows 7 升級到 Windows 10](/microsoft-365/enterprise/desktop-deployment-center-home?view=o365-worldwide)\n* [延伸安全性更新方案 (ESU)](/lifecycle/faq/extended-security-updates)\n* [Service Pack 原則](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>版本 \n* Enterprise\n* 企業版 N\n* Home Basic\n* Home Premium\n* 家用進階版 N\n* Professional\n* 適用於內嵌系統的專業版\n* 專業版 N\n* Starter\n* 簡易版 N\n* Ultimate\n* 適用於內嵌系統的旗艦版\n* 旗艦版 N"

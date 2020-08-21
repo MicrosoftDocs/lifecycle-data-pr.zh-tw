@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 5fcd64fc253504e9ffb8db1c34a0597cc550b12b
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "806785"
@@ -14,12 +14,12 @@ summary: >
   Windows Storage Server 2008 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
 
 
-  這適用于下列的版本： Basic、Basic 32 Bit、Basic 64 bit、Basic Embedded、Basic Embedded 32 Bit、Enterprise、Enterprise Embedded，Standard，Standard Embedded，Workgroup。 Embedded，Workgroup
+  本文適用於下列版本：Basic、Basic 32 位元、Basic 64 位元、Basic Embedded、Basic Embedded 32 位元、Enterprise、Enterprise Embedded、Standard、Standard Embedded、Workgroup
 
 
   > [!IMPORTANT]
 
-  > 本產品已到達支援終止。 請參閱下列遷移指南。
+  > 此產品已經終止支援。 請參閱下面的移轉指導方針。
 products:
 - windows
 policyType: fixed
@@ -34,4 +34,4 @@ releases:
 - version: Service Pack 2
   startDate: 07/19/2009
   endDate: 01/14/2020
-content: "\n## <a name=\"links\"></a>Links \n* [遷移指引](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n* [伺服器升級資訊](/windows-server/upgrade/upgrade-overview)\n\n\n## <a name=\"editions\"></a>版本 \n* 基本\n* 基本32位\n* 基本64位\n* 基本嵌入\n* 基本內嵌32位\n* 企業\n* 內嵌的企業\n* 標準\n* 標準內嵌\n* 工作組"
+content: "\n## <a name=\"links\"></a>連結 \n* [移轉指引](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n* [伺服器升級資訊](/windows-server/upgrade/upgrade-overview)\n\n\n## <a name=\"editions\"></a>版本 \n* Basic\n* Basic 32 位元\n* Basic 64 位元\n* Basic Embedded\n* Basic Embedded 32 位元\n* Enterprise\n* Enterprise Embedded\n* 標準版\n* Standard Embedded\n* Workgroup"

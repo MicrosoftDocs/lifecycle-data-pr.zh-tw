@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: cffcc1c2bb51fc5023fe6ad29d62132141ffedb2
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "850049"
@@ -17,7 +17,7 @@ summary: >
 
   > [!IMPORTANT]
 
-  > 已結束對此產品的支援。 請參閱下列遷移指南。
+  > 此產品的支援已終止。 請參閱下面的移轉指引。
 products:
 - msc
 policyType: fixed
@@ -29,4 +29,4 @@ releases:
 - version: Original Release
   startDate: 12/19/2010
   endDate: 07/09/2019
-content: "\n## <a name=\"links\"></a>Links \n* [遷移指引](/mem/configmgr/core/migration/migrate-data-between-hierarchies)\n* [其他遷移指引](/mem/configmgr/core/migration/planning-for-migration)"
+content: "\n## <a name=\"links\"></a>連結 \n* [移轉指引](/mem/configmgr/core/migration/migrate-data-between-hierarchies)\n* [其他移轉指導方針](/mem/configmgr/core/migration/planning-for-migration)"

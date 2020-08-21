@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 71adef7342f1471a67bd170430b3470dc6ea1a87
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "806844"
@@ -14,7 +14,7 @@ summary: >+
   Microsoft SharePoint Server 2010 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
 
 
-  這適用于下列版本： Access Services、所有適用的 Excel Services、效能點服務
+  本文適用於下列版本：Access Services、所有適用者、Excel Service、Performance Point Services
 
 products:
 - office
@@ -33,4 +33,4 @@ releases:
 - version: Original Release
   startDate: 07/15/2010
   endDate: 07/10/2012
-content: "\n## <a name=\"links\"></a>Links \n* [支援分機](https://aka.ms/SharePoint/server/2010/supportextension)\n* [遷移指引](/office365/enterprise/upgrade-from-sharepoint-2010)\n\n> [!NOTE]\n> 這項產品的支援日期已從2020年10月13日到年4月 13 2021 日的版本擴充。\n\n## <a name=\"editions\"></a>版本 \n* Access Services\n* 所有適用\n* Excel Services\n* Performance Point Services"
+content: "\n## <a name=\"links\"></a>連結 \n* [支援延伸](https://aka.ms/SharePoint/server/2010/supportextension)\n* [移轉指引](/office365/enterprise/upgrade-from-sharepoint-2010)\n\n> [!NOTE]\n> 該產品的支持終止日期已從2020年10月13日延長至2021年4月13日。\n\n## <a name=\"editions\"></a>版本 \n* Access Services\n* 所有適用者\n* Excel Services\n* Performance Point Services"

@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: FAST Search Server 2010 （適用于 SharePoint，適用于 SharePoint 網際網路網站）
-  description: FAST Search Server 2010 （適用于 SharePoint 網際網路網站的 SharePoint）遵循固定生命週期原則。
+  title: FAST Search Server 2010 (適用於 SharePoint、適用於 SharePoint Internet Sites)
+  description: FAST Search Server 2010 (適用於 SharePoint、適用於 SharePoint Internet Sites) 遵循固定生命週期原則。
   ms.date: 07/28/2020
   ms.openlocfilehash: 2a2c66a5a5e5b2ffc3fbbf82d4a96803e06ee2e5
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "807565"
-name: FAST Search Server 2010 （適用于 SharePoint，適用于 SharePoint 網際網路網站）
+name: FAST Search Server 2010 (適用於 SharePoint、適用於 SharePoint Internet Sites)
 summary: >+
-  FAST Search Server 2010 （適用于 SharePoint 網際網路網站的 SharePoint）遵循[固定](/lifecycle/policies/fixed)生命週期原則。
+  FAST Search Server 2010 (適用於 SharePoint、適用於 SharePoint Internet Sites) 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
 
 
-  這適用于下列版本：針對 SharePoint，適用于 SharePoint 網際網路網站
+  本文適用於下列版本：適用於 SharePoint、適用於 SharePoint Internet Sites
 
 products:
 - office
@@ -33,4 +33,4 @@ releases:
 - version: Original Release
   startDate: 06/16/2010
   endDate: 07/10/2012
-content: "\n## <a name=\"links\"></a>Links \n* [遷移指引](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101711)\n* [Service pack 原則](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> 排除先前取消支援的版本。 本產品的支援取決於其購買條款。\n\n## <a name=\"editions\"></a>版本 \n* SharePoint\n* SharePoint 網際網路網站"
+content: "\n## <a name=\"links\"></a>連結 \n* [移轉指引](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101711)\n* [Service Pack 原則](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> 不包括先前已不支援的版本。 對本產品的支援受其取得條款所約束。\n\n## <a name=\"editions\"></a>版本 \n* 適用於 SharePoint\n* 適用於 SharePoint Internet Sites"

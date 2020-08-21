@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows 10 IoT 2015 LTSB
-  description: Windows 10 IoT 2015 LTSB 採用固定生命週期原則。
+  description: Windows 10 IoT 2015 LTSB 遵循固定生命週期原則。
   ms.date: 07/28/2020
   ms.openlocfilehash: 68cfcc967eb5a79d7d1cfffcf2419560d6e993bb
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "849662"
 name: Windows 10 IoT 2015 LTSB
 summary: >+
-  Windows 10 IoT 2015 LTSB 採用[固定](/lifecycle/policies/fixed)生命週期原則。
+  Windows 10 IoT 2015 LTSB 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
 
 
-  這適用于下列版本： Enterprise
+  本文適用於下列版本：Enterprise
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 07/29/2015
   endDate: 10/14/2025
-content: "\n## <a name=\"links\"></a>Links \n* [Windows 即服務（WaaS）](/windows/deployment/update/waas-quick-start)\n* [Windows 10 LTSC 常見問題](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-the-windows-10-long-term-servicing-channel)\n* [Windows 10 年10月更新（版本1809）重新發行](https://blogs.windows.com/windowsexperience/2018/11/13/resuming-the-rollout-of-the-windows-10-october-2018-update/)\n\n\n## <a name=\"editions\"></a>版本 \n* 企業"
+content: "\n## <a name=\"links\"></a>連結 \n* [Windows 即服務 (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Windows 10 LTSC 常見問題集](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-the-windows-10-long-term-servicing-channel)\n* [Windows 10 十月更新 (1809 版) 重新發行](https://blogs.windows.com/windowsexperience/2018/11/13/resuming-the-rollout-of-the-windows-10-october-2018-update/)\n\n\n## <a name=\"editions\"></a>版本 \n* Enterprise"

@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 28647cde233349efc4b33be28393ce0916020c33
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "849986"
@@ -14,12 +14,12 @@ summary: >
   Windows Storage Server 2008 R2 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
 
 
-  這適用于下列版本： Essentials，Standard
+  本文適用於下列版本：Essentials，Standard
 
 
   > [!IMPORTANT]
 
-  > 已結束對此產品的支援。 請參閱下列遷移指南。
+  > 此產品的支援已終止。 請參閱下面的移轉指引。
 products:
 - windows
 policyType: fixed
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 12/20/2010
   endDate: 04/09/2013
-content: "\n## <a name=\"links\"></a>Links \n* [支援資訊的結尾](https://support.microsoft.com/help/4456235/end-of-support-for-windows-server-2008-and-windows-server-2008-r2)\n* [遷移指引](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n* [延伸安全性更新常見問題](/lifecycle/faq/extended-security-updates)\n* [伺服器升級資訊](/windows-server/upgrade/upgrade-overview)\n\n> [!NOTE]\n> Essentials edition 發行于2011年6月28日。\n\n## <a name=\"editions\"></a>版本 \n* Essentials\n* 標準"
+content: "\n## <a name=\"links\"></a>連結 \n* [結束支援資訊](https://support.microsoft.com/help/4456235/end-of-support-for-windows-server-2008-and-windows-server-2008-r2)\n* [移轉指引](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n* [延伸安全性更新常見問題集](/lifecycle/faq/extended-security-updates)\n* [伺服器升級資訊](/windows-server/upgrade/upgrade-overview)\n\n> [!NOTE]\n> Essentials 版已於 2011 年 6 月 28 日發行。\n\n## <a name=\"editions\"></a>版本 \n* Essentials\n* 標準版"

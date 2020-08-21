@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 831df2c41a088376f7cb34fb117163dc45ade4ed
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "849833"
@@ -14,7 +14,7 @@ summary: >+
   Microsoft System Center 2012 Endpoint Protection 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
 
 
-  這適用于下列版本： for Mac
+  本文適用於下列版本：Mac 版
 
 products:
 - msc
@@ -33,4 +33,4 @@ releases:
 - version: Original Release
   startDate: 05/30/2012
   endDate: 01/14/2014
-content: "\n## <a name=\"links\"></a>Links \n* [服務資訊](https://techcommunity.microsoft.com/t5/Configuration-Manager-Archive/Anti-malware-Platform-Support/ba-p/274186)\n* [遷移指引](https://techcommunity.microsoft.com/t5/Configuration-Manager-Blog/End-of-Support-for-SCEP-for-Mac-and-SCEP-for-Linux-on-December/ba-p/286257)\n* [Service pack 原則](/lifecycle/policies/fixed#service-packs)\n* [System Center 檔](/system-center/#pivot=components&panel=components-all)\n\n> [!NOTE]\n> 客戶必須保持最新的反惡意程式碼平臺更新，才可完全支援。\n\n## <a name=\"editions\"></a>版本 \n* Mac 版"
+content: "\n## <a name=\"links\"></a>連結 \n* [服務資訊](https://techcommunity.microsoft.com/t5/Configuration-Manager-Archive/Anti-malware-Platform-Support/ba-p/274186)\n* [移轉指引](https://techcommunity.microsoft.com/t5/Configuration-Manager-Blog/End-of-Support-for-SCEP-for-Mac-and-SCEP-for-Linux-on-December/ba-p/286257)\n* [Service Pack 原則](/lifecycle/policies/fixed#service-packs)\n* [System Center 文件](/system-center/#pivot=components&panel=components-all)\n\n> [!NOTE]\n> 客戶必須保持使用最新的反惡意程式碼平台更新，才能獲得充分支援。\n\n## <a name=\"editions\"></a>版本 \n* for Mac"
