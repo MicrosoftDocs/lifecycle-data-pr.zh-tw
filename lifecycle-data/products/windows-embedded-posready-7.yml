@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 61f2ed95175d81f6e33f8435e70b3b45a01094f5
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "849991"
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 09/10/2011
   endDate: 10/12/2021
-content: "\n## <a name=\"links\"></a>Links \n* [* 擴充的安全性更新程式（ESU）-透過 Oem 可取得選取內嵌產品的延伸安全性更新。](/lifecycle/faq/extended-security-updates)\n* [Windows IoT 內嵌模式](/windows/iot-core/develop-your-app/embeddedmode)"
+content: "\n## <a name=\"links\"></a>連結 \n* [* 延伸安全性更新方案 (ESU) - 特選 Embedded 產品的延伸安全性更新可透過 OEM 取得。](/lifecycle/faq/extended-security-updates)\n* [Windows IoT Embedded 模式](/windows/iot-core/develop-your-app/embeddedmode)"

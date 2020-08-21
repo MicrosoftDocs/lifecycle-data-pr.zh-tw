@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 2e4b6119250a574a9526e74a7ccea090e02ed61d
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "807318"
@@ -14,7 +14,7 @@ summary: >+
   Windows Embedded Standard 7 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
 
 
-  這適用于下列版本： Standard
+  本文適用於下列版本：標準版
 
 products:
 - windows
@@ -39,4 +39,4 @@ releases:
 - version: Original Release
   startDate: 07/29/2010
   endDate: 04/09/2013
-content: "\n## <a name=\"links\"></a>Links \n* [* 擴充的安全性更新程式（ESU）-透過 Oem 可取得選取內嵌產品的延伸安全性更新](/lifecycle/faq/extended-security-updates)\n* [遷移指引](https://support.microsoft.com/help/4057281)\n* [Service pack 原則](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> ' * 擴充的安全性更新（ESU）適用于 Windows Embedded Standard 7，最多可超過從 Oem 的支援結束後的3年。 請與您的 Microsoft 合作夥伴或客戶小組聯繫以深入瞭解。\n\n## <a name=\"editions\"></a>版本 \n* 標準"
+content: "\n## <a name=\"links\"></a>連結 \n* [* 延伸安全性更新方案 (ESU) - 特選內嵌產品的延伸安全更新可透過 OEM 取得。](/lifecycle/faq/extended-security-updates)\n* [移轉指引](https://support.microsoft.com/help/4057281)\n* [Service Pack 原則](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> '*延伸安全性更新 (ESU) 可透過 OEM 提供 Windows Embedded Standard 7 使用，結束支援後最多還可使用三年。 請連絡您的 Microsoft 合作夥伴或帳戶小組以深入了解。\n\n## <a name=\"editions\"></a>版本 \n* 標準版"

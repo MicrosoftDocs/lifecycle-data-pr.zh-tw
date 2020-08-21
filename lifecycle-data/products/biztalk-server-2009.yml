@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 89280d62397e3c5dbfaaf332c7f8618eb2713d0d
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "807719"
@@ -14,12 +14,12 @@ summary: >
   BizTalk Server 2009 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
 
 
-  這適用于下列版本： Branch、Developer、Enterprise、Standard
+  本文適用於下列版本：Branch，Developer，Enterprise，Standard
 
 
   > [!IMPORTANT]
 
-  > 已結束對此產品的支援。 請參閱下列遷移指南。
+  > 此產品的支援已終止。 請參閱下面的移轉指引。
 products:
 - microsoft-servers
 policyType: fixed
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 06/21/2009
   endDate: 07/09/2019
-content: "\n## <a name=\"links\"></a>Links \n* [遷移指引](/biztalk/install-and-config-guides/upgrade-to-biztalk-server-2020)\n* [版本資訊](https://social.technet.microsoft.com/wiki/contents/articles/18709.biztalk-server-product-lifecycle.aspx)\n* [Service pack 原則](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>版本 \n* 分公司\n* Developer\n* 企業\n* 標準"
+content: "\n## <a name=\"links\"></a>連結 \n* [移轉指引](/biztalk/install-and-config-guides/upgrade-to-biztalk-server-2020)\n* [版本資訊](https://social.technet.microsoft.com/wiki/contents/articles/18709.biztalk-server-product-lifecycle.aspx)\n* [Service Pack 原則](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>版本 \n* Branch\n* Developer\n* Enterprise\n* 標準版"

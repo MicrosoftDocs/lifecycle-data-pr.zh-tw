@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 576095a27901552e7a275b0a349ed5e1edee8099
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "806833"
@@ -14,7 +14,7 @@ summary: >+
   Microsoft Visual Studio 2005 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
 
 
-  這適用于下列版本： Professional，Standard，Standard Edition 學術授權，Team edition for Database 專業人員，team edition for the software developer，team edition for the 軟體發展人員，team edition for the 軟體測試人員，小組套件，Visual c # express，visual c + + Express，visual j # Express，Visual Web Developer express
+  本文適用於下列版本：Professional、Standard、Standard Edition 學術授權、Team Edition for Database Professionals、Team Edition for Software Architects、Team Edition for Software Developers、Team Edition for Software Tester、Team Suite、Team Test Load Agent、Tools for the Microsoft Office System、VB Express、Visual C# Express、Visual C++ Express、Visual J# Express、Visual Web Developer Express
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2006
   endDate: 01/08/2008
-content: "\n## <a name=\"links\"></a>Links \n* [Visual j # 支援資訊](https://msdn.microsoft.com/vstudio/bb188593)\n* [遷移指引](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [Visual Studio 產品資訊](https://www.VisualStudio.com)\n\n> [!NOTE]\n> 已結束對此產品的支援。 請參閱下列遷移指南。\n> [!NOTE]\n> Microsoft Visual Studio 2005 Team Edition for Database 專業人員于 2007 2 月2日發行。\n\n## <a name=\"editions\"></a>版本 \n* 專業\n* 標準\n* Standard Edition 學術授權\n* 資料庫專業人員的 Team Edition\n* 軟體架構設計的 Team Edition\n* 軟體發展人員的 Team Edition\n* 軟體測試人員的 Team Edition\n* 小組套件\n* 小組測試載入代理程式\n* Microsoft Office System 工具\n* VB Express\n* Visual c # Express\n* Visual c + + Express\n* Visual j # Express\n* Visual Web Developer Express"
+content: "\n## <a name=\"links\"></a>連結 \n* [Visual J# 支援資訊](https://msdn.microsoft.com/vstudio/bb188593)\n* [移轉指引](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [Visual Studio 產品資訊](https://www.VisualStudio.com)\n\n> [!NOTE]\n> 此產品的支援已終止。 請參閱下面的移轉指導方針。\n> [!NOTE]\n> Microsoft Visual Studio 2005 Team Edition for Database Professionals 已於 2007 年 3 月 2 日發行。\n\n## <a name=\"editions\"></a>版本 \n* Professional\n* 標準版\n* Standard Edition 學術授權\n* Team Edition for Database Professionals\n* Team Edition for Software Architects\n* Team Edition for Software Developers\n* Team Edition for Software Testers\n* Team Suite\n* Team Test Load Agent\n* Tools for the Microsoft Office System\n* VB Express\n* Visual C# Express\n* Visual C++ Express\n* Visual J# Express\n* Visual Web Developer Express"

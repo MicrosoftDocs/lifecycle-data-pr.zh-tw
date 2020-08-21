@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: f02602c99f6318f55290a629a507a1f33df8f32f
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "807111"
@@ -14,7 +14,7 @@ summary: >+
   Microsoft Office 2003 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
 
 
-  這適用于下列版本： Basic、Professional、Professional Enterprise、Small Business、Standard、學生和教師、Web 元件
+  本文適用於下列版本：Basic、Professional、Professional Enterprise 、中小企業版、標準版、師生家用版、Web 元件
 
 products:
 - office
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 11/17/2003
   endDate: 07/27/2005
-content: "\n## <a name=\"links\"></a>Links \n* [Service pack 原則](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>版本 \n* 基本\n* 專業\n* 專業企業\n* Small Business 變更名稱伺服器以設定 Office 365\n* 標準\n* 學生和教師\n* 網頁元件"
+content: "\n## <a name=\"links\"></a>連結 \n* [Service Pack 原則](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>版本 \n* Basic\n* Professional\n* Professional Enterprise\n* 小型企業版\n* 標準版\n* 師生家用版\n* Web 元件"

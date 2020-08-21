@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft 智慧應用程式閘道2007
-  description: Microsoft 智慧應用程式閘道2007遵循固定生命週期原則。
+  title: Microsoft Intelligent Application Gateway 2007
+  description: Microsoft Intelligent Application Gateway 2007 遵循固定生命週期原則。
   ms.date: 07/28/2020
   ms.openlocfilehash: 6e5cc4784788d27433b7525f6a900cbc1e9f0713
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "807539"
-name: Microsoft 智慧應用程式閘道2007
+name: Microsoft Intelligent Application Gateway 2007
 summary: >
-  Microsoft 智慧應用程式閘道2007遵循[固定](/lifecycle/policies/fixed)生命週期原則。
+  Microsoft Intelligent Application Gateway 2007 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
 
 
 
   > [!IMPORTANT]
 
-  > 已結束對此產品的支援。 請參閱下列遷移指南。
+  > 此產品的支援已終止。 請參閱下面的移轉指引。
 products:
 - microsoft-servers
 policyType: fixed
@@ -35,4 +35,4 @@ releases:
 - version: Original Release
   startDate: 06/01/2007
   endDate: 10/14/2008
-content: "\n## <a name=\"links\"></a>Links \n* [Microsoft 智慧應用程式閘道2007藍圖](/archive/blogs/testtesttestbug/important-changes-to-the-forefront-product-line)\n* [Service pack 原則](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>連結 \n* [Microsoft Intelligent Application Gateway 2007 藍圖](/archive/blogs/testtesttestbug/important-changes-to-the-forefront-product-line)\n* [Service Pack 原則](/lifecycle/policies/fixed#service-packs)"

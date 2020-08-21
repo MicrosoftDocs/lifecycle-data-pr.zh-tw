@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: b94d9b3d87ff3c971739be3ca2ebbb2446764e1b
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "850091"
@@ -14,7 +14,7 @@ summary: >+
   Visual Studio 2013 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
 
 
-  這適用于下列版本：「代理」、「所有」、「社區」、「適用于 Windows」、「Windows 桌上出版」、[IntelliTrace 收集器]、「建模 SDK」、「多位元組 MFC 庫」、「特優」、「版本管理」、「小組資源庫」、「整合」、
+  本文適用於下列版本：Agents、全部、Community、Express for Web、Express for Windows、Express for Windows Desktop、IntelliTrace Collector、Modeling SDK、Multibyte MFC Library、Premium、Professional、Release Management、遠端工具、SDK、Shell (整合模式)、Shell (獨立模式)、Team Explorer、Test Professional、Ultimate、Visual C++ 可轉散發套件、Web 工具延伸模組
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 01/15/2014
   endDate: 04/09/2024
-content: "\n## <a name=\"links\"></a>Links \n* [服務資訊](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>版本 \n* 代理\n* 全部\n* 社群\n* Web Express\n* Windows Express\n* Windows Desktop Express\n* IntelliTrace 收集器\n* 模型 SDK\n* 多位元組 MFC 程式庫\n* Premium\n* 專業\n* 版本管理\n* 遠端工具\n* Sdk\n* 命令介面（整合式）\n* 命令介面（獨立的）\n* 團隊瀏覽器\n* 測試專業人員\n* 最終\n* Visual c + + 可再發行\n* Web 工具擴充"
+content: "\n## <a name=\"links\"></a>連結 \n* [服務資訊](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>版本 \n* Agents\n* 全部\n* Community\n* Express for Web\n* Express for Windows\n* Express for Windows Desktop\n* IntelliTrace Collector\n* Modeling SDK\n* Multibyte MFC Library\n* 進階版\n* Professional\n* Release Management\n* 遠端工具\n* SDK\n* Shell (整合模式)\n* Shell (獨立模式)\n* Team Explorer\n* Test Professional\n* Ultimate\n* Visual C++ 可轉散發套件\n* Web 工具擴充功能"

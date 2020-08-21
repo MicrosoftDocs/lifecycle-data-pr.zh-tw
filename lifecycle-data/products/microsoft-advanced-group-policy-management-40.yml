@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Advanced 群組原則管理4。0
-  description: Microsoft Advanced 群組原則管理4.0 遵循固定生命週期原則。
+  title: Microsoft 進階群組原則管理 4.0
+  description: Microsoft 進階群組原則管理 4.0 遵循固定生命週期原則。
   ms.date: 07/28/2020
   ms.openlocfilehash: 9ee2407b159ab7e8573aa39ebff7de6fd8002bde
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "807529"
-name: Microsoft Advanced 群組原則管理4。0
+name: Microsoft 進階群組原則管理 4.0
 summary: >+
-  Microsoft Advanced 群組原則管理4.0 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
+  Microsoft 進階群組原則管理 4.0 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
 
 
 products:
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 11/19/2009
   endDate: 04/08/2014
-content: "\n## <a name=\"links\"></a>Links \n* [MDOP 資訊經驗](https://technet.microsoft.com/en-us/windows/bb899442)\n* [Service pack 原則](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>連結 \n* [MDOP 資訊體驗](https://technet.microsoft.com/en-us/windows/bb899442)\n* [Service Pack 原則](/lifecycle/policies/fixed#service-packs)"

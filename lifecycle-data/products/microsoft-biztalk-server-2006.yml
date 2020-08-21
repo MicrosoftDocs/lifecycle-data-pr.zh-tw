@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 7493f28dc07798e3582685027087bcad4d16db2b
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "807490"
@@ -14,7 +14,7 @@ summary: >+
   Microsoft BizTalk Server 2006 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
 
 
-  這適用于下列版本： Branch、Developer、Enterprise、R2、Standard
+  本文適用於下列版本：Branch，Developer，Enterprise，R2，Standard
 
 products:
 - microsoft-servers
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 06/23/2006
   endDate: 07/12/2016
-content: "\n## <a name=\"links\"></a>Links \n* [Service pack 原則](/lifecycle/policies/fixed#service-packs)\n* [遷移指引](https://social.technet.microsoft.com/wiki/contents/articles/18709.biztalk-server-product-lifecycle.aspx)\n\n\n## <a name=\"editions\"></a>版本 \n* 分公司\n* Developer\n* 企業\n* R 2\n* 標準"
+content: "\n## <a name=\"links\"></a>連結 \n* [Service Pack 原則](/lifecycle/policies/fixed#service-packs)\n* [移轉指引](https://social.technet.microsoft.com/wiki/contents/articles/18709.biztalk-server-product-lifecycle.aspx)\n\n\n## <a name=\"editions\"></a>版本 \n* Branch\n* Developer\n* Enterprise\n* R2\n* 標準版"

@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: b24e1b9ebaf9855024973bfa2ff6b7d90e3af408
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "850000"
@@ -14,7 +14,7 @@ summary: >+
   Visual Studio Team Foundation Server 2013 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
 
 
-  這適用于下列版本： All、Release Management
+  本文適用於下列版本：全部、Release Management
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 01/15/2014
   endDate: 10/11/2016
-content: "\n## <a name=\"links\"></a>Links \n* [產品資訊](/azure/devops/server/tfs-is-now-azure-devops-server?view=azure-devops)\n* [服務資訊](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n* [Service Pack 原則](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> 針對 TFS 2013 的「發行管理伺服器」，更新4將會受到原則原則的支援，直到4/9/2024 為止。\n\n## <a name=\"editions\"></a>版本 \n* 全部\n* 版本管理"
+content: "\n## <a name=\"links\"></a>連結 \n* [產品資訊](/azure/devops/server/tfs-is-now-azure-devops-server?view=azure-devops)\n* [服務資訊](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n* [Service Pack 原則](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> 對於 Release Management Server for TFS 2013，則會根據原則指導方針支援 Update 4，直到 2024 年 4 月 9 日為止。\n\n## <a name=\"editions\"></a>版本 \n* 全部\n* Release Management"

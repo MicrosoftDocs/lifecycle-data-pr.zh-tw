@@ -1,11 +1,11 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft SQL Server 2012
-  description: Microsoft SQL Server 2012 遵循固定生命週期原則。
+  description: Microsoft SQL Server 2012 遵循固定生命週原則。
   ms.date: 07/28/2020
   ms.openlocfilehash: 28bafe1de891ae8c50f7ef276817ede7a380c8b1
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "849715"
@@ -14,7 +14,7 @@ summary: >+
   Microsoft SQL Server 2012 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
 
 
-  這適用于下列版本：商務智慧、開發人員、Enterprise、Enterprise Core、Express、內嵌式系統、Standard、Web
+  本文適用於下列版本：Business Intelligence、Developer、Enterprise、Enterprise Core、Express、適用於內嵌系統、Standard、Web
 
 products:
 - sql-server
@@ -39,4 +39,4 @@ releases:
 - version: Original Release
   startDate: 05/20/2012
   endDate: 01/14/2014
-content: "\n## <a name=\"links\"></a>Links \n* [遷移指引](/sql/sql-server/end-of-support/sql-server-end-of-life-overview?view=sql-server-ver15)\n* [Service pack 原則](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>版本 \n* 商務智慧\n* Developer\n* 企業\n* Enterprise Core\n* 表達\n* 內嵌系統的\n* 標準\n* 網頁"
+content: "\n## <a name=\"links\"></a>連結 \n* [移轉指引](/sql/sql-server/end-of-support/sql-server-end-of-life-overview?view=sql-server-ver15)\n* [Service Pack 原則](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>版本 \n* Business Intelligence\n* Developer\n* Enterprise\n* Enterprise Core\n* Express\n* 適用於內嵌系統\n* 標準版\n* 網址"

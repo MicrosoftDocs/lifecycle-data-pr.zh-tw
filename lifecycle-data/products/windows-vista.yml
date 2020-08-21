@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: e2e6ab946bf405ed524f07047d055a786d7174dc
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "806950"
@@ -14,12 +14,12 @@ summary: >
   Windows Vista 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
 
 
-  這適用于下列版本： Business、Business N、Enterprise、Enterprise X64、Home Basic、Home Basic 64 bit、Home Basic N、home Basic N 64-bit、Home Premium、Home Premium 64 bit、Starter、終極、終極 64 bit
+  本文適用於下列版本：Business、Business N、Enterprise、Enterprise X64，Home Basic、Home Basic 64 位元、Home Basic N、Home Basic N 64 位元、Home Premium、Home Premium 64 位元、Starter、Ultimate、Ultimate 64 位元
 
 
   > [!IMPORTANT]
 
-  > 已結束對此產品的支援，請參閱下一節以瞭解遷移資訊。
+  > 此產品的支援已結束，請參閱下面的移轉資訊。
 products:
 - windows
 policyType: fixed
@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 01/25/2007
   endDate: 04/13/2010
-content: "\n## <a name=\"links\"></a>Links \n* [遷移指引](https://support.microsoft.com/help/22882/windows-vista-end-of-support)\n* [Windows 升級和遷移考慮](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Service pack 原則](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>版本 \n* 商務版\n* Business N\n* 企業\n* Enterprise X64\n* 家用基本版\n* 家用 Basic 64 位\n* 家用 Basic N\n* 家用 Basic N 64-位\n* 家用精品\n* 家用特優64位\n* 起 動 器\n* 最終\n* 終極64位"
+content: "\n## <a name=\"links\"></a>連結 \n* [移轉指引](https://support.microsoft.com/help/22882/windows-vista-end-of-support)\n* [Windows 升級和移轉注意事項](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Service Pack 原則](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>版本 \n* Business\n* Business N\n* Enterprise\n* Enterprise X64\n* Home Basic\n* Home Basic 64 位元\n* Home Basic N\n* Home Basic N 64 位元\n* Home Premium\n* Home Premium 64 位元\n* Starter\n* Ultimate\n* Ultimate 64 位元"

@@ -1,15 +1,15 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Windows SharePoint 服務3。0
+  title: Microsoft Windows SharePoint Services 3.0
   description: Microsoft Windows SharePoint Services 3.0 遵循固定生命週期原則。
   ms.date: 07/28/2020
   ms.openlocfilehash: cdc4d8caef3f00f070c4d3ce32c2eea2f6ecbf24
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "806828"
-name: Microsoft Windows SharePoint 服務3。0
+name: Microsoft Windows SharePoint Services 3.0
 summary: "Microsoft Windows SharePoint Services 3.0 遵循[固定](/lifecycle/policies/fixed)生命週期原則。\n\n\n> [!IMPORTANT]\n> 支援已結束。 \n"
 products:
 - office
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 11/13/2006
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Links \n* [Service pack 原則](/lifecycle/policies/fixed#service-packs)\n* [遷移指引](/office365/enterprise/sharepoint-2007-end-of-support)"
+content: "\n## <a name=\"links\"></a>連結 \n* [Service Pack 原則](/lifecycle/policies/fixed#service-packs)\n* [移轉指引](/office365/enterprise/sharepoint-2007-end-of-support)"

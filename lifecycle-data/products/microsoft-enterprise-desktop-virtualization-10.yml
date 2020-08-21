@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft 企業版桌面虛擬化1。0
-  description: Microsoft 企業版桌面虛擬化1.0 遵循固定生命週期原則。
+  title: Microsoft Enterprise Desktop Virtualization 1.0
+  description: Microsoft Enterprise Desktop Virtualization 1.0 遵循固定生命週期原則。
   ms.date: 07/28/2020
   ms.openlocfilehash: 71dcb3cec051dba7376d58dc536d778ae7359f4a
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "807453"
-name: Microsoft 企業版桌面虛擬化1。0
+name: Microsoft Enterprise Desktop Virtualization 1.0
 summary: >
-  Microsoft 企業版桌面虛擬化1.0 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
+  Microsoft Enterprise Desktop Virtualization 1.0 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
 
 
-  這適用于下列版本： Enterprise
+  本文適用於下列版本：Enterprise
 
 
   > [!IMPORTANT]
 
-  > 已結束對此產品的支援。 請參閱下列遷移指南。
+  > 此產品的支援已終止。 請參閱下面的移轉指引。
 products:
 - windows
 policyType: fixed
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 08/03/2008
   endDate: 04/12/2011
-content: "\n## <a name=\"links\"></a>Links \n* [遷移指引](https://technet.microsoft.com/en-us/windows/bb899442)\n* [Service pack 原則](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>版本 \n* 企業"
+content: "\n## <a name=\"links\"></a>連結 \n* [移轉指引](https://technet.microsoft.com/en-us/windows/bb899442)\n* [Service Pack 原則](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>版本 \n* Enterprise"

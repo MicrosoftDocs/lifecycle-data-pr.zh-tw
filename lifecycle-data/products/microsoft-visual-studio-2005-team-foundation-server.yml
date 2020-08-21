@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 881badd8c2a2954697d7a63f329250f4a07b9581
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "806837"
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 06/17/2006
   endDate: 01/08/2008
-content: "\n## <a name=\"links\"></a>Links \n* [Service pack 原則](/lifecycle/policies/fixed#service-packs)\n* [遷移指引](https:// https://msdn.microsoft.com/library/vs/alm/tfs/upgrade/tfs-2005-to-2015)\n\n> [!NOTE]\n> 已結束對此產品的支援。 請參閱下列遷移指南。"
+content: "\n## <a name=\"links\"></a>連結 \n* [Service Pack 原則](/lifecycle/policies/fixed#service-packs)\n* [移轉指引](https:// https://msdn.microsoft.com/library/vs/alm/tfs/upgrade/tfs-2005-to-2015)\n\n> [!NOTE]\n> 此產品的支援已終止。 請參閱下面的移轉指導方針。"

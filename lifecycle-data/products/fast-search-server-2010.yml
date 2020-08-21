@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: FAST Search Server 2010 （適用于內部應用程式的網際網路網站）
-  description: FAST Search Server 2010 （適用于內部應用程式的網際網路網站）遵循固定生命週期原則。
+  title: FAST Search Server 2010 (適用於 Internet Sites、適用於 Internal Applications)
+  description: FAST Search Server 2010 (適用於 Internet Sites、適用於 Internal Applications) 遵循固定生命週期原則。
   ms.date: 07/28/2020
   ms.openlocfilehash: 86e1732aefb6ae705ff05f1ef7f84e2d14a1feda
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "807562"
-name: FAST Search Server 2010 （適用于內部應用程式的網際網路網站）
+name: FAST Search Server 2010 (適用於 Internet Sites、適用於 Internal Applications)
 summary: >+
-  FAST Search Server 2010 （適用于內部應用程式的網際網路網站）遵循[固定](/lifecycle/policies/fixed)生命週期原則。
+  FAST Search Server 2010 (適用於 Internet Sites、適用於 Internal Applications) 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
 
 
-  這適用于下列版本：內部應用程式、網際網路網站
+  本文適用於下列版本：Internal Applications，Internet Sites
 
 products:
 - office
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 06/16/2010
   endDate: 10/13/2020
-content: "\n## <a name=\"links\"></a>Links \n* [遷移指引](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n* [生命週期 FAQ-一般](/lifecycle/faq/general-lifecycle)\n\n> [!NOTE]\n> 排除先前取消支援的版本。 本產品的支援取決於其購買條款。\n\n## <a name=\"editions\"></a>版本 \n* 內部應用程式\n* 網際網路網站"
+content: "\n## <a name=\"links\"></a>連結 \n* [移轉指引](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n* [生命週期常見問題集 - 一般問題](/lifecycle/faq/general-lifecycle)\n\n> [!NOTE]\n> 不包括先前已不支援的版本。 對本產品的支援受其取得條款所約束。\n\n## <a name=\"editions\"></a>版本 \n* Internal Applications\n* Internet Sites"

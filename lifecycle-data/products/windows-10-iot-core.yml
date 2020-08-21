@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows 10 IoT 核心
-  description: Windows 10 IoT 核心遵循新式生命週期原則。
+  title: Windows 10 IoT Core
+  description: Windows 10 IoT 核心版遵循新式生命週期原則。
   ms.date: 07/28/2020
   ms.openlocfilehash: 4de1aecc88c37d87a38cd5eca9274bcb4c854739
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "849912"
-name: Windows 10 IoT 核心
+name: Windows 10 IoT Core
 summary: >
-  Windows 10 IoT 核心遵循[新式](/lifecycle/policies/modern)生命週期原則。
+  Windows 10 IoT 核心版遵循[新式](/lifecycle/policies/modern)生命週期原則。
 
 
 
   > [!IMPORTANT]
 
-  > Microsoft 將繼續支援至少一個 Windows 10 半年通道，直到2025年10月14日為止。
+  > 在 2025 年 10 月 14 日之前，Microsoft 將繼續支援至少一個 Windows 10 半年通道。
 products:
 - windows
 policyType: modern-on-prem
@@ -40,4 +40,4 @@ releases:
 - version: Version 1607
   startDate: 08/02/2016
   endDate: 04/10/2018
-content: "\n## <a name=\"links\"></a>Links \n* [產品資訊](/windows/iot-core/windows-iot-core)\n* [Windows 生命週期事實資料表](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Windows 即服務（WaaS）](/windows/deployment/update/waas-quick-start)\n* [生命週期常見問題-Windows 產品](/lifecycle/faq/windows)\n\n> [!NOTE]\n> 除非推遲，後續的 Windows 10 半年通道功能更新可能會在列出的主流支援日期結束之前安裝。"
+content: "\n## <a name=\"links\"></a>連結 \n* [產品資訊](/windows/iot-core/windows-iot-core)\n* [Windows 生命週期資料表](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Windows 即服務 (WaaS)](/windows/deployment/update/waas-quick-start)\n* [生命週期常見問題集 - Windows 產品](/lifecycle/faq/windows)\n\n> [!NOTE]\n> 除非延期，否則後續 Windows 10 半年通道功能更新可在所列的主要支援日期結束前安裝。"

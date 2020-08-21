@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Office 2008 for Mac
-  description: 適用于 Mac 的 Microsoft Office 2008 遵循固定生命週期原則。
+  title: Mac 版 Microsoft Office 2008
+  description: Microsoft Office 2008 for Mac 遵循固定生命週期原則。
   ms.date: 07/28/2020
   ms.openlocfilehash: abf5213b99b3f5ca6d64daa69ef50c3462fc9d35
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "807106"
-name: Microsoft Office 2008 for Mac
-summary: "適用于 Mac 的 Microsoft Office 2008 遵循[固定](/lifecycle/policies/fixed)生命週期原則。\n\n這適用于下列版本：商務、住宅及學生、特殊媒體 Editon\n\n> [!IMPORTANT]\n> 已結束對此產品的支援。 \n"
+name: Mac 版 Microsoft Office 2008
+summary: "Microsoft Office 2008 for Mac 遵循[固定](/lifecycle/policies/fixed)生命週期原則。\n\n本文適用於下列版本：Business，Home and Student，Special Media Edition\n\n> [!IMPORTANT]\n> 此產品的支援已終止。 \n"
 products:
 - office
 policyType: fixed-mainstream-only
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 01/15/2008
   endDate: 10/19/2009
-content: "\n## <a name=\"links\"></a>Links \n* [Service pack 原則](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Office 2008 for Mac 特殊媒體版的開始日期為3月12日（2008）。\n\n## <a name=\"editions\"></a>版本 \n* 商務版\n* 家用和學生版\n* 特殊媒體 Editon"
+content: "\n## <a name=\"links\"></a>連結 \n* [Service Pack 原則](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Office 2008 for Mac Special Media Edition 的開始日期為 2008 年 3 月 12 日。\n\n## <a name=\"editions\"></a>版本 \n* Business\n* 家用版\n* Special Media Editon"
