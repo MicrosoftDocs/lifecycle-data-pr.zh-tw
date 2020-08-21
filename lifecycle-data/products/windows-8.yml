@@ -2,19 +2,19 @@
 metadata:
   title: Windows 8
   description: Windows 8 遵循固定生命週期原則。
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 1204c4097b59cb5449cb8145f06b6d755b3a4d27
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 08/21/2020
+  ms.openlocfilehash: 125ef61a36e4958dd5b87525ae6f5c53181c6e28
+  ms.sourcegitcommit: 72c1339c867caa2110c5c1501a6659bcee72415d
   ms.translationtype: MT
   ms.contentlocale: zh-TW
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "849866"
+  ms.lasthandoff: 08/21/2020
+  ms.locfileid: "906684"
 name: Windows 8
 summary: >
-  Windows 8 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
+  Windows 8 遵循 [固定](/lifecycle/policies/fixed) 生命週期原則。
 
 
-  這適用于下列版本： Enterprise、Enterprise N、N、Pro with Media Center、Professional、Professional N
+  這適用于下列版本： Enterprise、Enterprise N、N、Pro with Media Center、Professional、Professional N、SL
 
 
   > [!IMPORTANT]
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 10/30/2012
   endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>Links \n* [生命週期常見問題-Windows 8。1](/lifecycle/faq/windows#windows-81)\n\n\n## <a name=\"editions\"></a>版本 \n* 企業\n* Enterprise N\n* N\n* 具有媒體中心的 Pro\n* 專業\n* 專業版 N"
+content: "\n## <a name=\"links\"></a>Links \n* [生命週期常見問題-Windows 8。1](/lifecycle/faq/windows#windows-81)\n\n\n## <a name=\"editions\"></a>版本 \n* 企業\n* Enterprise N\n* N\n* 具有媒體中心的 Pro\n* 專業\n* 專業版 N\n* Sl"
