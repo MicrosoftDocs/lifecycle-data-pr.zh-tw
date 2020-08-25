@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Mediaroom
+  description: Microsoft Mediaroom 遵循固定生命週期原則。
+  ms.date: 08/21/2020
+  ms.openlocfilehash: 811ad478d76a023e8bfc6d610114e84b209529db
+  ms.sourcegitcommit: b887dde29aba4827223427ffe2a108bb0b7f8a2f
+  ms.translationtype: MT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 08/21/2020
+  ms.locfileid: "907281"
+name: Microsoft Mediaroom
+summary: >+
+  Microsoft Mediaroom 遵循 [固定](/lifecycle/policies/fixed) 生命週期原則。
+
+
+  這適用于下列版本： Application Services 1.0，Client 2.0，用戶端2.1，伺服器2.0，伺服器2。1
+
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 08/03/2010
+releases:
+- version: Original Release
+  startDate: 08/03/2010
+content: "\n\n> [!NOTE]\n> Ericsson 在2013中取得的 Microsoft Mediaroom 產品。 如需詳細資訊，請參閱[電子報。](http://www.ericsson.com/news/1691160) 若客戶需要支援，請移至 [這裡](https://sharepoint.partners.extranet.microsoft.com/sites/mediaroom/informationresources/lifecycle.aspx)。\n> [!NOTE]\n> Microsoft Mediaroom 用戶端2.1 于2011年12月27日發行。 \n\n## <a name=\"editions\"></a>版本 \n* Application Services 1。0\n* 用戶端2。0\n* 用戶端2。1\n* 伺服器2。0\n* 伺服器2。1"
