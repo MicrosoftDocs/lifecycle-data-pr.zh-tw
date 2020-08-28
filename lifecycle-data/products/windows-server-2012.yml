@@ -2,19 +2,19 @@
 metadata:
   title: Windows Server 2012
   description: Windows Server 2012 遵循固定生命週期原則。
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 3afe3de568f6e9b7eef58b6af132ff3ad4526724
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 08/21/2020
+  ms.openlocfilehash: c6ef77a2f2ee2a4579f3258e26b189e3600db600
+  ms.sourcegitcommit: 72c1339c867caa2110c5c1501a6659bcee72415d
   ms.translationtype: HT
   ms.contentlocale: zh-TW
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "850078"
+  ms.lasthandoff: 08/21/2020
+  ms.locfileid: "906943"
 name: Windows Server 2012
 summary: >+
   Windows Server 2012 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
 
 
-  本文適用於下列版本：Datacenter、Essentials、適用於內嵌系統、Foundation、Standard
+  本文適用於下列版本：Datacenter、Essentials、External Connector、適用於內嵌系統、Foundation、Standard
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 10/30/2012
   endDate: 10/10/2023
-content: "\n## <a name=\"links\"></a>連結 \n* [移轉指引](/windows-server/upgrade/upgrade-overview)\n* [產品資訊](/windows/release-information/status-windows-server-2012)\n\n> [!NOTE]\n> 已延長此產品的主要和延伸支援，以為客戶提供標準的生命週期轉換時間表。 Windows Server Essentials 已於 2013 年 1 月 2 日發行。\n\n## <a name=\"editions\"></a>版本 \n* Datacenter\n* Essentials\n* 適用於內嵌系統\n* Foundation\n* 標準版"
+content: "\n## <a name=\"links\"></a>連結 \n* [移轉指引](/windows-server/upgrade/upgrade-overview)\n* [產品資訊](/windows/release-information/status-windows-server-2012)\n\n> [!NOTE]\n> 已延長此產品的主要和延伸支援，以為客戶提供標準的生命週期轉換時間表。 Windows Server Essentials 已於 2013 年 1 月 2 日發行。\n\n## <a name=\"editions\"></a>版本 \n* Datacenter\n* Essentials\n* External Connector\n* 適用於內嵌系統\n* Foundation\n* 標準版"

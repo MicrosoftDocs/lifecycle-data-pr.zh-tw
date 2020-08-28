@@ -2,13 +2,13 @@
 metadata:
   title: HPC Pack 2008 R2
   description: HPC Pack 2008 R2 遵循固定生命週期原則。
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 85ea9272f46481e504a5c283c962a8ef7f5ace53
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 08/12/2020
+  ms.openlocfilehash: a6898a0b470490d91538f56ee8dd9d3cbe93b99f
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
   ms.translationtype: HT
   ms.contentlocale: zh-TW
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "807551"
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "893674"
 name: HPC Pack 2008 R2
 summary: >
   HPC Pack 2008 R2 遵循[固定](/lifecycle/policies/fixed)生命週期原則。

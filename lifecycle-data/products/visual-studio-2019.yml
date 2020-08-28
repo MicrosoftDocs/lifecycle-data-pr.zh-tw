@@ -2,19 +2,19 @@
 metadata:
   title: Visual Studio 2019
   description: Visual Studio 2019 遵循固定生命週期原則。
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 3bb4a3be253fe45b27fa6baa8f165dc2fbb3ffd1
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.date: 08/21/2020
+  ms.openlocfilehash: d5638d558c441faed42d3fdcfd2e5e9b8a89d2a5
+  ms.sourcegitcommit: 72c1339c867caa2110c5c1501a6659bcee72415d
   ms.translationtype: HT
   ms.contentlocale: zh-TW
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "868099"
+  ms.lasthandoff: 08/21/2020
+  ms.locfileid: "906869"
 name: Visual Studio 2019
 summary: >+
   Visual Studio 2019 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
 
 
-  本文適用於下列版本：Agents、Build Tools、Community、Enterprise、Mac 版、IntelliTrace Standalone Collector、效能工具、Professional、Remote Tools、Team Explorer、Visual C++ 可轉散發套件
+  本文適用於下列版本：Agents、Build Tools、Community、Enterprise、ESGH、Mac 版、IntelliTrace Standalone Collector、效能工具、Professional、PSGH、PSM、Remote Tools、Team Explorer、Visual C++ 可轉散發套件
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Version 16.0
   startDate: 04/02/2019
   endDate: 01/12/2021
-content: "\n## <a name=\"links\"></a>連結 \n* [公告](https://devblogs.microsoft.com/visualstudio/tis-the-season-visual-studio-2019/)\n* [服務資訊](/visualstudio/releases/2019/servicing)\n\n\n## <a name=\"editions\"></a>版本 \n* Agents\n* Build Tools\n* Community\n* Enterprise\n* for Mac\n* IntelliTrace Standalone Collector\n* 效能工具\n* Professional\n* 遠端工具\n* Team Explorer\n* Visual C++ 可轉散發套件"
+content: "\n## <a name=\"links\"></a>連結 \n* [公告](https://devblogs.microsoft.com/visualstudio/tis-the-season-visual-studio-2019/)\n* [服務資訊](/visualstudio/releases/2019/servicing)\n\n\n## <a name=\"editions\"></a>版本 \n* Agents\n* Build Tools\n* Community\n* Enterprise\n* ESGH\n* for Mac\n* IntelliTrace Standalone Collector\n* 效能工具\n* Professional\n* PSGH\n* PSM\n* 遠端工具\n* Team Explorer\n* Visual C++ 可轉散發套件"

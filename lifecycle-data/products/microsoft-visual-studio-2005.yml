@@ -2,13 +2,13 @@
 metadata:
   title: Microsoft Visual Studio 2005
   description: Microsoft Visual Studio 2005 遵循固定生命週期原則。
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 576095a27901552e7a275b0a349ed5e1edee8099
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 08/12/2020
+  ms.openlocfilehash: 3d7b18b9c262c1ac5f159250ef8a1746f79221eb
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
   ms.translationtype: HT
   ms.contentlocale: zh-TW
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "806833"
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "893156"
 name: Microsoft Visual Studio 2005
 summary: >+
   Microsoft Visual Studio 2005 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2006
   endDate: 01/08/2008
-content: "\n## <a name=\"links\"></a>連結 \n* [Visual J# 支援資訊](https://msdn.microsoft.com/vstudio/bb188593)\n* [移轉指引](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [Visual Studio 產品資訊](https://www.VisualStudio.com)\n\n> [!NOTE]\n> 此產品的支援已終止。 請參閱下面的移轉指導方針。\n> [!NOTE]\n> Microsoft Visual Studio 2005 Team Edition for Database Professionals 已於 2007 年 3 月 2 日發行。\n\n## <a name=\"editions\"></a>版本 \n* Professional\n* 標準版\n* Standard Edition 學術授權\n* Team Edition for Database Professionals\n* Team Edition for Software Architects\n* Team Edition for Software Developers\n* Team Edition for Software Testers\n* Team Suite\n* Team Test Load Agent\n* Tools for the Microsoft Office System\n* VB Express\n* Visual C# Express\n* Visual C++ Express\n* Visual J# Express\n* Visual Web Developer Express"
+content: "\n## <a name=\"links\"></a>連結 \n* [移轉指引](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [Visual J# 支援資訊](https://msdn.microsoft.com/vstudio/bb188593)\n* [Visual Studio 產品資訊](https://www.VisualStudio.com)\n\n> [!NOTE]\n> 此產品的支援已終止。 請參閱下面的移轉指導方針。\n> [!NOTE]\n> Microsoft Visual Studio 2005 Team Edition for Database Professionals 已於 2007 年 3 月 2 日發行。\n\n## <a name=\"editions\"></a>版本 \n* Professional\n* 標準版\n* Standard Edition 學術授權\n* Team Edition for Database Professionals\n* Team Edition for Software Architects\n* Team Edition for Software Developers\n* Team Edition for Software Testers\n* Team Suite\n* Team Test Load Agent\n* Tools for the Microsoft Office System\n* VB Express\n* Visual C# Express\n* Visual C++ Express\n* Visual J# Express\n* Visual Web Developer Express"
