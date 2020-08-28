@@ -1,0 +1,32 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Azure 套件 (Server 2012 R2)
+  description: Windows Azure 套件 (Server 2012 R2) 遵循元件生命週期原則。
+  ms.date: 08/13/2020
+  ms.openlocfilehash: e5e578924beb6eada37c05ac523dbcdf48445841
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "893840"
+name: Windows Azure 套件 (Server 2012 R2)
+summary: >+
+  Windows Azure 套件(Server 2012 R2) 遵循[元件](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)生命週期原則。
+
+
+  本文適用於下列版本：Windows Server 2012 R2 上
+
+products:
+- windows
+policyType: component
+supportDates:
+  start: 01/14/2014
+  end: 07/12/2022
+releases:
+- version: on Windows Server 2012 R2
+  startDate: 01/14/2014
+  endDate: 07/12/2022
+- version: V2 Web Sites
+  startDate: 01/14/2014
+  endDate: 07/12/2022
+content: "\n## <a name=\"links\"></a>連結 \n* [Windows Azure 套件網站 V2 支援生命週期日期](https://azure.github.io/AppService/2017/01/19/Revisiting-Windows-Azure-Pack-Web-Sites-V2-Support-Lifecycle-Dates.html)\n* [適用於 Windows Server 的 Windows Azure 套件產品資訊](/previous-versions/azure/windows-server-azure-pack/dn296435(v=technet.10))\n\n\n## <a name=\"editions\"></a>版本 \n* Windows Server 2012 R2 上"

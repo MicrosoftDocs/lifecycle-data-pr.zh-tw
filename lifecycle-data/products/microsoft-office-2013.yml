@@ -2,19 +2,19 @@
 metadata:
   title: Microsoft Office 2013
   description: Microsoft Office 2013 遵循固定生命週期原則。
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 57eeaf9939d11f53914fef0e92795621dfb9db44
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 08/19/2020
+  ms.openlocfilehash: 144877196e495c44a75cc95487426038c5321751
+  ms.sourcegitcommit: f2f920f4a81a356fb71402238234768a9e90fd51
   ms.translationtype: HT
   ms.contentlocale: zh-TW
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "850065"
+  ms.lasthandoff: 08/20/2020
+  ms.locfileid: "905237"
 name: Microsoft Office 2013
 summary: >+
   Microsoft Office 2013 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
 
 
-  本文適用於下列版本：家用及中小企業版、家用版、專業、專業增強版、專業增強版家用計畫、標準版、Web Apps Server
+  本文適用於下列版本：家用及中小企業版、家用版、Multi Language Pack、專業、專業增強版、專業增強版家用計畫、標準版、Web Apps Server
 
 products:
 - office
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 01/09/2013
   endDate: 04/14/2015
-content: "\n## <a name=\"links\"></a>連結 \n* [移轉指引](https://www.microsoft.com/microsoft-365/previous-versions/microsoft-office-2013)\n* [Service Pack 原則](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Service Pack 1 不適用於  Web Apps Server 版本。 \n\n## <a name=\"editions\"></a>版本 \n* 家用及中小企業版\n* 家用版\n* Professional\n* 專業增強版\n* 專業增強版軟體家用計畫\n* 標準版\n* Web Apps Server"
+content: "\n## <a name=\"links\"></a>連結 \n* [移轉指引](https://www.microsoft.com/microsoft-365/previous-versions/microsoft-office-2013)\n* [Service Pack 原則](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Service Pack 1 不適用於  Web Apps Server 版本。 \n\n## <a name=\"editions\"></a>版本 \n* 家用及中小企業版\n* 家用版\n* Multi Language Pack\n* Professional\n* 專業增強版\n* 專業增強版軟體家用計畫\n* 標準版\n* Web Apps Server"
