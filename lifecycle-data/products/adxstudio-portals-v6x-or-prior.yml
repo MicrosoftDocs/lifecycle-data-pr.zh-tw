@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Adxstudio 入口 v6 a.x 或之前
+  description: Adxstudio 入口 v6 a.x 或以上遵循固定生命週期原則。
+  ms.date: 08/28/2020
+  ms.openlocfilehash: d30568ac94980a8ea178e1971f3841f5093514fa
+  ms.sourcegitcommit: 570c824dbe19150d37398333df7d2c416a51eac9
+  ms.translationtype: MT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 08/28/2020
+  ms.locfileid: "924332"
+name: Adxstudio 入口 v6 a.x 或之前
+summary: >+
+  Adxstudio 入口 v6 a.x 或以上遵循 [固定](/lifecycle/policies/fixed) 生命週期原則。
+
+
+products:
+- dynamics
+policyType: fixed
+supportDates:
+  start: 09/29/2015
+  extendedEnd: 04/12/2016
+releases:
+- version: Original Release
+  startDate: 09/29/2015
+  endDate: 04/12/2016
+content: "\n## <a name=\"links\"></a>連結 \n* [生命週期 FAQ-購置](/lifecycle/faq/general-lifecycle#what-is-the-lifecycle-policy-for-products-or-companies-that-microsoft-acquires)\n\n> [!NOTE]\n> 本產品的支援取決於其購買的條款，並已結束。"
