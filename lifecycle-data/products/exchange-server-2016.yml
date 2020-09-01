@@ -2,19 +2,20 @@
 metadata:
   title: Exchange Server 2016
   description: Exchange Server 2016 遵循固定生命週期原則。
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 7d83d6853298231fb4bd84b90ccf197a8029e8a2
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 09/01/2020
+  keywords: Enterprise,Standard
+  ms.openlocfilehash: bad2d3a8e4e33ce78bd15a78145aceb308d0eefb
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: zh-TW
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "849849"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "931148"
 name: Exchange Server 2016
 summary: >+
-  Exchange Server 2016 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
+  Exchange Server 2016 遵循 [固定](/lifecycle/policies/fixed) 生命週期原則。
 
 
-  這適用于下列版本： Enterprise、Standard
+  本文適用於下列版本：Enterprise，Standard
 
 products:
 - office
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 10/01/2015
   endDate: 10/14/2025
-content: "\n## <a name=\"links\"></a>Links \n* [服務指導方針](/Exchange/new-features/updates?redirectedfrom)\n\n\n## <a name=\"editions\"></a>版本 \n* 企業\n* 標準"
+content: "\n## <a name=\"links\"></a>連結 \n* [服務指導方針](/Exchange/new-features/updates?redirectedfrom)\n\n\n## <a name=\"editions\"></a>版本 \n* Enterprise\n* 標準版"

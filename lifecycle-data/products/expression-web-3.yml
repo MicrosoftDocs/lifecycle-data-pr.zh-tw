@@ -2,16 +2,17 @@
 metadata:
   title: 運算式3
   description: 運算式3遵循固定生命週期原則。
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 9544cb1ac337a36e0e9d12b4afde25d392bdd767
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Design,Encoder,Studio,Web
+  ms.openlocfilehash: 406642d42292645f0a1f233b77937ba831d08671
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: zh-TW
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "806882"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "930741"
 name: 運算式3
 summary: >+
-  運算式3遵循[固定](/lifecycle/policies/fixed)生命週期原則。
+  運算式3遵循 [固定](/lifecycle/policies/fixed) 生命週期原則。
 
 
   這適用于下列版本： Design，編碼器，Studio，Web
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 10/19/2009
   endDate: 01/14/2020
-content: "\n\n> [!NOTE]\n> 運算式設計3的開始日期是2009年11月19日。 \n\n## <a name=\"editions\"></a>版本 \n* 設計\n* 編碼\n* 演播室\n* 網頁"
+content: "\n\n> [!NOTE]\n> 運算式設計3的開始日期是2009年11月19日。 \n\n## <a name=\"editions\"></a>版本 \n* 設計\n* 編碼\n* 演播室\n* 網址"

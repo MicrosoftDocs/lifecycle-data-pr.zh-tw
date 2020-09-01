@@ -2,19 +2,20 @@
 metadata:
   title: Dynamics 零售管理系統1。3
   description: Dynamics Retail 管理系統1.3 遵循固定生命週期原則。
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 6ffb2235d34709672f16dea371e142cca0af0ef1
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Headquarters,Store Operations
+  ms.openlocfilehash: a3713fd375b666673f687b89fe23492b072c8c3b
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: zh-TW
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "807134"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "931686"
 name: Dynamics 零售管理系統1。3
 summary: >+
-  Dynamics Retail 管理系統1.3 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
+  Dynamics Retail 管理系統1.3 遵循 [固定](/lifecycle/policies/fixed) 生命週期原則。
 
 
-  這適用于下列版本：總部、Store Operations
+  本文適用於下列版本：Headquarters，Store Operations
 
 products:
 - dynamics
@@ -26,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 01/31/2006
   endDate: 04/12/2011
-content: "\n\n\n## <a name=\"editions\"></a>版本 \n* 總部\n* 儲存區作業"
+content: "\n\n\n## <a name=\"editions\"></a>版本 \n* Headquarters\n* Store Operations"
