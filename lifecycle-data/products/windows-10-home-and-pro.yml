@@ -2,13 +2,14 @@
 metadata:
   title: Windows 10 家用版與專業版
   description: Windows 10 家用版與專業版遵循新式生命週期原則。
-  ms.date: 07/30/2020
-  ms.openlocfilehash: 9d3ad5a10e7df75162cbff42701d451e1299e3c4
-  ms.sourcegitcommit: e3a3bd051020add66386d68528657bb59240d90b
+  ms.date: 09/01/2020
+  keywords: Home,Pro,Pro for Education,Pro for Workstations,Professional
+  ms.openlocfilehash: f29020250717040eb218ffd3154c65492201e51b
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: zh-TW
-  ms.lasthandoff: 07/30/2020
-  ms.locfileid: "879119"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "938363"
 name: Windows 10 家用版與專業版
 summary: >
   Windows 10  家用版與專業版遵循[新式](/lifecycle/policies/modern)生命週期原則。
