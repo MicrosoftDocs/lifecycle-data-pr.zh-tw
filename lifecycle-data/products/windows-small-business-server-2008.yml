@@ -2,13 +2,14 @@
 metadata:
   title: Windows Small Business Server 2008
   description: Windows Small Business Server 2008 遵循固定週期原則。
-  ms.date: 07/28/2020
-  ms.openlocfilehash: ca524a5b2238d362198454212c1b53d9946cdb05
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Premium,Standard
+  ms.openlocfilehash: 947f1cc48a1ef1b5397103a64ce7fb2f3e52db2d
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: zh-TW
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "806954"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "939177"
 name: Windows Small Business Server 2008
 summary: "Windows Small Business Server 2008 遵循[固定](/lifecycle/policies/fixed)週期原則。\n\n本文適用於下列版本：進階版，標準版\n\n> [!IMPORTANT]\n> 此產品的支援已終止。 \n\n此產品套件的支援日期由其個別元件產品各自的生命週期決定。 請檢閱個別元件產品的生命週期，以判斷其支援的時間長度。\n"
 products:
