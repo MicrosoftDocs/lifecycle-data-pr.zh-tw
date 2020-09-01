@@ -2,16 +2,17 @@
 metadata:
   title: 適用于 Mac 的 Microsoft Office 2004
   description: 適用于 Mac 的 Microsoft Office 2004 遵循固定生命週期原則。
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 14513bc7089568baf86dfe8f775cc25658cda7f4
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Professional,Standard,Student and Teacher
+  ms.openlocfilehash: 12b63fa73b4b6a4bfc393cc62234147382a6d46a
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: zh-TW
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "806865"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "936824"
 name: 適用于 Mac 的 Microsoft Office 2004
 summary: >+
-  適用于 Mac 的 Microsoft Office 2004 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
+  適用于 Mac 的 Microsoft Office 2004 遵循 [固定](/lifecycle/policies/fixed) 生命週期原則。
 
 
   這適用于下列版本： Professional、Standard、Student 和教師
@@ -26,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 07/13/2004
   endDate: 01/10/2012
-content: "\n\n\n## <a name=\"editions\"></a>版本 \n* 專業\n* 標準\n* 學生和教師"
+content: "\n\n\n## <a name=\"editions\"></a>版本 \n* Professional\n* 標準版\n* 師生家用版"

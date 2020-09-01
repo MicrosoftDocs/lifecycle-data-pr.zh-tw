@@ -2,15 +2,16 @@
 metadata:
   title: 運算式
   description: 運算式遵循固定生命週期原則。
-  ms.date: 08/12/2020
-  ms.openlocfilehash: c81accb05bdbd957a699685c83074735956a009e
-  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
+  ms.date: 09/01/2020
+  keywords: Blend,Design,Encoder,Studio
+  ms.openlocfilehash: 2d2e5c18c1e8ca1b355bfe392df42d6a351e6585
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: zh-TW
-  ms.lasthandoff: 08/13/2020
-  ms.locfileid: "893378"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "936217"
 name: 運算式
-summary: "運算式遵循[固定](/lifecycle/policies/fixed)生命週期原則。\n\n這適用于下列版本：混合式、設計、編碼器、工作室\n\n> [!IMPORTANT]\n> 已結束對此產品的支援。 \n"
+summary: "運算式遵循 [固定](/lifecycle/policies/fixed) 生命週期原則。\n\n這適用于下列版本：混合式、設計、編碼器、工作室\n\n> [!IMPORTANT]\n> 此產品的支援已終止。 \n"
 products:
 - expression
 policyType: fixed
