@@ -2,15 +2,16 @@
 metadata:
   title: 運算式2
   description: 運算式2遵循固定生命週期原則。
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 0ff3dba3df24ff405a22bfacac75ea04ab227f90
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Blend,Design,Encoder,Studio,Web
+  ms.openlocfilehash: 5186f4bbb53b110f625835b0250418a4594bf78b
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: zh-TW
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "806884"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "930815"
 name: 運算式2
-summary: "運算式2遵循[固定](/lifecycle/policies/fixed)生命週期原則。\n\n這適用于下列版本：混合式、設計、編碼器、工作室、Web\n\n> [!IMPORTANT]\n> 此產品的支援已結束。 \n"
+summary: "運算式2遵循 [固定](/lifecycle/policies/fixed) 生命週期原則。\n\n這適用于下列版本：混合式、設計、編碼器、工作室、Web\n\n> [!IMPORTANT]\n> 此產品的支援已結束。 \n"
 products:
 - expression
 policyType: fixed
@@ -22,4 +23,4 @@ releases:
 - version: Original Release
   startDate: 07/24/2008
   endDate: 10/09/2018
-content: "\n\n\n## <a name=\"editions\"></a>版本 \n* 混合\n* 設計\n* 編碼\n* 演播室\n* 網頁"
+content: "\n\n\n## <a name=\"editions\"></a>版本 \n* 混合\n* 設計\n* 編碼\n* 演播室\n* 網址"

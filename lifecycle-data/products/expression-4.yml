@@ -2,16 +2,17 @@
 metadata:
   title: 運算式4
   description: 運算式4遵循固定生命週期原則。
-  ms.date: 07/28/2020
-  ms.openlocfilehash: d043cbcae1ace9a561a53c39af5458bae79b4919
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Design,Encoder,Studio Ultimate,Web
+  ms.openlocfilehash: ad3463184e4da721215fe51169c93401d2d9c848
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: zh-TW
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "806883"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "930852"
 name: 運算式4
 summary: >+
-  運算式4遵循[固定](/lifecycle/policies/fixed)生命週期原則。
+  運算式4遵循 [固定](/lifecycle/policies/fixed) 生命週期原則。
 
 
   這適用于下列版本： Design，編碼器，Studio 旗艦版，Web
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 08/26/2010
   endDate: 07/14/2020
-content: "\n\n> [!NOTE]\n> 對運算式 Studio 旗艦版4的主流支援結束是2015年10月13日。\n\n## <a name=\"editions\"></a>版本 \n* 設計\n* 編碼\n* 畫室終極\n* 網頁"
+content: "\n\n> [!NOTE]\n> 對運算式 Studio 旗艦版4的主流支援結束是2015年10月13日。\n\n## <a name=\"editions\"></a>版本 \n* 設計\n* 編碼\n* 畫室終極\n* 網址"
