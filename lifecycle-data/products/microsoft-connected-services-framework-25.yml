@@ -2,16 +2,17 @@
 metadata:
   title: Microsoft 連接的服務架構2。5
   description: Microsoft 連接的服務架構2.5 遵循固定生命週期原則。
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 1475487e7ff1f7d6b5a54e58a3ba2b45e9a7ccf8
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Order Handling Standard Business Event 2.5,Server,Service Provider
+  ms.openlocfilehash: e0cdc315d310b2a6ed3c705261592af5be8ca851
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: zh-TW
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "807469"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "934108"
 name: Microsoft 連接的服務架構2。5
 summary: >+
-  Microsoft 連接的服務架構2.5 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
+  Microsoft 連接的服務架構2.5 遵循 [固定](/lifecycle/policies/fixed) 生命週期原則。
 
 
   這適用于下列版本：訂單處理標準商務事件2.5、伺服器、服務提供者
