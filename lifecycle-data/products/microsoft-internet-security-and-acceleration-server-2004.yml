@@ -2,15 +2,16 @@
 metadata:
   title: Microsoft Internet 安全性和加速伺服器2004
   description: Microsoft Internet 安全性和加速度 Server 2004 遵循固定生命週期原則。
-  ms.date: 08/19/2020
-  ms.openlocfilehash: c6473b773066fa46704ea1ecb65cad0453712d36
-  ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
+  ms.date: 09/01/2020
+  keywords: Enterprise,Standard
+  ms.openlocfilehash: ca985b778607eed3132ccd8345127d379543f4ff
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: zh-TW
-  ms.lasthandoff: 08/19/2020
-  ms.locfileid: "903885"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "933479"
 name: Microsoft Internet 安全性和加速伺服器2004
-summary: "Microsoft Internet 安全性和加速度 Server 2004 遵循 [固定](/lifecycle/policies/fixed) 生命週期原則。\n\n這適用于下列版本： Enterprise、Standard\n\n> [!IMPORTANT]\n> 已結束對此產品的支援。 \n"
+summary: "Microsoft Internet 安全性和加速度 Server 2004 遵循 [固定](/lifecycle/policies/fixed) 生命週期原則。\n\n本文適用於下列版本：Enterprise，Standard\n\n> [!IMPORTANT]\n> 此產品的支援已終止。 \n"
 products:
 - microsoft-servers
 policyType: fixed
@@ -31,4 +32,4 @@ releases:
 - version: Original Release
   startDate: 09/08/2004
   endDate: 03/11/2006
-content: "\n## <a name=\"links\"></a>Links \n* [Service pack 原則](/lifecycle/policies/fixed#service-packs)\n* [遷移指引](/system-center/scom/deploy-upgrade-overview?view=sc-om-2019)\n\n\n## <a name=\"editions\"></a>版本 \n* 企業\n* 標準"
+content: "\n## <a name=\"links\"></a>連結 \n* [Service Pack 原則](/lifecycle/policies/fixed#service-packs)\n* [移轉指引](/system-center/scom/deploy-upgrade-overview?view=sc-om-2019)\n\n\n## <a name=\"editions\"></a>版本 \n* Enterprise\n* 標準版"

@@ -2,16 +2,17 @@
 metadata:
   title: Lync 2013
   description: Lync 2013 遵循固定生命週期原則。
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 009c0c9a5f3eae47f5abd1b83b81dcc98bba3482
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 09/01/2020
+  keywords: SDK,Standard
+  ms.openlocfilehash: a5523cba92283c421c42d23d9753864a0408bf01
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: zh-TW
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "849737"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "933331"
 name: Lync 2013
 summary: >+
-  Lync 2013 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
+  Lync 2013 遵循 [固定](/lifecycle/policies/fixed) 生命週期原則。
 
 
   這適用于下列版本： SDK，Standard
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 01/09/2013
   endDate: 04/11/2023
-content: "\n\n> [!NOTE]\n> 商務用 Skype 2015 用戶端版本是 Lync 2013 用戶端的更新，可遵循相同的產品生命週期。\nLync 2013 SDK 的開始日期是2013年2月23日。 \n\n## <a name=\"editions\"></a>版本 \n* Sdk\n* 標準"
+content: "\n\n> [!NOTE]\n> 商務用 Skype 2015 用戶端版本是 Lync 2013 用戶端的更新，可遵循相同的產品生命週期。\nLync 2013 SDK 的開始日期是2013年2月23日。 \n\n## <a name=\"editions\"></a>版本 \n* SDK\n* 標準版"
