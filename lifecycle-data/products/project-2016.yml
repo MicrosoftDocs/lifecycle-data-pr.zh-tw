@@ -2,19 +2,20 @@
 metadata:
   title: Project 2016
   description: 專案2016遵循固定生命週期原則。
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 83433460cac12bdaace5894520903d80636483ab
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 09/01/2020
+  keywords: Professional,Standard
+  ms.openlocfilehash: 5d4110f5d6f16efd84205e08dc375cdd839c3220
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: zh-TW
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "849711"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "926523"
 name: Project 2016
 summary: >+
-  專案2016遵循[固定](/lifecycle/policies/fixed)生命週期原則。
+  專案2016遵循 [固定](/lifecycle/policies/fixed) 生命週期原則。
 
 
-  這適用于下列版本： Professional，Standard
+  本文適用於下列版本：專業版、標準版
 
 products:
 - office
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 09/22/2015
   endDate: 10/14/2025
-content: "\n\n\n## <a name=\"editions\"></a>版本 \n* 專業\n* 標準"
+content: "\n\n\n## <a name=\"editions\"></a>版本 \n* Professional\n* 標準版"
