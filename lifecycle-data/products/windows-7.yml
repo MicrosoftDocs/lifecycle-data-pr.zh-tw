@@ -2,13 +2,14 @@
 metadata:
   title: Windows 7
   description: Windows 7 遵循固定生命週期原則。
-  ms.date: 07/28/2020
-  ms.openlocfilehash: a1b1b370fe7d15abae83da62603b4522ea79a307
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Enterprise,Enterprise N,Home Basic,Home Premium,Home Premium N,Professional,Professional for Embedded Systems,Professional N,Starter,Starter N,Ultimate,Ultimate for Embedded Systems,Ultimate N
+  ms.openlocfilehash: 22a494a93015d2e8af3ba5e5893dd2c85daedb3b
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: zh-TW
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "806807"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "939954"
 name: Windows 7
 summary: "Windows 7 遵循[固定](/lifecycle/policies/fixed)生命週期原則。\n\n本文適用於下列版本：企業版、企業版 N、家用入門版、家用進階版、 家用進階版 N、專業版、適用於內嵌系統的專業版、專業版 N、簡易版、簡易版 N、旗艦版、適用於內嵌系統的旗艦版、 旗艦版 N\n\n> [!IMPORTANT]\n> 此產品的支援已終止。 請參閱下面的移轉指引。 \n"
 products:
