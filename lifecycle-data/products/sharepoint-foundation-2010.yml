@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 4e1bc498432d215ea8f84140c068054cf6c9c5cc
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "806821"
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 07/15/2010
   endDate: 07/10/2012
-content: "\n## <a name=\"links\"></a>Links \n* [遷移指引](/office365/enterprise/upgrade-from-sharepoint-2010)\n* [支援分機](https://aka.ms/SharePoint/server/2010/supportextension)\n\n> [!NOTE]\n> 這項產品的支援日期已從2020年10月13日到年4月 13 2021 日的版本擴充。"
+content: "\n## <a name=\"links\"></a>連結 \n* [移轉指引](/office365/enterprise/upgrade-from-sharepoint-2010)\n* [支援延伸](https://aka.ms/SharePoint/server/2010/supportextension)\n\n> [!NOTE]\n> 該產品的支持終止日期已從2020年10月13日延長至2021年4月13日。"

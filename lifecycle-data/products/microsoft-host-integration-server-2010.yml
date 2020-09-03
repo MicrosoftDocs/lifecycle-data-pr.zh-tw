@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 2a46293719b430954ce5a27c1cea86948dfd35cd
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "807123"
@@ -17,7 +17,7 @@ summary: >
 
   > [!IMPORTANT]
 
-  > 這種產品支援于2021年1月12日結束。 請參閱下列遷移指南。
+  > 此產品的支援將於 2021 年 1 月 12 日終止。 請參閱下面的移轉指引。
 products:
 - microsoft-servers
 policyType: fixed
@@ -29,4 +29,4 @@ releases:
 - version: Original Release
   startDate: 11/14/2010
   endDate: 01/12/2021
-content: "\n## <a name=\"links\"></a>Links \n* [遷移指引](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n* [其他遷移資訊](/host-integration-server/install-and-config-guides/his-migration-tool-2020)"
+content: "\n## <a name=\"links\"></a>連結 \n* [移轉指引](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n* [其他移轉資訊](/host-integration-server/install-and-config-guides/his-migration-tool-2020)"

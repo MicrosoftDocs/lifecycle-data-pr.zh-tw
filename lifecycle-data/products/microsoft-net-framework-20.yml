@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: d6d186410b904b018d0d12029387bf88ac0784fb
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "807437"
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 02/17/2006
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Links \n* [生命週期 FAQ-.NET Framework](/lifecycle/faq/dotnet-framework)\n* [產品資訊](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-20)\n\n> [!NOTE]\n> .NET Framework 2.0 的支援已于年7月 12 2011 日結束。"
+content: "\n## <a name=\"links\"></a>連結 \n* [生命週期常見問題集 - .NET Framework](/lifecycle/faq/dotnet-framework)\n* [產品資訊](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-20)\n\n> [!NOTE]\n> 對 .NET Framework 2.0 的支援已於 2011 年 7 月 12 日終止。"

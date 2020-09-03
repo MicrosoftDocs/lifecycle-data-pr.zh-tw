@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 5a2858bb27edff6224fcdc816c1c16c11193d7ed
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "806889"
@@ -14,7 +14,7 @@ summary: >+
   Exchange Server 2003 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
 
 
-  這適用于下列版本： Enterprise、Standard
+  本文適用於下列版本：Enterprise，Standard
 
 products:
 - office
@@ -33,4 +33,4 @@ releases:
 - version: Original Release
   startDate: 09/28/2003
   endDate: 05/25/2005
-content: "\n## <a name=\"links\"></a>Links \n* [Service pack 原則](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>版本 \n* 企業\n* 標準"
+content: "\n## <a name=\"links\"></a>連結 \n* [Service Pack 原則](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>版本 \n* Enterprise\n* 標準版"

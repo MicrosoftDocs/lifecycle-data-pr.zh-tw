@@ -1,15 +1,15 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft 系統管理伺服器2003
+  title: Microsoft Systems Management Server 2003
   description: Microsoft Systems Management Server 2003 遵循固定生命週期原則。
   ms.date: 07/28/2020
   ms.openlocfilehash: 1a0eb37a2f2ee74b56d465ba62abb191952c76d7
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "807375"
-name: Microsoft 系統管理伺服器2003
+name: Microsoft Systems Management Server 2003
 summary: >+
   Microsoft Systems Management Server 2003 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
 
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 01/20/2004
   endDate: 09/10/2005
-content: "\n## <a name=\"links\"></a>Links \n* [Service pack 原則](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>連結 \n* [Service Pack 原則](/lifecycle/policies/fixed#service-packs)"

@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 736253699cf6033278b0f49fbf90bd2289a1b9a6
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "807411"
@@ -14,7 +14,7 @@ summary: >+
   Microsoft Search Server 2010 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
 
 
-  這適用于下列版本：所有適用的明示
+  本文適用於下列版本：全部適用、Express
 
 products:
 - office
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 06/15/2010
   endDate: 07/10/2012
-content: "\n## <a name=\"links\"></a>Links \n* [遷移指引](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n\n\n## <a name=\"editions\"></a>版本 \n* 所有適用\n* 表達"
+content: "\n## <a name=\"links\"></a>連結 \n* [移轉指引](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n\n\n## <a name=\"editions\"></a>版本 \n* 所有適用者\n* Express"

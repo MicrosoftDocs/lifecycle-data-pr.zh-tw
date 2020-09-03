@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: b96e4abc858aaa87a5031200887e906b781878f7
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "807307"
@@ -14,12 +14,12 @@ summary: >
   Windows Mobile 2003 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
 
 
-  這適用于下列版本：適用于袖珍電腦、Smartphone、用於 Pocket PC 的第二版軟體、Smartphone 的第二版軟體
+  本文適用於下列版本：適用於 Pocket PC、適用於 Smartphones、適用於 Pocket PC  Phone 的 Second Edition 軟體、適用於 Smartphone 的 Second Edition 軟體
 
 
   > [!IMPORTANT]
 
-  > 已結束對此產品的支援。
+  > 此產品的支援已終止。
 products:
 - windows
 policyType: fixed
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 05/31/2004
   endDate: 07/08/2014
-content: "\n\n\n## <a name=\"editions\"></a>版本 \n* 適用于 Pocket PC\n* Smartphone\n* Pocket PC Phone 的第二版軟體\n* Smartphone 的第二版軟體"
+content: "\n\n\n## <a name=\"editions\"></a>版本 \n* 適用於 Pocket PC\n* 適用於 Smartphones\n* 適用於 Pocket PC Phone 的 Second Edition 軟體\n* 適用於 Smartphone 的 Second Edition 軟體"

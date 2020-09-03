@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 91dc4515ba59f72b52cc7c9d517407dfaf552702
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "807575"
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 02/12/2009
   endDate: 10/11/2011
-content: "\n## <a name=\"links\"></a>Links \n* [Service pack 原則](/lifecycle/policies/fixed#service-packs)\n* [其他相關資訊](https://mbs.microsoft.com/partnersource/northamerica/pricing-ordering/pricing-ordering-news/MicrosoftForecasterDiscontinuation)\n\n> [!NOTE]\n> 導覽2009的支援日期結束日期會如下所示擴充。"
+content: "\n## <a name=\"links\"></a>連結 \n* [Service Pack 原則](/lifecycle/policies/fixed#service-packs)\n* [其他資訊](https://mbs.microsoft.com/partnersource/northamerica/pricing-ordering/pricing-ordering-news/MicrosoftForecasterDiscontinuation)\n\n> [!NOTE]\n> NAV 2009 的終止支援日期已延期，如下所示。"
