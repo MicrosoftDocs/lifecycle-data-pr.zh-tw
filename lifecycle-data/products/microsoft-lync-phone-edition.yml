@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/30/2020
   ms.openlocfilehash: 9eab078296b6c16d3acdc1552739dabb02ab10a1
   ms.sourcegitcommit: e219a019691b1cde9e6f715e4e725b5861450d57
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 07/31/2020
   ms.locfileid: "879483"
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 01/25/2011
   endDate: 04/11/2023
-content: "\n## <a name=\"links\"></a>Links \n* [其他資訊](https://techcommunity.microsoft.com/t5/Skype-for-Business-Blog/Certified-Skype-for-Business-Online-Phones-and-what-this-means/ba-p/120035)\n\n> [!NOTE]\n> Lync Server 2010 和 Lync Server 2013 支援 lync Phone Edition。 Lync Phone Edition 的支援日期已擴充2年，以與 Lync Server 2013 生命週期相符。"
+content: "\n## <a name=\"links\"></a>連結 \n* [其他資訊](https://techcommunity.microsoft.com/t5/Skype-for-Business-Blog/Certified-Skype-for-Business-Online-Phones-and-what-this-means/ba-p/120035)\n\n> [!NOTE]\n> Lync Server 2010 與 Lync Server 2013 均支援 Lync Phone Edition。 Lync Phone Edition 的支援日期已延長 2 年，以與 Lync Server 2013 生命週期對應。"

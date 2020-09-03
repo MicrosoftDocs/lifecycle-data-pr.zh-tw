@@ -5,12 +5,12 @@ metadata:
   ms.date: 08/12/2020
   ms.openlocfilehash: 8276b2ba221fb3c6c05948ac9712c3e10c9a1628
   ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 08/13/2020
   ms.locfileid: "892490"
 name: System Center Operations Manager 2007 R2
-summary: "System Center Operations Manager 2007 R2 遵循[固定](/lifecycle/policies/fixed)生命週期原則。\n\n\n> [!IMPORTANT]\n> 已結束對此產品的支援。 請參閱下列遷移指南。 \n"
+summary: "System Center Operations Manager 2007 R2 遵循[固定](/lifecycle/policies/fixed)生命週期原則。\n\n\n> [!IMPORTANT]\n> 此產品的支援已終止。 請參閱下面的移轉指引。 \n"
 products:
 - msc
 policyType: fixed
@@ -22,4 +22,4 @@ releases:
 - version: Original Release
   startDate: 08/20/2009
   endDate: 07/09/2019
-content: "\n## <a name=\"links\"></a>Links \n* [遷移指引](/system-center/scom/deploy-upgrade-overview?view=sc-om-2019)"
+content: "\n## <a name=\"links\"></a>連結 \n* [移轉指引](/system-center/scom/deploy-upgrade-overview?view=sc-om-2019)"

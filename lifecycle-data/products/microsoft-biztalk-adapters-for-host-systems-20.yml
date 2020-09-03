@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft BizTalk 主機系統2.0 的配接器
-  description: 主機系統2.0 的 Microsoft BizTalk 配接器遵循固定生命週期原則。
+  title: Microsoft BizTalk Adapters for Host Systems 2.0
+  description: Microsoft BizTalk Adapters for Host Systems 2.0 遵循固定生命週期原則。
   ms.date: 08/12/2020
   ms.openlocfilehash: 425db6cb5918efdf9afc544d8a0e8bb554ce695c
   ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 08/13/2020
   ms.locfileid: "893489"
-name: Microsoft BizTalk 主機系統2.0 的配接器
+name: Microsoft BizTalk Adapters for Host Systems 2.0
 summary: >+
-  主機系統2.0 的 Microsoft BizTalk 配接器遵循[固定](/lifecycle/policies/fixed)生命週期原則。
+  Microsoft BizTalk Adapters for Host Systems 2.0 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
 
 
-  這適用于下列版本： Developer，Standard
+  本文適用於下列版本：Developer, Standard
 
 products:
 - microsoft-servers
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 06/21/2009
   endDate: 07/09/2019
-content: "\n## <a name=\"links\"></a>Links \n* [遷移指引](https://techcommunity.microsoft.com/t5/Host-Integration-Blog/End-of-Support-for-BizTalk-Adapters-for-Host-Systems-2-0/ba-p/269471)\n\n\n## <a name=\"editions\"></a>版本 \n* Developer\n* 標準"
+content: "\n## <a name=\"links\"></a>連結 \n* [移轉指引](https://techcommunity.microsoft.com/t5/Host-Integration-Blog/End-of-Support-for-BizTalk-Adapters-for-Host-Systems-2-0/ba-p/269471)\n\n\n## <a name=\"editions\"></a>版本 \n* Developer\n* 標準版"

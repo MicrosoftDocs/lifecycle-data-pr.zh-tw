@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 財務和作業的 Dynamics 365 （內部部署）
-  description: 用於財務和作業的 Dynamics 365 （內部部署）遵循新式生命週期原則。
+  title: Dynamics 365 for Finance and Operations (內部部署)
+  description: Dynamics 365 for Finance and Operations (內部部署) 遵循新式生命週期原則。
   ms.date: 07/28/2020
   ms.openlocfilehash: 026c1a37c7e772e8a9982c4c0190ae4d44e24ea3
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "868052"
-name: 財務和作業的 Dynamics 365 （內部部署）
+name: Dynamics 365 for Finance and Operations (內部部署)
 summary: >+
-  用於財務和作業的 Dynamics 365 （內部部署）遵循[新式](/lifecycle/policies/modern)生命週期原則。
+  Dynamics 365 for Finance and Operations (內部部署) 遵循[新式](/lifecycle/policies/modern)生命週期原則。
 
 
-  這適用于下列版本： Enterprise
+  本文適用於下列版本：Enterprise
 
 products:
 - dynamics
@@ -24,4 +24,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 06/15/2017
-content: "\n## <a name=\"links\"></a>Links \n* [服務資訊](/dynamics365/unified-operations/dev-itpro/migration-upgrade/on-prem-version-update-policy)\n* [系統需求](https://ax.help.dynamics.com/wiki/browser-requirements/)\n\n\n## <a name=\"editions\"></a>版本 \n* 企業"
+content: "\n## <a name=\"links\"></a>連結 \n* [服務資訊](/dynamics365/unified-operations/dev-itpro/migration-upgrade/on-prem-version-update-policy)\n* [系統需求](https://ax.help.dynamics.com/wiki/browser-requirements/)\n\n\n## <a name=\"editions\"></a>版本 \n* Enterprise"

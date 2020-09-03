@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 8eb60aa5e94d8c064f0bb06f4bfb11782141d320
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "868175"
@@ -14,7 +14,7 @@ summary: >+
   SQL Server 2017 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
 
 
-  這適用于下列版本：在 Linux （所有版本）上，在 Windows （所有版本）
+  本文適用於下列版本：Linux 上 (所有版本)、Windows 上 (所有版本)
 
 products:
 - sql-server
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 09/29/2017
   endDate: 10/12/2027
-content: "\n## <a name=\"links\"></a>Links \n* [服務資訊](https://blogs.msdn.microsoft.com/sqlreleaseservices/announcing-the-modern-servicing-model-for-sql-server/)\n\n> [!NOTE]\n> 從 SQL Server 2017 開始，將不會發行任何 Service Pack。\n\n## <a name=\"editions\"></a>版本 \n* 在 Linux （all edition）\n* 在 Windows （所有版本）"
+content: "\n## <a name=\"links\"></a>連結 \n* [服務資訊](https://blogs.msdn.microsoft.com/sqlreleaseservices/announcing-the-modern-servicing-model-for-sql-server/)\n\n> [!NOTE]\n> 從 SQL Server 2017 開始，不再發行任何 Service Pack。\n\n## <a name=\"editions\"></a>版本 \n* Linux 上 (所有版本)\n* Windows 上 (所有版本)"

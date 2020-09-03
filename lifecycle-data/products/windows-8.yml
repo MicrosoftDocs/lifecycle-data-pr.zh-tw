@@ -5,21 +5,21 @@ metadata:
   ms.date: 08/21/2020
   ms.openlocfilehash: 125ef61a36e4958dd5b87525ae6f5c53181c6e28
   ms.sourcegitcommit: 72c1339c867caa2110c5c1501a6659bcee72415d
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 08/21/2020
   ms.locfileid: "906684"
 name: Windows 8
 summary: >
-  Windows 8 遵循 [固定](/lifecycle/policies/fixed) 生命週期原則。
+  Windows 8 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
 
 
-  這適用于下列版本： Enterprise、Enterprise N、N、Pro with Media Center、Professional、Professional N、SL
+  本文適用於下列版本：企業版、企業版 N、 N、專業版 (含 Media Center)、專業版、專業版 N、SL
 
 
   > [!IMPORTANT]
 
-  > 已結束對此產品的支援。 客戶必須更新為 Windows 8.1 才能繼續支援。
+  > 此產品的支援已終止。 客戶必須更新至 Windows 8.1 才能維持受到支援。
 products:
 - windows
 policyType: fixed
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 10/30/2012
   endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>Links \n* [生命週期常見問題-Windows 8。1](/lifecycle/faq/windows#windows-81)\n\n\n## <a name=\"editions\"></a>版本 \n* 企業\n* Enterprise N\n* N\n* 具有媒體中心的 Pro\n* 專業\n* 專業版 N\n* Sl"
+content: "\n## <a name=\"links\"></a>連結 \n* [生命週期常見問題集 - Windows 8.1](/lifecycle/faq/windows#windows-81)\n\n\n## <a name=\"editions\"></a>版本 \n* Enterprise\n* 企業版 N\n* N\n* Pro with Media Center\n* Professional\n* 專業版 N\n* SL"

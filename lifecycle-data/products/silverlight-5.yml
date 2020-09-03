@@ -1,15 +1,15 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Silverlight 5
+  title: silverlight 5
   description: Silverlight 5 遵循固定生命週期原則。
   ms.date: 07/28/2020
   ms.openlocfilehash: 2bdc8039724e69c5693e178d5697eb4e7242c3d2
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "868130"
-name: Silverlight 5
+name: silverlight 5
 summary: >+
   Silverlight 5 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
 
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 12/09/2011
   endDate: 10/12/2021
-content: "\n## <a name=\"links\"></a>Links \n* [Silverlight 5 將支援在這裡透過10/12/2021 列出的瀏覽器，或透過基礎瀏覽器的生命週期（以較短的為准）。](https://www.microsoft.com/getsilverlight/locale/html/installation-win-SL5.html)\n* [Silverlight 的支援結束](https://support.microsoft.com/help/4511036/silverlight-end-of-support)\n\n> [!NOTE]\n> Microsoft 將在結束支援工具之前，先提供至少12個月的通知。"
+content: "\n## <a name=\"links\"></a>連結 \n* [Silverlight 5 將會支援這裡所列的瀏覽器，直到 2021/10/12 或基礎瀏覽器的生命週期告終為止 (取時間較短者)。](https://www.microsoft.com/getsilverlight/locale/html/installation-win-SL5.html)\n* [終止支援 Silverlight](https://support.microsoft.com/help/4511036/silverlight-end-of-support)\n\n> [!NOTE]\n> 在工具終止支援以前，Microsoft 會提供至少 12 個月的通知。"
