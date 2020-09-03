@@ -5,11 +5,11 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: fbab932e4c44c55969682684dc2ec7590c3dd6f9
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "849896"
-name: 適用於 Microsoft SharePoint 及 SAP 的 Duet Enterprise
+name: Duet Enterprise for Microsoft SharePoint and SAP
 summary: >
   Duet Enterprise for Microsoft SharePoint and SAP 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
 
@@ -17,7 +17,7 @@ summary: >
 
   > [!IMPORTANT]
 
-  > 已結束對此產品的支援。 SAP 會銷售和支援此產品。
+  > 此產品的支援已終止。 此產品由 SAP 銷售和支援。
 products:
 - office
 policyType: fixed
@@ -32,4 +32,4 @@ releases:
 - version: Original Release
   startDate: 03/16/2011
   endDate: 12/31/2017
-content: "\n## <a name=\"links\"></a>Links \n* [SAP 支援](https://support.sap.com/index.html)"
+content: "\n## <a name=\"links\"></a>連結 \n* [SAP 支援](https://support.sap.com/index.html) (英文)"

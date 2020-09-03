@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 0462a82a1db09bc170784225cae666c3d526559c
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "849732"
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 10/09/2012
   endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>Links \n* [生命週期 FAQ-.NET Framework](/lifecycle/faq/dotnet-framework)\n* [產品資訊](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-45)\n\n> [!NOTE]\n> 支援 .NET Framework 4、4.5 和4.5.1 于2016年1月12日結束。"
+content: "\n## <a name=\"links\"></a>連結 \n* [生命週期常見問題集 - .NET Framework](/lifecycle/faq/dotnet-framework)\n* [產品資訊](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-45)\n\n> [!NOTE]\n> .NET Framework 4、4.5 和 4.5.1 在 2016 年 1 月 12 日終止支援。"

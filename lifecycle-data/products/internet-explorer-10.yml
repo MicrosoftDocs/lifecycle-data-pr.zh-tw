@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 1faf7eecca13c22c8c54ab7382dfcf21c637cb1f
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "849774"
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 10/30/2012
   endDate: 01/31/2020
-content: "\n## <a name=\"links\"></a>Links \n* [遷移指引](https://www.microsoft.com/en-us/WindowsForBusiness/End-of-IE-support)\n* [Internet Explorer 生命週期原則常見問題](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> 如需支援的作業系統和瀏覽器混合的清單，請流覽 Internet Explorer 生命週期常見問題。"
+content: "\n## <a name=\"links\"></a>連結 \n* [移轉指引](https://www.microsoft.com/en-us/WindowsForBusiness/End-of-IE-support)\n* [Internet Explorer 生命週期原則常見問題集](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> 請造訪＜Internet Explorer 生命週期常見問題集＞，以取得支援的作業系統與瀏覽器組合清單。"

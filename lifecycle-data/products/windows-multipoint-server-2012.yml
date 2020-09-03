@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 680c62e4b7aa1f0393f32386deb68f9c976b7c9b
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "849854"
@@ -14,7 +14,7 @@ summary: >+
   Windows MultiPoint Server 2012 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
 
 
-  這適用于下列版本： Premium，Standard
+  本文適用於下列版本：進階版，標準版
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 10/30/2012
   endDate: 10/10/2023
-content: "\n## <a name=\"links\"></a>Links \n* [遷移指引](/windows-server/upgrade/upgrade-overview)\n\n> [!NOTE]\n> 本產品的主流和延伸支援已延期，可為客戶提供標準生命週期轉換時程表。\n\n## <a name=\"editions\"></a>版本 \n* Premium\n* 標準"
+content: "\n## <a name=\"links\"></a>連結 \n* [移轉指引](/windows-server/upgrade/upgrade-overview)\n\n> [!NOTE]\n> 已延長此產品的主要和延伸支援，以為客戶提供標準的生命週期轉換時間表。\n\n## <a name=\"editions\"></a>版本 \n* 進階版\n* 標準版"

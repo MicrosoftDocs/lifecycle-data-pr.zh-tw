@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: b7f4d4313e664c1d52d52ee6394c8cad97f69e85
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "849628"
@@ -24,4 +24,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 11/01/2014
-content: "\n## <a name=\"links\"></a>Links \n* [StorSimple 解決方案支援](https://msdn.microsoft.com/library/mt433077(TechNet.10).aspx)\n* [遷移指引](/azure/storage/files/storage-files-migration-storsimple-8000)\n\n> [!NOTE]\n> 支援 Azure StorSimple 8000 系列的支援，如提供客戶使用標準生命週期的時程表所示。 擴充支援只包含硬體取代和安全性更新。"
+content: "\n## <a name=\"links\"></a>連結 \n* [StorSimple 解決方案支援](https://msdn.microsoft.com/library/mt433077(TechNet.10).aspx) (部分機器翻譯)\n* [移轉指引](/azure/storage/files/storage-files-migration-storsimple-8000)\n\n> [!NOTE]\n> 對 Azure StorSimple 8000 Series 的支援顯示為已延伸，以提供客戶標準生命週期時間表。 延伸支援包括硬體更換和僅限安全性更新。"

@@ -1,15 +1,15 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft .NET Framework 4.5。1
+  title: Microsoft .NET Framework 4.5.1
   description: Microsoft .NET Framework 4.5.1 遵循元件生命週期原則。
   ms.date: 07/28/2020
   ms.openlocfilehash: 9141a70347bbcd248703cfb15bfe1414abda7caa
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "849731"
-name: Microsoft .NET Framework 4.5。1
+name: Microsoft .NET Framework 4.5.1
 summary: >+
   Microsoft .NET Framework 4.5.1 遵循[元件](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)生命週期原則。
 
@@ -24,4 +24,4 @@ releases:
 - version: RTM
   startDate: 01/15/2014
   endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>Links \n* [產品資訊](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-451)\n\n> [!NOTE]\n> 支援 .NET Framework 4、4.5 和4.5.1 于2016年1月12日結束。"
+content: "\n## <a name=\"links\"></a>連結 \n* [產品資訊](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-451)\n\n> [!NOTE]\n> .NET Framework 4、4.5 和 4.5.1 在 2016 年 1 月 12 日終止支援。"

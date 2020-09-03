@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Application Virtualization 5。1
+  title: Microsoft Application Virtualization 5.1
   description: Microsoft Application Virtualization 5.1 遵循固定生命週期原則。
   ms.date: 07/28/2020
   ms.openlocfilehash: 3f0cac2ee013dd73e44fe41d9ba1d07cfcfce2f1
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "849766"
-name: Microsoft Application Virtualization 5。1
+name: Microsoft Application Virtualization 5.1
 summary: >+
   Microsoft Application Virtualization 5.1 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
 
 
-  這適用于下列版本：適用于遠端桌面服務的 Windows 桌上出版
+  本文適用於下列版本：適用於 Remote Desktop Services、適用於 Windows Desktops
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 11/01/2015
   endDate: 04/14/2026
-content: "\n## <a name=\"links\"></a>Links \n* [產品資訊](/microsoft-desktop-optimization-pack/appv-v5/microsoft-application-virtualization-50-administrators-guide)\n\n\n## <a name=\"editions\"></a>版本 \n* 遠端桌面服務的\n* 適用于 Windows 桌面"
+content: "\n## <a name=\"links\"></a>連結 \n* [產品資訊](/microsoft-desktop-optimization-pack/appv-v5/microsoft-application-virtualization-50-administrators-guide)\n\n\n## <a name=\"editions\"></a>版本 \n* 適用於 Remote Desktop Services\n* 適用於 Windows Desktops"

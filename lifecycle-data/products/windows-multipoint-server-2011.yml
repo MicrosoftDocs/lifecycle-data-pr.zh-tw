@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 002686168c27c03c0b513a06c0b73754b9559a3c
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "849856"
@@ -14,7 +14,7 @@ summary: >+
   Windows MultiPoint Server 2011 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
 
 
-  這適用于下列版本： Premium，Standard
+  本文適用於下列版本：進階版，標準版
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 05/12/2011
   endDate: 07/13/2021
-content: "\n## <a name=\"links\"></a>Links \n* [遷移指引](/windows-server/get-started/installation-and-upgrade)\n* [產品資訊](/windows-server/remote/multipoint-services/getting-started-with-multipoint-services)\n\n\n## <a name=\"editions\"></a>版本 \n* Premium\n* 標準"
+content: "\n## <a name=\"links\"></a>連結 \n* [移轉指引](/windows-server/get-started/installation-and-upgrade)\n* [產品資訊](/windows-server/remote/multipoint-services/getting-started-with-multipoint-services)\n\n\n## <a name=\"editions\"></a>版本 \n* 進階版\n* 標準版"
