@@ -1,15 +1,15 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft .NET Framework 4。8
+  title: Microsoft .NET Framework 4.8
   description: Microsoft .NET Framework 4.8 遵循元件生命週期原則。
   ms.date: 07/28/2020
   ms.openlocfilehash: df883bbb34d446d8dfe0ba2635a781778f510841
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "868157"
-name: Microsoft .NET Framework 4。8
+name: Microsoft .NET Framework 4.8
 summary: >+
   Microsoft .NET Framework 4.8 遵循[元件](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)生命週期原則。
 
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 04/18/2019
-content: "\n## <a name=\"links\"></a>Links \n* [產品資訊](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-48)\n* [.NET Framework 生命週期常見問題](/lifecycle/faq/dotnet-framework)\n\n> [!NOTE]\n> .NET Framework 是 Windows 作業系統的元件。 元件與其上層產品或平臺一樣，都能取得相同的支援。"
+content: "\n## <a name=\"links\"></a>連結 \n* [產品資訊](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-48)\n* [.NET Framework 生命週期常見問答集](/lifecycle/faq/dotnet-framework)\n\n> [!NOTE]\n> .NET Framework 是 Windows 作業系統的元件。 元件所得到的支援與其父產品或平台相同。"

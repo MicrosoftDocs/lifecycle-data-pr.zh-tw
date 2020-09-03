@@ -5,7 +5,7 @@ metadata:
   ms.date: 08/12/2020
   ms.openlocfilehash: 62c563784a27bf046f85b65ff75c31ec969d0bb6
   ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 08/13/2020
   ms.locfileid: "893637"
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 11/13/2013
-content: "\n## <a name=\"links\"></a>Links \n* [遷移指引](https://www.microsoft.com/itpro/microsoft-edge)\n* [Internet Explorer 生命週期原則常見問題](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> 從2016年1月12日開始，只有可用於支援的作業系統的最新版本的 Internet Explorer 會收到技術支援和安全性更新。"
+content: "\n## <a name=\"links\"></a>連結 \n* [移轉指引](https://www.microsoft.com/itpro/microsoft-edge)\n* [Internet Explorer 生命週期原則常見問題集](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> 2016 年 1 月 12 日起，只有支援的作業系統可使用的最新 Internet Explorer 版本才會收到技術支援和安全性更新。"

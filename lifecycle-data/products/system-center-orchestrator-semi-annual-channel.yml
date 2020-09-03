@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 9b854c8bacdf528bc85b87d07b03664a62fd04c2
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "868159"
@@ -17,7 +17,7 @@ summary: >
 
   > [!IMPORTANT]
 
-  > 支援已結束。 請參閱下列遷移指南。
+  > 支援已結束。 請參閱下面的移轉指引。
 products:
 - msc
 policyType: modern-on-prem
@@ -31,4 +31,4 @@ releases:
 - version: Version 1801
   startDate: 02/08/2018
   endDate: 08/08/2019
-content: "\n## <a name=\"links\"></a>Links \n* [遷移指引](/system-center/orchestrator/upgrade-orch?view=sc-orch-2019)"
+content: "\n## <a name=\"links\"></a>連結 \n* [移轉指引](/system-center/orchestrator/upgrade-orch?view=sc-orch-2019)"

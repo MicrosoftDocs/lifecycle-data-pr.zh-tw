@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 適用于 Exchange Server 的 Forefront Security
-  description: 適用于 Exchange Server 的 Forefront Security 遵循固定生命週期原則。
+  title: Forefront Security for Exchange Server
+  description: Forefront Security for Exchange Server 遵循固定生命週期原則。
   ms.date: 08/12/2020
   ms.openlocfilehash: 0053b2aaf2be3d4c6ecbc29a6396bade882e16dc
   ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 08/13/2020
   ms.locfileid: "893711"
-name: 適用于 Exchange Server 的 Forefront Security
+name: Forefront Security for Exchange Server
 summary: >
-  適用于 Exchange Server 的 Forefront Security 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
+  Forefront Security for Exchange Server 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
 
 
 
   > [!IMPORTANT]
 
-  > Forefront 品牌底下安全性產品的藍圖已變更。 本產品的終止于2015年12月31日。
+  > Forefront 品牌下的安全性產品藍圖已經變更。 本產品自 2015 年 12 月 31 日起中止。
 products:
 - windows
 policyType: fixed
@@ -35,4 +35,4 @@ releases:
 - version: Original Release
   startDate: 03/08/2007
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Links \n* [遷移指引](https://www.microsoft.com/security/business/explore/cybersecurity)"
+content: "\n## <a name=\"links\"></a>連結 \n* [移轉指引](https://www.microsoft.com/security/business/explore/cybersecurity)"
