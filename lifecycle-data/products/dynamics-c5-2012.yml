@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 0e2fde2211933228e6bd97265e65fd5c7d711bde
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "849888"
@@ -14,7 +14,7 @@ summary: >+
   Dynamics C5 2012 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
 
 
-  這適用于下列版本： Standard
+  本文適用於下列版本：標準版
 
 products:
 - dynamics
@@ -32,4 +32,4 @@ releases:
 - version: Original Release
   startDate: 01/10/2012
   endDate: 01/14/2014
-content: "\n## <a name=\"links\"></a>Links \n* [遷移指引](/dynamics-nav-app/localfunctionality/denmark/ui-extensions-c5-data-migration)\n* [Service pack 原則](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>版本 \n* 標準"
+content: "\n## <a name=\"links\"></a>連結 \n* [移轉指引](/dynamics-nav-app/localfunctionality/denmark/ui-extensions-c5-data-migration)\n* [Service Pack 原則](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>版本 \n* 標準版"

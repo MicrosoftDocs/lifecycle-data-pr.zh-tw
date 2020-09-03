@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Embedded 8 工業
-  description: Windows Embedded 8 工業遵循固定生命週期原則。
+  title: Windows Embedded 8 Industry
+  description: Windows Embedded 8 Industry 遵循固定生命週期原則。
   ms.date: 07/28/2020
   ms.openlocfilehash: 9ea7dea72b8c455d30007ba3b166f43cf59a4822
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "849648"
-name: Windows Embedded 8 工業
+name: Windows Embedded 8 Industry
 summary: >
-  Windows Embedded 8 工業遵循[固定](/lifecycle/policies/fixed)生命週期原則。
+  Windows Embedded 8 Industry 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
 
 
-  這適用于下列版本： Enterprise、Pro
+  本文適用於下列版本：Enterprise, Pro
 
 
   > [!IMPORTANT]
 
-  > 客戶必須遷移到 Windows 8.1 才能繼續支援。
+  > 客戶必須移轉至 Windows 8.1 才能維持受到支援。
 products:
 - windows
 policyType: fixed
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 06/24/2013
   endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>Links \n* [遷移指南](https://www.microsoft.com/download/details.aspx?id=40279)\n* [生命週期常見問題-Windows 產品](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>版本 \n* 企業\n* 水準"
+content: "\n## <a name=\"links\"></a>連結 \n* [移轉指引](https://www.microsoft.com/download/details.aspx?id=40279)\n* [生命週期常見問題集 - Windows 產品](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>版本 \n* Enterprise\n* 專業版"
