@@ -1,15 +1,15 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Internet Information Services 7。5
+  title: Microsoft Internet Information Services 7.5
   description: Microsoft Internet Information Services 7.5 遵循元件生命週期原則。
   ms.date: 07/28/2020
   ms.openlocfilehash: 22b88b7209f8aea2ae47d7486d5c946008768d76
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "807813"
-name: Microsoft Internet Information Services 7。5
+name: Microsoft Internet Information Services 7.5
 summary: >+
   Microsoft Internet Information Services 7.5 遵循[元件](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)生命週期原則。
 
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 10/22/2009
-content: "> [!TIP]\n> 此版本稱為元件，遵循其上層主要產品、Windows 7 和 Windows Server 2008 R2 的支援週期\n\n## <a name=\"links\"></a>Links \n* [Windows Server 2008 R2](/lifecycle/products/windows-server-2008-r2)"
+content: "> [!TIP]\n> 此版本即為元件，遵循其上層主要產品　Windows 7 和 Windows Server 2008 R2 的支援生命週期\n\n## <a name=\"links\"></a>連結 \n* [Windows Server 2008 R2](/lifecycle/products/windows-server-2008-r2)"

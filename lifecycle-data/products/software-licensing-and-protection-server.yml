@@ -1,25 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 軟體授權和保護伺服器
-  description: 軟體授權和保護伺服器遵循固定生命週期原則。
+  title: Software Licensing and Protection Server
+  description: Software Licensing and Protection Server 遵循固定生命週期原則。
   ms.date: 07/28/2020
   ms.openlocfilehash: 9a42af57f9f0bfd7232e67126c6d9923413e06f6
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "806834"
-name: 軟體授權和保護伺服器
-summary: >
-  軟體授權和保護伺服器遵循[固定](/lifecycle/policies/fixed)生命週期原則。
-
-
-  這適用于下列版本： Enterprise、Standard
-
-
-  > [!IMPORTANT]
-
-  > 由於軟體授權和保護伺服器（SLPS）的分割，Microsoft 支援的 SLPS 直到2009年9月24日。
+name: Software Licensing and Protection Server
+summary: "Software Licensing and Protection Server 遵循[固定](/lifecycle/policies/fixed)生命週期原則。 \n\n此項適用於下列版本：企業版、標準版\n\n> [!IMPORTANT]\n> 由於 Software Licensing and Protection Server (SLPS) 的分割，Microsoft  只支援 SLPS 到 2009 年 9 月 24 日。\n"
 products:
 - windows
 policyType: fixed
@@ -31,4 +22,4 @@ releases:
 - version: Original Release
   startDate: 12/30/2007
   endDate: 01/09/2018
-content: "\n## <a name=\"links\"></a>Links \n* [軟體授權和保護伺服器（SLPS）](https://www.microsoft.com/slps)\n\n\n## <a name=\"editions\"></a>版本 \n* 企業\n* 標準"
+content: "\n## <a name=\"links\"></a>連結 \n* [Software Licensing and Protection Server (SLPS)](https://www.microsoft.com/slps)\n\n\n## <a name=\"editions\"></a>版本 \n* Enterprise\n* 標準版"

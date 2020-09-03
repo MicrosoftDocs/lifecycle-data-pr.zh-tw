@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Office Business 計分卡管理員2005
-  description: Microsoft Office 商務計分卡管理員2005遵循固定生命週期原則。
+  title: Microsoft Office Business Scorecard Manager 2005
+  description: Microsoft Office Business Scorecard Manager 2005 遵循固定生命週期原則。
   ms.date: 07/28/2020
   ms.openlocfilehash: bc345248ceba7c8f2cac730bc1141a0dae32d398
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "807804"
-name: Microsoft Office Business 計分卡管理員2005
+name: Microsoft Office Business Scorecard Manager 2005
 summary: >+
-  Microsoft Office 商務計分卡管理員2005遵循[固定](/lifecycle/policies/fixed)生命週期原則。
+  Microsoft Office Business Scorecard Manager 2005 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 12/27/2005
   endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>Links \n* [遷移指引](https://blogs.msdn.microsoft.com/performancepoint/2016/04/06/end-of-support-for-business-scorecard-accelerator-and-business-scorecard-manager-2005)\n\n> [!NOTE]\n> Business 計分卡管理員2005的支援結束于1/12/2016。"
+content: "\n## <a name=\"links\"></a>連結 \n* [移轉指引](https://blogs.msdn.microsoft.com/performancepoint/2016/04/06/end-of-support-for-business-scorecard-accelerator-and-business-scorecard-manager-2005)\n\n> [!NOTE]\n> 對 Business Scorecard Manager 2005 的支援已於 2016/1/12 終止。"

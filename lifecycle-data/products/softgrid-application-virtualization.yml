@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: SoftGrid 應用程式虛擬化
-  description: SoftGrid 應用程式虛擬化遵循固定生命週期原則。
+  title: SoftGrid Application Virtualization
+  description: SoftGrid Application Virtualization 遵循固定生命週期原則。
   ms.date: 07/28/2020
   ms.openlocfilehash: 17b8078138b718a634c2561ac4b1e73f3966ce24
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "806818"
-name: SoftGrid 應用程式虛擬化
+name: SoftGrid Application Virtualization
 summary: >
-  SoftGrid 應用程式虛擬化遵循[固定](/lifecycle/policies/fixed)生命週期原則。
+  SoftGrid Application Virtualization 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
 
 
-  這適用于以下的版本：4.1 用於桌面機，4.2 用於桌面機，適用于終端機服務4。1
+  本文適用於下列版本：4.1 for Desktops、4.2 for Desktops、適用於 Terminal Services 4.1
 
 
   > [!IMPORTANT]
 
-  > 支援已結束。 請參閱下列遷移指南。
+  > 支援已結束。 請參閱下面的移轉指引。
 products:
 - windows
 policyType: fixed
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 05/25/2007
   endDate: 07/11/2017
-content: "\n## <a name=\"links\"></a>Links \n* [遷移指引](https://technet.microsoft.com/en-us/windows/bb899442)\n\n\n## <a name=\"editions\"></a>版本 \n* 適用于桌面的4。1\n* 適用于桌面的4。2\n* 終端機服務4。1"
+content: "\n## <a name=\"links\"></a>連結 \n* [移轉指引](https://technet.microsoft.com/en-us/windows/bb899442)\n\n\n## <a name=\"editions\"></a>版本 \n* 4.1 for Desktops\n* 4.2 for Desktops\n* 適用於 Terminal Services 4.1"

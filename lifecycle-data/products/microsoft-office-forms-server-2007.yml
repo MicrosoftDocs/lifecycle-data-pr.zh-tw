@@ -5,12 +5,12 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 01af695d1e4122676e1fbf362392e8b032ccf71e
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "807095"
 name: Microsoft Office Forms Server 2007
-summary: "Microsoft Office Forms Server 2007 遵循[固定](/lifecycle/policies/fixed)生命週期原則。\n\n\n> [!IMPORTANT]\n> 已結束對此產品的支援。 請參閱下列遷移指南。 \n"
+summary: "Microsoft Office Forms Server 2007 遵循[固定](/lifecycle/policies/fixed)生命週期原則。\n\n\n> [!IMPORTANT]\n> 此產品的支援已終止。 請參閱下面的移轉指引。 \n"
 products:
 - office
 policyType: fixed
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2007
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Links \n* [遷移指引](/office/troubleshoot/support/office-2007-not-support)"
+content: "\n## <a name=\"links\"></a>連結 \n* [移轉指引](/office/troubleshoot/support/office-2007-not-support)"

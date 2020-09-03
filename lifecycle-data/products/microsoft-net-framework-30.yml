@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: a237dbb82803402d137fc784cf184e58b604015b
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "807433"
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 11/21/2006
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>Links \n* [生命週期 FAQ-.NET Framework](/lifecycle/faq/dotnet-framework)\n* [產品資訊](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-30)\n\n> [!NOTE]\n> 支援 3.5 SP1 之前的 .NET Framework 2017 版本已于2011年7月12日結束。"
+content: "\n## <a name=\"links\"></a>連結 \n* [生命週期常見問題集 - .NET Framework](/lifecycle/faq/dotnet-framework)\n* [產品資訊](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-30)\n\n> [!NOTE]\n> NET Framework 3.5 SP1 之前的 3.x 版已於 2011 年 7 月 12 日終止支援。"

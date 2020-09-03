@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office Project Portfolio Server 2007
-  description: Microsoft Office 專案產品群組伺服器2007遵循固定生命週期原則。
+  description: Microsoft Office Project Portfolio Server 2007 遵循固定生命週期原則。
   ms.date: 07/28/2020
   ms.openlocfilehash: 2f15eca6cc021c35859f131ae0d1e3ddc0efc3ba
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "807428"
 name: Microsoft Office Project Portfolio Server 2007
 summary: >+
-  Microsoft Office 專案產品群組伺服器2007遵循[固定](/lifecycle/policies/fixed)生命週期原則。
+  Microsoft Office Project Portfolio Server 2007 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2007
   endDate: 04/14/2009
-content: "\n## <a name=\"links\"></a>Links \n* [遷移指引](/office/troubleshoot/support/office-2007-not-support)\n* [Service pack 原則](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>連結 \n* [移轉指引](/office/troubleshoot/support/office-2007-not-support)\n* [Service Pack 原則](/lifecycle/policies/fixed#service-packs)"

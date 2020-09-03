@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Forefront 威脅管理閘道 Web 保護服務
-  description: Microsoft Forefront 威脅管理閘道 Web Protection 服務遵循固定生命週期原則。
+  title: Microsoft Forefront Threat Management Gateway Web Protection Services
+  description: Microsoft Forefront Threat Management Gateway Web Protection Services 遵循固定生命週期原則。
   ms.date: 07/28/2020
   ms.openlocfilehash: c4c69a070513e336ed8305b8f6a37c2bf5972d1c
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "807443"
-name: Microsoft Forefront 威脅管理閘道 Web 保護服務
+name: Microsoft Forefront Threat Management Gateway Web Protection Services
 summary: >+
-  Microsoft Forefront 威脅管理閘道 Web Protection 服務遵循[固定](/lifecycle/policies/fixed)生命週期原則。
+  Microsoft Forefront Threat Management Gateway Web Protection Services 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 12/01/2009
   endDate: 12/31/2015
-content: "\n## <a name=\"links\"></a>Links \n* [Forefront 藍圖](https://blogs.technet.microsoft.com/hybridcloud/2012/09/12/important-changes-to-forefront-product-roadmaps/)\n\n> [!NOTE]\n> Forefront 品牌底下安全性產品的藍圖已變更。本產品的終止于2015年12月31日。"
+content: "\n## <a name=\"links\"></a>連結 \n* [Forefront 藍圖](https://blogs.technet.microsoft.com/hybridcloud/2012/09/12/important-changes-to-forefront-product-roadmaps/)\n\n> [!NOTE]\n> Forefront 品牌下的安全性產品藍圖已經變更。 本產品自 2015 年 12 月 31 日起中止。\n\n\n"
