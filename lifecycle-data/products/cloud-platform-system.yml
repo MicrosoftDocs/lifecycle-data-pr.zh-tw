@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 雲端平臺系統
-  description: 雲端平臺系統遵循固定生命週期原則。
+  title: 雲端平台系統
+  description: Cloud Platform System 遵循固定生命週期原則。
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: 77f8b0e296d10279130459a1c0917c04382c26bc
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "932036"
-name: 雲端平臺系統
+name: 雲端平台系統
 summary: >+
-  雲端平臺系統遵循 [固定](/lifecycle/policies/fixed) 生命週期原則。
+  Cloud Platform System 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
 
 
   本文適用於下列版本：標準版
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 01/29/2015
   endDate: 07/12/2022
-content: "\n\n> [!NOTE]\n> 對雲端平臺系統的支援會進行擴充，如要提供標準生命週期過渡時程表的所有客戶。\n> [!NOTE]\n> 雲端平臺系統標準已于2017年9月18日推出。\n\n## <a name=\"editions\"></a>版本 \n* 標準版"
+content: "\n\n> [!NOTE]\n> Cloud Platform System 的主要支援已如本文所示延長，為所有客戶提供標準生命週期轉換時間表。\n> [!NOTE]\n> Cloud Platform System Standard 於 2017 年 9 月 18 日推出。\n\n## <a name=\"editions\"></a>版本 \n* 標準版"

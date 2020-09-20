@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dynamics 365 商務中央內部部署（固定原則）
-  description: Dynamics 365 Business Central 內部部署（固定原則）遵循固定生命週期原則。
+  title: Dynamics 365 Business Central 內部部署 (固定原則)
+  description: Dynamics 365 Business Central 內部部署 (固定原則) 遵循固定生命週期原則。
   ms.date: 07/28/2020
   ms.openlocfilehash: eec6e6713736926961ab8bdd81b36fcbdeaf3dec
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "868060"
-name: Dynamics 365 商務中央內部部署（固定原則）
+name: Dynamics 365 Business Central 內部部署 (固定原則)
 summary: >+
-  Dynamics 365 Business Central 內部部署（固定原則）遵循[固定](/lifecycle/policies/fixed)生命週期原則。
+  Dynamics 365 Business Central 內部部署 (固定原則) 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
 
 
 products:

@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 6ba8930e824f29ea98cb30ad9291ac18b0834221
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "868031"
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 11/13/2018
   endDate: 01/09/2029
-content: "\n## <a name=\"links\"></a>Links \n* [Windows Server 社區](https://techcommunity.microsoft.com/t5/windows-server/ct-p/Windows-Server)\n\n> [!NOTE]\n> Windows Server 2019 和 Windows Server，版本1809已于11月13日在2018上重新發行。 已據此調整支援日期。"
+content: "\n## <a name=\"links\"></a>連結 \n* [Windows Server 社群](https://techcommunity.microsoft.com/t5/windows-server/ct-p/Windows-Server)\n\n> [!NOTE]\n> Windows Server 2019 和 Windows Server 1809 版已於 2018 年 11 月 13 日重新發行。 支持日期作了相應調整。"
