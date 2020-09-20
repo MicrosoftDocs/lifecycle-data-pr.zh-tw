@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft BizTalk 的 RosettaNet 3.0 加速器
-  description: Microsoft BizTalk 的 RosettaNet 3.0 加速器遵循固定生命週期原則。
+  title: Microsoft BizTalk Accelerator for RosettaNet 3.0
+  description: Microsoft BizTalk Accelerator for RosettaNet 3.0 遵循固定生命週期原則。
   ms.date: 09/01/2020
   keywords: Enterprise,Standard
   ms.openlocfilehash: 1a27e01c802b94c72dbcab51e79d200fb0877182
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "934811"
-name: Microsoft BizTalk 的 RosettaNet 3.0 加速器
+name: Microsoft BizTalk Accelerator for RosettaNet 3.0
 summary: >+
-  Microsoft BizTalk 的 RosettaNet 3.0 加速器遵循 [固定](/lifecycle/policies/fixed) 生命週期原則。
+  Microsoft BizTalk Accelerator for RosettaNet 3.0 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
 
 
   本文適用於下列版本：Enterprise，Standard
