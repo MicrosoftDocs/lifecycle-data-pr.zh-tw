@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 適用于 Mac 的 Microsoft Office 2016
-  description: 適用于 Mac 的 Microsoft Office 2016 遵循固定生命週期原則。
+  title: Mac 版 Microsoft Office 2016
+  description: Mac 版 Microsoft Office 2016 遵循固定生命週期原則。
   ms.date: 09/01/2020
   keywords: Home and Business,Home and Student,Standard
   ms.openlocfilehash: b92cf0db708d566826b8d260ef9026bc308c41ce
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "936291"
-name: 適用于 Mac 的 Microsoft Office 2016
+name: Mac 版 Microsoft Office 2016
 summary: >+
-  適用于 Mac 的 Microsoft Office 2016 遵循 [固定](/lifecycle/policies/fixed) 生命週期原則。
+  Mac 版 Microsoft Office 2016 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
 
 
-  這適用于下列版本：家用和 Business、Home 和 Student，Standard
+  本文適用於下列版本：家用及中小企業版、家用版、標準版
 
 products:
 - office

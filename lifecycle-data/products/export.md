@@ -1,13 +1,13 @@
 ---
 title: 生命週期資料匯出
 description: 匯出產品生命週期資訊
-ms.date: 09/14/2020
-ms.openlocfilehash: 66fc9fb6f5f5660380570bae8d69a327c9a1db80
-ms.sourcegitcommit: a246bd5f3f9227f1dbfca6471808b64cb076623a
+ms.date: 09/18/2020
+ms.openlocfilehash: eaaece725a9a3535c228d48598195b4b4a50401d
+ms.sourcegitcommit: 445dd417cde533a0479a2e7012b0a7bc5338e3a1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "1008455"
+ms.lasthandoff: 09/18/2020
+ms.locfileid: "1025020"
 ---
 # <a name="lifecycle-data-export"></a>生命週期資料匯出
 
@@ -23,7 +23,7 @@ ms.locfileid: "1008455"
 ## <a name="export-products-by-family-and-group"></a>依系列和群組匯出產品
 選取系列，然後選取要匯出的群組。 附注：選取 [群組值時，就會開始匯出]。 
 
-> [!div class="op_multi_selector" title1="家庭" title2="Group"]
+> [!div class="op_multi_selector" title1="家庭" title2="群組"]
 > - [ ( .NET |所有) ](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'.NET')
 > - [ ( .NET | .NET) ](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'.NET'%20and%20parent/parent/name%20eq%20'.NET')
 > - [ (Azure |所有) ](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Azure')

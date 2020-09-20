@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Mobile 6。1
+  title: Windows Mobile 6.1
   description: Windows Mobile 6.1 遵循固定生命週期原則。
   ms.date: 09/01/2020
   keywords: Adaptation Kit,Professional,Standard
   ms.openlocfilehash: 97c434aaac90a1923508ffe5b1d18e735bfa4101
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "939806"
-name: Windows Mobile 6。1
+name: Windows Mobile 6.1
 summary: >
-  Windows Mobile 6.1 遵循 [固定](/lifecycle/policies/fixed) 生命週期原則。
+  Windows Mobile 6.1 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
 
 
-  這適用于下列版本：適配套件，Professional，Standard
+  本文適用於下列版本：Adaptation Kit、Professional、Standard
 
 
   > [!IMPORTANT]
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 07/01/2008
   endDate: 01/08/2013
-content: "\n\n\n## <a name=\"editions\"></a>版本 \n* 適配套件\n* Professional\n* 標準版"
+content: "\n\n\n## <a name=\"editions\"></a>版本 \n* Adaptation Kit\n* Professional\n* 標準版"

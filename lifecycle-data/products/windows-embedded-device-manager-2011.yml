@@ -6,16 +6,16 @@ metadata:
   keywords: Client,SDK,Server
   ms.openlocfilehash: 8d46a10b12894b95bfb25872c893b3148aa7a550
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "939917"
 name: Windows Embedded Device Manager 2011
 summary: >
-  Windows Embedded Device Manager 2011 遵循 [固定](/lifecycle/policies/fixed) 生命週期原則。
+  Windows Embedded Device Manager 2011 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
 
 
-  這適用于下列版本：用戶端、SDK、伺服器
+  本文適用於下列版本：Client、SDK、 Server
 
 
   > [!IMPORTANT]
