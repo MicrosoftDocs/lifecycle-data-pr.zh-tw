@@ -6,16 +6,16 @@ metadata:
   keywords: Home and Business,Home and Student,Personal,Professional,Professional Plus,Standard
   ms.openlocfilehash: 7d2f310c7edad1f2fb5f6b6151add26c277c6ffe
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "930482"
 name: Microsoft Office 2016
 summary: >+
-  Microsoft Office 2016 遵循 [固定](/lifecycle/policies/fixed) 生命週期原則。
+  Microsoft Office 2016 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
 
 
-  這適用于下列的版本：家用和 Business、Home 和 Student、個人、專業、專業增強、Standard
+  本文適用於下列版本：家用及中小企業版、家用版、個人版、專業版、專業增強版、標準版
 
 products:
 - office

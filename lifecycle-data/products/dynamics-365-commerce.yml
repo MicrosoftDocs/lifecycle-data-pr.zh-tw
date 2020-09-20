@@ -1,15 +1,15 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dynamics 365 商務
+  title: Dynamics 365 Commerce
   description: Dynamics 365 Commerce 遵循新式生命週期原則。
   ms.date: 07/28/2020
   ms.openlocfilehash: caa3896b6ce5390654a79c694a018b6e5471d0ec
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "868067"
-name: Dynamics 365 商務
+name: Dynamics 365 Commerce
 summary: >+
   Dynamics 365 Commerce 遵循[新式](/lifecycle/policies/modern)生命週期原則。
 
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 07/01/2017
-content: "\n## <a name=\"links\"></a>Links \n* [Microsoft Dynamics 365 藍圖](https://roadmap.dynamics.com/)\n* [如需有關名稱變更的詳細資訊](https://dynamics.microsoft.com/retail-to-commerce/)\n\n> [!NOTE]\n> Dynamics 365 零售業現在是 Dynamics 365 Commerce"
+content: "\n## <a name=\"links\"></a>連結 \n* [Microsoft Dynamics 365 藍圖](https://roadmap.dynamics.com/)\n* [有關名稱變更的詳細資訊](https://dynamics.microsoft.com/retail-to-commerce/)\n\n> [!NOTE]\n> Dynamics 365 Retail 現在是 Dynamics 365 Commerce"

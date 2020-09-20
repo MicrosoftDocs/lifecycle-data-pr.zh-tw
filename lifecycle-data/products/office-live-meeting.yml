@@ -6,12 +6,12 @@ metadata:
   keywords: Standard
   ms.openlocfilehash: f5d328b887173c82655f707e9d931266c2d7b857
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "928891"
 name: Office Live Meeting
-summary: "Office Live Meeting 遵循 [新式](/lifecycle/policies/modern) 生命週期原則。\n\n本文適用於下列版本：標準版\n\n> [!IMPORTANT]\n> 已結束對此服務的支援。 請參閱下面的移轉指引。 \n"
+summary: "Office Live Meeting 遵循[新式](/lifecycle/policies/modern)生命週期原則。\n\n本文適用於下列版本：標準版\n\n> [!IMPORTANT]\n> 此服務的支援已終止。 請參閱下面的移轉指引。 \n"
 products:
 - office
 policyType: modern-online
