@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft BizTalk 用於 SWIFT 的 FileAct 與互動介面卡
-  description: 適用于 SWIFT 的 Microsoft BizTalk FileAct 和互動介面卡遵循固定生命週期原則。
+  title: Microsoft BizTalk FileAct and InterAct Adapters for SWIFT
+  description: Microsoft BizTalk FileAct 和 InterAct Adapters for SWIFT 遵循固定生命週期原則。
   ms.date: 07/28/2020
   ms.openlocfilehash: 654ca219f5eb9869d6bae2aaaef848a48af3560e
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "807497"
-name: Microsoft BizTalk 用於 SWIFT 的 FileAct 與互動介面卡
+name: Microsoft BizTalk FileAct and InterAct Adapters for SWIFT
 summary: >+
-  適用于 SWIFT 的 Microsoft BizTalk FileAct 和互動介面卡遵循[固定](/lifecycle/policies/fixed)生命週期原則。
+  Microsoft BizTalk FileAct 和 InterAct Adapters for SWIFT 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
 
 
 products:

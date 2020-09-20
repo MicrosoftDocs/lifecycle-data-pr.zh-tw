@@ -1,15 +1,15 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dynamics 365 商務中心
+  title: Dynamics 365 Business Central
   description: Dynamics 365 Business Central 遵循新式生命週期原則。
   ms.date: 07/28/2020
   ms.openlocfilehash: d4bcea33ffede77bb781ed2167ad9097af8fbe57
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "849895"
-name: Dynamics 365 商務中心
+name: Dynamics 365 Business Central
 summary: >+
   Dynamics 365 Business Central 遵循[新式](/lifecycle/policies/modern)生命週期原則。
 
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 11/01/2016
-content: "\n## <a name=\"links\"></a>Links \n* [Microsoft Dynamics 365 藍圖](https://aka.ms/businessappsreleasenotes)\n* [服務資訊](/dynamics365/business-central/dev-itpro/faq)\n* [系統需求](/dynamics365/business-central/product-requirements)"
+content: "\n## <a name=\"links\"></a>連結 \n* [Microsoft Dynamics 365 藍圖](https://aka.ms/businessappsreleasenotes)\n* [服務資訊](/dynamics365/business-central/dev-itpro/faq)\n* [系統需求](/dynamics365/business-central/product-requirements)"

@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Azure Power BI Workspace 集合
-  description: Azure Power BI Workspace 集合遵循新式生命週期原則。
+  title: Azure Power BI 工作區集合
+  description: Azure Power BI 工作區集合遵循新式生命週期原則。
   ms.date: 07/28/2020
   ms.openlocfilehash: a95f325fa895563c498eca76aaa2b7978d393473
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "849620"
-name: Azure Power BI Workspace 集合
+name: Azure Power BI 工作區集合
 summary: >
-  Azure Power BI Workspace 集合遵循[新式](/lifecycle/policies/modern)生命週期原則。
+  Azure Power BI 工作區集合遵循[新式](/lifecycle/policies/modern)生命週期原則。
 
 
 
   > [!IMPORTANT]
 
-  > 支援已結束。 請參閱下列遷移指南。
+  > 支援已結束。 請參閱下面的移轉指引。
 products:
 - sql-server
 policyType: modern-online
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 03/31/2016
   endDate: 07/30/2018
-content: "\n## <a name=\"links\"></a>Links \n* [遷移指引](/power-bi/developer/embedded/migrate-from-powerbi-embedded)"
+content: "\n## <a name=\"links\"></a>連結 \n* [移轉指引](/power-bi/developer/embedded/migrate-from-powerbi-embedded)"

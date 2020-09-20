@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 20f4d174c142e762fd98385e6b0296fa13c41081
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "807382"
@@ -17,7 +17,7 @@ summary: >
 
   > [!IMPORTANT]
 
-  > 已結束對此產品的支援。
+  > 此產品的支援已終止。
 products:
 - msc
 policyType: fixed

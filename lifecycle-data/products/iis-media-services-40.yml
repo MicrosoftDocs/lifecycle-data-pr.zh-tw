@@ -1,15 +1,15 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: IIS Media Services 4。0
+  title: IIS Media Services 4.0
   description: IIS Media Services 4.0 遵循元件生命週期原則。
   ms.date: 07/28/2020
   ms.openlocfilehash: 52297271a9bb92f999b37f70833442af5458ac62
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "849776"
-name: IIS Media Services 4。0
+name: IIS Media Services 4.0
 summary: >+
   IIS Media Services 4.0 遵循[元件](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)生命週期原則。
 
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 01/30/2011
-content: "\n\n> [!NOTE]\n> 此版本稱為元件，遵循其上層主要產品的支援生命週期，Windows Server 2008"
+content: "\n\n> [!NOTE]\n> 此版本被稱為元件，遵循其上層主要產品 Windows Server 2008 的支援生命週期"

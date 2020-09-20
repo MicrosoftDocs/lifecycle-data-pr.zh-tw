@@ -1,19 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 主控郵件和共同作業4.5 的 Microsoft 解決方案
-  description: 主控郵件和共同作業4.5 的 Microsoft 解決方案遵循固定生命週期原則。
+  title: Microsoft Solution for Hosted Messaging and Collaboration 4.5
+  description: Microsoft Solution for Hosted Messaging and Collaboration 4.5 遵循固定生命週期原則。
   ms.date: 07/28/2020
   ms.openlocfilehash: cbc7bce389f60d1972cae075005525780c82eed0
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "807083"
-name: 主控郵件和共同作業4.5 的 Microsoft 解決方案
-summary: >+
-  主控郵件和共同作業4.5 的 Microsoft 解決方案遵循[固定](/lifecycle/policies/fixed)生命週期原則。
-
-
+name: Microsoft Solution for Hosted Messaging and Collaboration 4.5
+summary: "Microsoft Solution for Hosted Messaging and Collaboration 4.5 遵循[固定](/lifecycle/policies/fixed)生命週期原則。 \n\n\n"
 products:
 - windows
 policyType: fixed-mainstream-only
