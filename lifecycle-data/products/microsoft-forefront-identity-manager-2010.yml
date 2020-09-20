@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 9b76ebc222ff94ed78ae77e18623f18557e8ac38
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "807447"
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 05/27/2010
   endDate: 10/11/2022
-content: "\n\n> [!NOTE]\n> Microsoft Forefront Identity Manager 2010 的主流和延伸支援都是以提供所有客戶的標準生命週期轉換時程表的方式擴充。"
+content: "\n\n> [!NOTE]\n> Microsoft Forefront Identity Manager 2010 的主要支援和延伸支援已如示延長，為所有客戶提供標準生命週期轉換時間表。"

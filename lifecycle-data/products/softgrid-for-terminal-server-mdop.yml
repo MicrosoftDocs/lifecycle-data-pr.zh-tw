@@ -1,19 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 終端機伺服器的 Softgrid （MDOP）
-  description: 終端機伺服器（MDOP）的 Softgrid 遵循固定生命週期原則。
+  title: Softgrid for Terminal Server (MDOP)
+  description: Softgrid for Terminal Server (MDOP) 遵循固定生命週期原則。
   ms.date: 07/28/2020
   ms.openlocfilehash: 678dd6057802afee1e92f8bba4296ee1b620a97d
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "806816"
-name: 終端機伺服器的 Softgrid （MDOP）
-summary: >+
-  終端機伺服器（MDOP）的 Softgrid 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
-
-
+name: Softgrid for Terminal Server (MDOP)
+summary: "Softgrid for Terminal Server (MDOP) 遵循[固定](/lifecycle/policies/fixed)生命週期原則。 \n\n\n"
 products:
 - windows
 policyType: fixed-mainstream-only
@@ -24,4 +21,4 @@ releases:
 - version: Original Release
   startDate: 01/01/2007
   endDate: 01/12/2010
-content: "\n## <a name=\"links\"></a>Links \n* [生命週期 FAQ-一般](/lifecycle/faq/general-lifecycle)\n\n> [!NOTE]\n> 排除先前取消支援的版本。 本產品的支援取決於其購買條款。"
+content: "\n## <a name=\"links\"></a>連結 \n* [生命週期常見問題集 - 一般問題](/lifecycle/faq/general-lifecycle)\n\n> [!NOTE]\n> 不包括先前已不支援的版本。 對本產品的支援受其取得條款所約束。"

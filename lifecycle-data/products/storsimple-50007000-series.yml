@@ -5,12 +5,12 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 9f41ce486a68b9b0e08999801f781e9f1b37330a
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "850102"
 name: StorSimple 5000/7000 系列
-summary: "StorSimple 5000/7000 系列遵循[固定](/lifecycle/policies/fixed)生命週期原則。\n\n\n> [!IMPORTANT]\n> 已結束對此產品的支援。 請參閱下列遷移指南。 \n"
+summary: "StorSimple 5000/7000 系列遵循[固定](/lifecycle/policies/fixed)生命週期原則。\n\n\n> [!IMPORTANT]\n> 此產品的支援已終止。 請參閱下面的移轉指引。 \n"
 products:
 - azure
 policyType: fixed-mainstream-only
@@ -21,4 +21,4 @@ releases:
 - version: Original Release
   startDate: 11/15/2012
   endDate: 07/09/2019
-content: "\n## <a name=\"links\"></a>Links \n* [遷移指引](https://azure.microsoft.com/updates/azure-storsimple-5000-7000-series-will-no-longer-be-supported-starting-july-9-2019/)"
+content: "\n## <a name=\"links\"></a>連結 \n* [移轉指引](https://azure.microsoft.com/updates/azure-storsimple-5000-7000-series-will-no-longer-be-supported-starting-july-9-2019/)"
