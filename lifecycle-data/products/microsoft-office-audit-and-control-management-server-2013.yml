@@ -5,13 +5,13 @@ metadata:
   ms.date: 08/21/2020
   ms.openlocfilehash: 95c21c2239aee0e4e83c2caf5dc3752c0915b58e
   ms.sourcegitcommit: c4013bce086aedc575584ea34b1acb5c27d06a1b
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 08/21/2020
   ms.locfileid: "907901"
 name: Microsoft Office Audit and Control Management Server 2013
 summary: >+
-  Microsoft Office Audit and Control Management Server 2013 遵循 [固定](/lifecycle/policies/fixed) 生命週期原則。
+  Microsoft Office Audit and Control Management Server 2013 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
 
 
 products:

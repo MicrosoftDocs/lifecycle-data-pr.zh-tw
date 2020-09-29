@@ -1,15 +1,15 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dynamics 365 版面配置
+  title: Dynamics 365 Layout
   description: Dynamics 365 Layout 遵循新式生命週期原則。
   ms.date: 08/12/2020
   ms.openlocfilehash: 1995274fb40f9ea278629e50c290def57f7f113d
   ms.sourcegitcommit: 1974bfc9a9fccaac36daaa1015b7f31c8814ae07
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 08/12/2020
   ms.locfileid: "891833"
-name: Dynamics 365 版面配置
+name: Dynamics 365 Layout
 summary: >+
   Dynamics 365 Layout 遵循[新式](/lifecycle/policies/modern)生命週期原則。
 
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 09/30/2018
   endDate: 12/31/2021
-content: "\n## <a name=\"links\"></a>Links \n* [版面配置及遠端協助](/dynamics365/mixed-reality/layout/faq)\n* [公佈 Dynamics 365 Layout 的轉換](https://dynamics.microsoft.com/mixed-reality/layout-transition/)"
+content: "\n## <a name=\"links\"></a>連結 \n* [Layout 與 Remote Assist](/dynamics365/mixed-reality/layout/faq)\n* [Dynamics 365 Layout 轉換公告](https://dynamics.microsoft.com/mixed-reality/layout-transition/)"

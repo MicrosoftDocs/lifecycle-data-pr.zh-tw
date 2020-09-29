@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Forefront Protection 2010 for SharePoint
-  description: 適用于 SharePoint 的 Forefront Protection 2010 遵循固定生命週期原則。
+  description: Forefront Protection 2010 for SharePoint 遵循固定生命週期原則。
   ms.date: 08/21/2020
   ms.openlocfilehash: cb0b92034979bf559cc72ac5d6b6302d3e986f39
   ms.sourcegitcommit: 2f3e18a9447115504ef274bd044dbcdb08231f5b
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 08/25/2020
   ms.locfileid: "908648"
 name: Forefront Protection 2010 for SharePoint
 summary: >+
-  適用于 SharePoint 的 Forefront Protection 2010 遵循 [固定](/lifecycle/policies/fixed) 生命週期原則。
+  Forefront Protection 2010 for SharePoint 遵循 [固定](/lifecycle/policies/fixed)生命週期原則。
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 07/15/2010
   endDate: 12/31/2015
-content: "\n\n> [!NOTE]\n> Forefront 品牌底下安全性產品的藍圖已變更。 本產品的終止于2015年12月31日。"
+content: "\n\n> [!NOTE]\n> Forefront 品牌下的安全性產品藍圖已經變更。 本產品自 2015 年 12 月 31 日起中止。"

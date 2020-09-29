@@ -5,13 +5,13 @@ metadata:
   ms.date: 08/19/2020
   ms.openlocfilehash: 3fba232a5fce7a5cbc705ce79978718f84181737
   ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 08/19/2020
   ms.locfileid: "903891"
 name: Azure BizTalk 服務
 summary: >+
-  Azure BizTalk 服務遵循 [新式](/lifecycle/policies/modern) 生命週期原則。
+  Azure BizTalk 服務遵循[新式](/lifecycle/policies/modern)生命週期原則。
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 11/21/2013
   endDate: 05/31/2018
-content: "\n## <a name=\"links\"></a>Links \n* [遷移指引](https://azure.microsoft.com/services/biztalk-services)"
+content: "\n## <a name=\"links\"></a>連結 \n* [移轉指引](https://azure.microsoft.com/services/biztalk-services)"

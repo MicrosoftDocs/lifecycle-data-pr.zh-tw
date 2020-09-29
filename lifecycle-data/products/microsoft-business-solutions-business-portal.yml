@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft 商務解決方案商務入口網站
-  description: Microsoft 商務解決方案商務入口網站遵循固定生命週期原則。
+  title: Microsoft Business Solutions Business Portal
+  description: Microsoft Business Solutions Business Portal 遵循固定生命週期原則。
   ms.date: 08/19/2020
   ms.openlocfilehash: 2b4116c3d6461616b1e36ab86d5606900be3ec6c
   ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 08/19/2020
   ms.locfileid: "903900"
-name: Microsoft 商務解決方案商務入口網站
+name: Microsoft Business Solutions Business Portal
 summary: >+
-  Microsoft 商務解決方案商務入口網站遵循 [固定](/lifecycle/policies/fixed) 生命週期原則。
+  Microsoft Business Solutions Business Portal 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
 
 
 products:
@@ -30,4 +30,4 @@ releases:
 - version: Business Solutions Business Portal 1.2
   startDate: 07/18/2003
   endDate: 12/31/2004
-content: "\n\n> [!NOTE]\n> 只有搭配卓越 Plains 8.0 或6.0 索羅門群島使用時，才支援 Microsoft 商務解決方案商務入口網站2.5。"
+content: "\n\n> [!NOTE]\n> 只在與 Great Plains 8.0 或 Solomon 6.0 一起使用時，才支援 Microsoft Business Solutions Business Portal 2.5。"
