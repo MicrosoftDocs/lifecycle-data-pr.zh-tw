@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Azure 堆疊中樞
-  description: Azure 堆疊中樞遵循新式生命週期原則。
+  title: Azure Stack Hub
+  description: Azure Stack Hub 遵循新式生命週期原則。
   ms.date: 07/28/2020
   ms.openlocfilehash: d538d37b723536a3602535e952e1a9f3398e6ae4
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "868072"
-name: Azure 堆疊中樞
+name: Azure Stack Hub
 summary: >+
-  Azure 堆疊中樞遵循[新式](/lifecycle/policies/modern)生命週期原則。
+  Azure Stack Hub 遵循[新式](/lifecycle/policies/modern)生命週期原則。
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 08/31/2017
-content: "\n## <a name=\"links\"></a>Links \n* [服務資訊和時程表](/azure/azure-stack/azure-stack-servicing-policy)"
+content: "\n## <a name=\"links\"></a>連結 \n* [服務資訊和時間表](/azure/azure-stack/azure-stack-servicing-policy)"
