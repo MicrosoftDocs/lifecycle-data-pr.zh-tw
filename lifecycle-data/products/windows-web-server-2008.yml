@@ -6,16 +6,16 @@ metadata:
   keywords: Standard
   ms.openlocfilehash: 09e6cfcf06699c4c2c31c43a04906c7f6b543979
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "938881"
 name: Windows Web Server 2008
 summary: >+
-  Windows Web Server 2008 遵循 [固定](/lifecycle/policies/fixed) 生命週期原則。
+  Windows Web Server 2008 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
 
 
-  本文適用於下列版本：標準版
+  本文適用於下列版本：Standard
 
 products:
 - windows
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 05/06/2008
   endDate: 07/10/2018
-content: "\n\n> [!NOTE]\n> 根據 Windows Server 2008 Service Pack 2，此產品已于2020年1月14日到達支援服務。\n\n## <a name=\"editions\"></a>版本 \n* 標準版"
+content: "\n\n> [!NOTE]\n> 根據 Windows Server 2008 Service Pack 2，本產品已於 2020 年 1 月 14 日終止支援。\n\n## <a name=\"editions\"></a>版本 \n* 標準版"
