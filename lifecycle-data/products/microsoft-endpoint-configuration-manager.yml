@@ -1,24 +1,24 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Endpoint Configuration Manager
-  description: Microsoft 端點 Configuration Manager 遵循新式生命週期原則。
+  description: Microsoft Endpoint Configuration Manager 遵循新式生命週期原則。
   ms.date: 09/01/2020
   keywords: SCCM,System Center Configuration Manager
   ms.openlocfilehash: fa325717dae54209b97245681c1e0292890ba952
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "934034"
 name: Microsoft Endpoint Configuration Manager
 summary: >
-  Microsoft 端點 Configuration Manager 遵循 [新式](/lifecycle/policies/modern) 生命週期原則。
+  Microsoft Endpoint Configuration Manager 遵循[新式](/lifecycle/policies/modern)生命週期原則。
 
 
 
   > [!IMPORTANT]
 
-  > 從版本1910開始，Configuration Manager 現在是 Microsoft 端點管理員的一部分。
+  > 從 1910 版開始，Microsoft Endpoint Configuration Manager 現在是 Microsoft Endpoint Manager 的一部分。
 products:
 - m365
 policyType: modern-on-prem
@@ -70,4 +70,4 @@ releases:
 - version: Version 1511
   startDate: 12/08/2015
   endDate: 12/08/2016
-content: "\n## <a name=\"links\"></a>連結 \n* [服務資訊](/mem/configmgr/core/servers/manage/current-branch-versions-supported)\n* [版本詳細資料](/mem/configmgr/core/servers/manage/updates#version-details)\n* [System Center Configuration Manager 現在是 Microsoft 端點 Configuration Manager](/mem/configmgr/core/understand/microsoft-endpoint-manager-faq)\n* [歷史版本](/mem/configmgr/core/servers/manage/updates#historical-versions)\n* [何謂 Configuration Manager](/mem/configmgr/core/understand/introduction)"
+content: "\n## <a name=\"links\"></a>連結 \n* [服務資訊](/mem/configmgr/core/servers/manage/current-branch-versions-supported)\n* [版本詳細資料](/mem/configmgr/core/servers/manage/updates#version-details)\n* [System Center Configuration Manager 現在是 Microsoft Endpoint Configuration Manager](/mem/configmgr/core/understand/microsoft-endpoint-manager-faq)\n* [歷程記錄版本](/mem/configmgr/core/servers/manage/updates#historical-versions)\n* [什麼是 Configuration Manager](/mem/configmgr/core/understand/introduction)"
