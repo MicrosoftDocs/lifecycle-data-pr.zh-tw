@@ -6,13 +6,13 @@ metadata:
   keywords: ''
   ms.openlocfilehash: f3241162e2d2a4953850015a7b1625b07adfbcbf
   ms.sourcegitcommit: 81b08c37762fa90d8258fe5a26c257089bcc981b
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "941067"
 name: SharePoint Foundation 2013
 summary: >+
-  SharePoint Foundation 2013 遵循 [固定](/lifecycle/policies/fixed) 生命週期原則。
+  SharePoint Foundation 2013 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
 
 
 products:
@@ -29,4 +29,4 @@ releases:
 - version: Original Release
   startDate: 01/09/2013
   endDate: 04/14/2015
-content: "\n## <a name=\"links\"></a>連結 \n* [Microsoft SharePoint Foundation 2013 開發人員檔](/sharepoint/dev)\n* [Microsoft SharePoint Foundation 2013 產品檔](/sharepoint/sharepoint-server)"
+content: "\n## <a name=\"links\"></a>連結 \n* [Microsoft SharePoint Foundation 2013 開發人員文件](/sharepoint/dev)\n* [Microsoft SharePoint Foundation 2013 生產文件](/sharepoint/sharepoint-server) (部分機器翻譯)"
