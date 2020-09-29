@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Internet 安全性和加速伺服器2004
-  description: Microsoft Internet 安全性和加速度 Server 2004 遵循固定生命週期原則。
+  title: Microsoft Internet Security and Acceleration Server 2004
+  description: Microsoft Internet Security and Acceleration Server 2004 遵循固定生命週期原則。
   ms.date: 09/01/2020
   keywords: Enterprise,Standard
   ms.openlocfilehash: ca985b778607eed3132ccd8345127d379543f4ff
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "933479"
-name: Microsoft Internet 安全性和加速伺服器2004
-summary: "Microsoft Internet 安全性和加速度 Server 2004 遵循 [固定](/lifecycle/policies/fixed) 生命週期原則。\n\n本文適用於下列版本：Enterprise，Standard\n\n> [!IMPORTANT]\n> 此產品的支援已終止。 \n"
+name: Microsoft Internet Security and Acceleration Server 2004
+summary: "Microsoft Internet Security and Acceleration Server 2004 遵循[固定](/lifecycle/policies/fixed)生命週期原則。\n\n本文適用於下列版本：Enterprise，Standard\n\n> [!IMPORTANT]\n> 此產品的支援已終止。 \n"
 products:
 - microsoft-servers
 policyType: fixed

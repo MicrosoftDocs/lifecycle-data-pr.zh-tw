@@ -6,16 +6,16 @@ metadata:
   keywords: Developer,Professional,Proofing Tools,Standard,Web Components
   ms.openlocfilehash: 5f0e3d5738f2f2107926d4cfe9c46de77fa5a875
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "928780"
 name: Office XP
 summary: >+
-  Office XP 遵循 [固定](/lifecycle/policies/fixed) 生命週期原則。
+  Office XP 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
 
 
-  這適用于下列版本：開發人員、專業版、校訂工具、標準、網頁元件
+  本文適用於下列版本：Developer、Professional、Proofing Tools、Standard、Web Components
 
 products:
 - office
@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 05/31/2001
   endDate: 12/31/2002
-content: "\n\n\n## <a name=\"editions\"></a>版本 \n* Developer\n* Professional\n* 校訂工具\n* 標準版\n* Web 元件"
+content: "\n\n\n## <a name=\"editions\"></a>版本 \n* Developer\n* Professional\n* Proofing Tools\n* 標準版\n* Web 元件"
