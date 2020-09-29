@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Project Online 桌面用戶端
-  description: Project Online 桌面用戶端遵循新式生命週期原則。
+  title: Project Online 電腦版用戶端
+  description: Project Online 電腦版用戶端遵循新式生命週期原則。
   ms.date: 07/28/2020
   ms.openlocfilehash: 2d87e5120f17d4b087c13f5947f9c099d4ed52a5
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "849710"
-name: Project Online 桌面用戶端
+name: Project Online 電腦版用戶端
 summary: >+
-  Project Online 桌面用戶端遵循[新式](/lifecycle/policies/modern)生命週期原則。
+  Project Online 電腦版用戶端遵循[新式](/lifecycle/policies/modern)生命週期原則。
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 09/22/2015
-content: "\n## <a name=\"links\"></a>Links \n* [系統需求](https://products.office.com/office-system-requirements)\n* [服務資訊](https://technet.microsoft.com/library/mt584223.aspx)"
+content: "\n## <a name=\"links\"></a>連結 \n* [系統需求](https://products.office.com/office-system-requirements)\n* [服務資訊](https://technet.microsoft.com/library/mt584223.aspx)"

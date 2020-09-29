@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Office 的學習精用2。0
-  description: 適用于 Microsoft Office 的教學基本版2.0 遵循元件生命週期原則。
+  title: Learning Essentials 2.0 for Microsoft Office
+  description: Learning Essentials 2.0 for Microsoft Office 遵循元件生命週期原則。
   ms.date: 07/28/2020
   ms.openlocfilehash: 1bdfd924e319c432bbaf5d2b75f5945ca6408915
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "807531"
-name: Microsoft Office 的學習精用2。0
+name: Learning Essentials 2.0 for Microsoft Office
 summary: >+
-  適用于 Microsoft Office 的教學基本版2.0 遵循[元件](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)生命週期原則。
+  Learning Essentials 2.0 for Microsoft Office 遵循[元件](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)生命週期原則。
 
 
 products:

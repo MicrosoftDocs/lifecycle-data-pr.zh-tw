@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: System Center 2016 Service Manager
-  description: System Center 2016 Service Manager 遵循固定生命週期原則。
+  description: Microsoft System Center 2016 Service Manager 遵循固定生命週期原則。
   ms.date: 07/28/2020
   ms.openlocfilehash: 324b4d018b20d596afdf61ff10658489d7f1d79f
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "850098"
 name: System Center 2016 Service Manager
 summary: >+
-  System Center 2016 Service Manager 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
+  Microsoft System Center 2016 Service Manager 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
 
 
 products:
