@@ -1,15 +1,15 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft XML Core Services 4。0
+  title: Microsoft XML Core Services 4.0
   description: Microsoft XML Core Services 4.0 遵循固定生命週期原則。
   ms.date: 08/12/2020
   ms.openlocfilehash: 311394fe73d17ea11fe92712511a42af1f509295
   ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 08/13/2020
   ms.locfileid: "893045"
-name: Microsoft XML Core Services 4。0
+name: Microsoft XML Core Services 4.0
 summary: >+
   Microsoft XML Core Services 4.0 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
 
@@ -24,4 +24,4 @@ releases:
 - version: Service Pack 3
   startDate: 12/28/2009
   endDate: 04/12/2014
-content: "\n\n> [!NOTE]\n> 已結束對 XML 核心服務4.0 的支援。 支援僅適用于 Service Pack 3。"
+content: "\n\n> [!NOTE]\n> 已終止支援 Microsoft XML Core Services 4.0。 僅為 Service Pack 3 提供支援。"

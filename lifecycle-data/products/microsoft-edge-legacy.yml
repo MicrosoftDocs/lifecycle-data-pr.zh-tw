@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Edge 舊版
-  description: Microsoft Edge 舊版遵循元件生命週期原則。
+  title: 舊版 Microsoft Edge
+  description: 舊版 Microsoft Edge 遵循元件生命週期原則。
   ms.date: 08/24/2020
   ms.openlocfilehash: e3739694176a49b69fa121857ed8740523a36816
   ms.sourcegitcommit: 2f3e18a9447115504ef274bd044dbcdb08231f5b
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 08/25/2020
   ms.locfileid: "908649"
-name: Microsoft Edge 舊版
+name: 舊版 Microsoft Edge
 summary: >
-  Microsoft Edge 舊版遵循 [元件](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) 生命週期原則。
+  舊版 Microsoft Edge 遵循[元件](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)生命週期原則。
 
 
 
   > [!IMPORTANT]
 
-  > 請注意，此產品支援于2021年3月9日結束。 請移至 [這裡](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666) 以深入瞭解。
+  > 請注意，本產品將於 2021 年 3 月 9 日終止支援。 請前往[這裡](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666)深入了解。
 products:
 - microsoft-edge
 policyType: component
