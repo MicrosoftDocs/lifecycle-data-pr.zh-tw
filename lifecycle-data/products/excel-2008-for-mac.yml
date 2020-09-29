@@ -1,15 +1,15 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 適用于 Mac 的 Excel 2008
+  title: Excel 2008 for Mac
   description: Excel 2008 for Mac 遵循固定生命週期原則。
   ms.date: 07/28/2020
   ms.openlocfilehash: aec33c5351d53108f34d6d36a6db1ba5d1a4b5c4
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "807570"
-name: 適用于 Mac 的 Excel 2008
+name: Excel 2008 for Mac
 summary: >
   Excel 2008 for Mac 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
 
@@ -17,7 +17,7 @@ summary: >
 
   > [!IMPORTANT]
 
-  > 已結束對此產品的支援。
+  > 此產品的支援已終止。
 products:
 - office
 policyType: fixed-mainstream-only

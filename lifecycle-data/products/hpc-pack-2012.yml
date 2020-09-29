@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 965bf24743a042a2aeda7973d670e4daf90327c4
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "849787"
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 03/11/2013
   endDate: 04/11/2023
-content: "\n## <a name=\"links\"></a>Links \n* [Microsoft HPC Pack 概述](/powershell/high-performance-computing/overview-of-microsoft-hpc-pack?view=hpc19-ps)"
+content: "\n## <a name=\"links\"></a>連結 \n* [Microsoft HPC Pack 概觀](/powershell/high-performance-computing/overview-of-microsoft-hpc-pack?view=hpc19-ps) (英文)"

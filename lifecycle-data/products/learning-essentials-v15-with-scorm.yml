@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 具有 SCORM 的學習基本版 v 1。5
-  description: 具有 SCORM 的學習基本版 v 1.5 遵循元件生命週期原則。
+  title: Learning Essentials v1.5 (含 SCORM)
+  description: Learning Essentials v1.5 (含 SCORM) 遵循元件生命週期原則。
   ms.date: 07/28/2020
   ms.openlocfilehash: 7d1881def5a4b9f675b435cc766a3594b8ad7e56
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "807528"
-name: 具有 SCORM 的學習基本版 v 1。5
+name: Learning Essentials v1.5 (含 SCORM)
 summary: >+
-  具有 SCORM 的學習基本版 v 1.5 遵循[元件](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)生命週期原則。
+  Learning Essentials v1.5 (含 SCORM) 遵循[元件](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)生命週期原則。
 
 
 products:
