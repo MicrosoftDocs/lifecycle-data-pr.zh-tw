@@ -2,20 +2,20 @@
 metadata:
   title: Windows 10 家用版與專業版
   description: Windows 10 家用版與專業版遵循新式生命週期原則。
-  ms.date: 09/01/2020
-  keywords: Home,Pro,Pro for Education,Pro for Workstations,Professional
-  ms.openlocfilehash: f29020250717040eb218ffd3154c65492201e51b
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.date: 09/22/2020
+  keywords: 
+  ms.openlocfilehash: afe3de560cc371fc307d5e1e7f831e301c3ce99f
+  ms.sourcegitcommit: 528043c09bc83880f3c1dcc3f976c4241e9ec4b7
   ms.translationtype: HT
   ms.contentlocale: zh-TW
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "938363"
+  ms.lasthandoff: 09/22/2020
+  ms.locfileid: "1026876"
 name: Windows 10 家用版與專業版
 summary: >
   Windows 10  家用版與專業版遵循[新式](/lifecycle/policies/modern)生命週期原則。
 
 
-  本文適用於下列版本：家用版、專業版、專業教育版、工作站專業版、專業版
+  本文適用於下列版本：家用版、專業版、專業教育版、工作站專業版
 
 
   > [!IMPORTANT]
@@ -39,9 +39,9 @@ releases:
   endDate: 12/08/2020
 - version: Version 1809
   startDate: 11/13/2018
-  endDate: 05/12/2020
+  endDate: 11/10/2020
 - version: Version 1803
-  startDate: 04/30/2018
+  startDate: 10/17/2017
   endDate: 11/12/2019
 - version: Version 1709
   startDate: 10/17/2017
@@ -58,4 +58,4 @@ releases:
 - version: Version 1507
   startDate: 07/29/2015
   endDate: 05/09/2017
-content: "\n## <a name=\"links\"></a>連結 \n* [Windows 即服務 (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Windows 生命週期資料表](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [生命週期常見問題集 - Windows 產品](/lifecycle/faq/windows)\n\n> [!NOTE]\n> 工作站專業版最初隨著 1703 版發行。\n> [!NOTE]\n> 除非延期，否則後續 Windows 10 半年通道功能更新可在所列的主要支援日期結束前安裝。\n\n## <a name=\"editions\"></a>版本 \n* Home\n* 專業版\n* 專業教育版\n* 工作站專業版。\n* Professional"
+content: "\n## <a name=\"links\"></a>連結 \n* [Windows 即服務 (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Windows 生命週期資料表](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [生命週期常見問題集 - Windows 產品](/lifecycle/faq/windows)\n\n> [!NOTE]\n> 工作站專業版最初隨著 1709 版發行。\n> [!NOTE]\n> 除非延期，否則後續 Windows 10 半年通道功能更新可在所列的主要支援日期結束前安裝。\n\n## <a name=\"editions\"></a>版本 \n* Home\n* 專業版\n* 專業教育版\n* 工作站專業版。"
