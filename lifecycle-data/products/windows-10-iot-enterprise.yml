@@ -2,13 +2,14 @@
 metadata:
   title: Windows 10 IoT Enterprise
   description: Windows 10 IoT Enterprise 遵循新式生命週期原則。
-  ms.date: 08/26/2020
-  ms.openlocfilehash: bf64867436379e937108f16080e401abba6ebca8
-  ms.sourcegitcommit: d28d18dd801693302858cb5086cabb3a5d2083f3
+  ms.date: 10/15/2020
+  keywords: 
+  ms.openlocfilehash: 92955961c85f0b6d05f27a051706e2050006957d
+  ms.sourcegitcommit: c1ccf8aedb73c5410ef70b9d59a49b6f6746a52c
   ms.translationtype: HT
   ms.contentlocale: zh-TW
-  ms.lasthandoff: 08/26/2020
-  ms.locfileid: "911210"
+  ms.lasthandoff: 10/20/2020
+  ms.locfileid: "1162768"
 name: Windows 10 IoT Enterprise
 summary: >
   Windows 10 IoT Enterprise 遵循[新式](/lifecycle/policies/modern)生命週期原則。
@@ -25,6 +26,9 @@ supportDates:
   start: 07/29/2015
   end: 10/14/2025
 releases:
+- version: Version 20H2
+  startDate: 10/20/2020
+  endDate: 05/09/2023
 - version: Version 2004
   startDate: 05/27/2020
   endDate: 12/14/2021
@@ -55,4 +59,4 @@ releases:
 - version: Version 1507
   startDate: 07/29/2015
   endDate: 05/09/2017
-content: "\n## <a name=\"links\"></a>連結 \n* [Windows 10 IoT Enterprise 概觀](/windows/iot-core/windows-iot-enterprise)\n* [Windows 生命週期資料表](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Windows 即服務 (WaaS)](/windows/deployment/update/waas-quick-start)\n* [生命週期常見問題集 - Windows 產品](/lifecycle/faq/windows)\n\n> [!NOTE]\n> 除非延期，否則後續 Windows 10 半年通道功能更新可在所列的主要支援日期結束前安裝。"
+content: "\n## <a name=\"links\"></a>連結 \n* [生命週期常見問題集 - Windows 產品](/lifecycle/faq/windows)\n\n> [!NOTE]\n> 除非延期，否則後續 Windows 10 半年通道功能更新可在所列的主要支援日期結束前安裝。"
