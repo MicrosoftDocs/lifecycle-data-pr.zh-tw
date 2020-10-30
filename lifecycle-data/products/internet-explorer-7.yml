@@ -2,13 +2,14 @@
 metadata:
   title: Internet Explorer 7
   description: Internet Explorer 7 遵循元件生命週期原則。
-  ms.date: 07/28/2020
-  ms.openlocfilehash: a3ebb8bde83f8b86fe292510b958fb0c59994fe3
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 10/05/2020
+  keywords: 
+  ms.openlocfilehash: e9a0e815b920011e15e4da8e58158c45e7971cd0
+  ms.sourcegitcommit: c1ccf8aedb73c5410ef70b9d59a49b6f6746a52c
   ms.translationtype: HT
   ms.contentlocale: zh-TW
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "807538"
+  ms.lasthandoff: 10/20/2020
+  ms.locfileid: "1162657"
 name: Internet Explorer 7
 summary: >+
   Internet Explorer 7 遵循[元件](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)生命週期原則。
@@ -19,7 +20,8 @@ products:
 policyType: component
 supportDates:
   start: 10/18/2006
+  end: 10/10/2023
 releases:
 - version: Original Release
   startDate: 10/18/2006
-content: "\n## <a name=\"links\"></a>連結 \n* [移轉指引](https://www.microsoft.com/itpro/microsoft-edge)\n* [Internet Explorer 生命週期原則常見問題集](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> 2016 年 1 月 12 日起，只有支援的作業系統可使用的最新 Internet Explorer 版本才會收到技術支援和安全性更新。"
+content: "\n## <a name=\"links\"></a>連結 \n* [移轉指引](https://www.microsoft.com/itpro/microsoft-edge)\n* [Windows Embedded Compact 7](/lifecycle/products/windows-embedded-compact-7)\n* [Windows Embedded Compact 2013](/lifecycle/products/windows-embedded-compact-2013)\n* [Internet Explorer 生命週期原則常見問題集](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> Internet Explorer 7 是 Windows Embedded Compact 7 和 Windows Embedded Compact 2013 的元件，並且遵循相同的生命週期。 \n> [!NOTE]\n> 2016 年 1 月 12 日起，只有支援的作業系統可使用的最新 Internet Explorer 版本才會收到技術支援和安全性更新。"

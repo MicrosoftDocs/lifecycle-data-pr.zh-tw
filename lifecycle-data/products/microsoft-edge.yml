@@ -2,13 +2,14 @@
 metadata:
   title: Microsoft Edge
   description: Microsoft Edge 遵循新式生命週期原則。
-  ms.date: 08/19/2020
-  ms.openlocfilehash: 2d9e751a4612eaa04e995711449c2c2851b5db72
-  ms.sourcegitcommit: f5095aa6fc41dcc71c883cae08719b5b6bf9585c
+  ms.date: 10/20/2020
+  keywords: 
+  ms.openlocfilehash: b6634ea1575408641dd760ce54e0733af04c5941
+  ms.sourcegitcommit: a0744017304a3d2e709f964e643feb7903d05c2d
   ms.translationtype: HT
   ms.contentlocale: zh-TW
-  ms.lasthandoff: 08/20/2020
-  ms.locfileid: "905779"
+  ms.lasthandoff: 10/21/2020
+  ms.locfileid: "1162994"
 name: Microsoft Edge
 summary: >
   Microsoft Edge 遵循[新式](/lifecycle/policies/modern)生命週期原則。
@@ -17,7 +18,7 @@ summary: >
 
   > [!IMPORTANT]
 
-  > 請注意，舊版產品將於 2021 年 3 月 9 日終止支援。 請前往  [這裡](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666)深入了解。
+  > 請注意，舊版產品將於 2021 年 3 月 9 日終止支援。 請前往[這裡](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666)深入了解。
 products:
 - microsoft-edge
 policyType: modern-on-prem
@@ -26,4 +27,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 01/15/2020
-content: "\n## <a name=\"links\"></a>連結 \n* [Microsoft Edge 支援的作業系統](/deployedge/microsoft-edge-supported-operating-systems)"
+content: "\n## <a name=\"links\"></a>連結 \n* [Microsoft Edge 支援的作業系統](/deployedge/microsoft-edge-supported-operating-systems)\n* [生命週期常見問題集 - Internet Explorer 和 Edge](/lifecycle/faq/internet-explorer-microsoft-edge)"
