@@ -15,7 +15,7 @@ summary: >+
   Microsoft Application Virtualization 5.0 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
 
 
-  本文適用於下列版本：適用於 Remote Desktop Services、適用於 Terminal Services、適用於  Windows Desktops
+  本文適用於下列版本：Remote Desktop Services、Terminal Services、Windows Desktops
 
 products:
 - windows
@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 11/01/2012
   endDate: 07/08/2014
-content: "\n## <a name=\"links\"></a>連結 \n* [產品資訊](/microsoft-desktop-optimization-pack/appv-v5/microsoft-application-virtualization-50-administrators-guide)\n* [Service Pack 原則](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>版本 \n* 適用於 Remote Desktop Services\n* 適用於 Terminal Services\n* 適用於 Windows Desktops"
+content: "\n## <a name=\"links\"></a>連結 \n* [產品資訊](/microsoft-desktop-optimization-pack/appv-v5/microsoft-application-virtualization-50-administrators-guide)\n* [Service Pack 原則](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>版本 \n* Remote Desktop Services\n* Terminal Services\n* Windows Desktops"

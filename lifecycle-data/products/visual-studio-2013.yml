@@ -15,7 +15,7 @@ summary: >+
   Visual Studio 2013 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
 
 
-  本文適用於下列版本：Agents、全部、Community、Express for Web、Express for Windows、Express for Windows Desktop、IntelliTrace Collector、Modeling SDK、Multibyte MFC Library、Premium、Professional、Release Management、遠端工具、SDK、Shell (整合模式)、Shell (獨立模式)、Team Explorer、Test Professional、Ultimate、Visual C++ 可轉散發套件、Web 工具延伸模組
+  本文適用於下列版本：Agents、全部、Community、Express for Web、Express for Windows、Express for Windows Desktop、IntelliTrace Collector、Modeling SDK、Multibyte MFC Library、Premium、Professional、Release Management、Remote Tools、SDK、Shell (整合模式)、Shell (獨立模式)、Team Explorer、Test Professional、Ultimate、Visual C++ Redistributable、Web Tools Extensions
 
 products:
 - vs
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 01/15/2014
   endDate: 04/09/2024
-content: "\n## <a name=\"links\"></a>連結 \n* [服務資訊](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>版本 \n* Agents\n* 全部\n* Community\n* Express for Web\n* Express for Windows\n* Express for Windows Desktop\n* IntelliTrace Collector\n* Modeling SDK\n* Multibyte MFC Library\n* 進階版\n* Professional\n* Release Management\n* 遠端工具\n* SDK\n* Shell (整合模式)\n* Shell (獨立模式)\n* Team Explorer\n* Test Professional\n* Ultimate\n* Visual C++ 可轉散發套件\n* Web 工具擴充功能"
+content: "\n## <a name=\"links\"></a>連結 \n* [服務資訊](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>版本 \n* Agents\n* 全部\n* Community\n* Express for Web\n* Express for Windows\n* Express for Windows Desktop\n* IntelliTrace Collector\n* Modeling SDK\n* Multibyte MFC Library\n* Premium\n* Professional\n* Release Management\n* Remote Tools\n* SDK\n* Shell (整合模式)\n* Shell (獨立模式)\n* Team Explorer\n* Test Professional\n* Ultimate\n* Visual C++ Redistributable\n* Web Tools Extensions"

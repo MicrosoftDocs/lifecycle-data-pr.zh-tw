@@ -15,7 +15,7 @@ summary: >+
   Visual Studio 2012 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
 
 
-  本文適用於下列版本：Agents, Community 2013, Express for Web, Express for Windows 8, Express for Windows Desktop, IntelliTrace Collector, Microsoft Azure Tools, Premium, Professional, Remote Tools、Shell (整合模式)、Shell (獨立模式)、SQL Server Data Tools, Team Explorer, Test Professional 2013, Ultimate、Visual C++ 可轉散發套件、Web 工具延伸模組
+  本文適用於下列版本：Agents、Community 2013、Express for Web、Express for Windows 8、Express for Windows Desktop、IntelliTrace Collector、Microsoft Azure Tools、Premium、Professional、Remote Tools、Shell (整合模式)、Shell (獨立模式)、SQL Server Data Tools、Team Explorer、Test Professional 2013、Ultimate、Visual C++ Redistributable、Web Tools Extensions
 
 products:
 - vs
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 10/31/2012
   endDate: 01/10/2023
-content: "\n## <a name=\"links\"></a>連結 \n* [Visual Studio 產品生命週期和服務](/visualstudio/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>版本 \n* Agents\n* Community 2013\n* Express for Web\n* Express for Windows 8\n* Express for Windows Desktop\n* IntelliTrace Collector\n* Microsoft Azure Tools\n* 進階版\n* Professional\n* 遠端工具\n* Shell (整合模式)\n* Shell (獨立模式)\n* SQL Server Data Tools\n* Team Explorer\n* Test Professional 2013\n* Ultimate\n* Visual C++ 可轉散發套件\n* Web 工具擴充功能"
+content: "\n## <a name=\"links\"></a>連結 \n* [Visual Studio 產品生命週期和服務](/visualstudio/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>版本 \n* Agents\n* Community 2013\n* Express for Web\n* Express for Windows 8\n* Express for Windows Desktop\n* IntelliTrace Collector\n* Microsoft Azure Tools\n* Premium\n* Professional\n* Remote Tools\n* Shell (整合模式)\n* Shell (獨立模式)\n* SQL Server Data Tools\n* Team Explorer\n* Test Professional 2013\n* Ultimate\n* Visual C++ Redistributable\n* Web Tools Extensions"

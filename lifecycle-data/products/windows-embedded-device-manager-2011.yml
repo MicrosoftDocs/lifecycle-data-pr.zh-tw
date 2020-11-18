@@ -15,7 +15,7 @@ summary: >
   Windows Embedded Device Manager 2011 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
 
 
-  本文適用於下列版本：Client、SDK、 Server
+  本文適用於下列版本：Client、SDK、Server
 
 
   > [!IMPORTANT]
@@ -35,4 +35,4 @@ releases:
 - version: Original Release
   startDate: 05/29/2011
   endDate: 01/08/2013
-content: "\n## <a name=\"links\"></a>連結 \n* [Service Pack 原則](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>版本 \n* 用戶端\n* SDK\n* 伺服器"
+content: "\n## <a name=\"links\"></a>連結 \n* [Service Pack 原則](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>版本 \n* Client\n* SDK\n* Server"

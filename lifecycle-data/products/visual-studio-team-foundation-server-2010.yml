@@ -15,7 +15,7 @@ summary: >+
   Visual Studio Team Foundation Server 2010 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
 
 
-  此項適用於下列版本：所有適用，外部連接器
+  此項適用於下列版本：全部適用，外部連接器
 
 products:
 - vs
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 06/29/2010
   endDate: 04/10/2012
-content: "\n## <a name=\"links\"></a>連結 \n* [移轉指引](/azure/devops/server/upgrade/get-started?view=azure-devops)\n* [Azure Dev Ops](https://azure.microsoft.com/services/devops/migrate/)\n\n\n## <a name=\"editions\"></a>版本 \n* 所有適用者\n* 外部連接器"
+content: "\n## <a name=\"links\"></a>連結 \n* [移轉指引](/azure/devops/server/upgrade/get-started?view=azure-devops)\n* [Azure Dev Ops](https://azure.microsoft.com/services/devops/migrate/)\n\n\n## <a name=\"editions\"></a>版本 \n* 全部適用\n* 外部連接器"

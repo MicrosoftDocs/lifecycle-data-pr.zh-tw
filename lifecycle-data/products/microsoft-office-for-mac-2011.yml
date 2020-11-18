@@ -15,7 +15,7 @@ summary: >+
   Microsoft Office for Mac 2011 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
 
 
-  本文適用於下列版本：Academic, Home and Business、Home and Business 家用計畫、Home and Student, Standard
+  本文適用於下列版本：Academic、Home and Business、Home and Business 家用計畫、Home and Student、Standard
 
 products:
 - office
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 12/09/2010
   endDate: 01/10/2012
-content: "\n## <a name=\"links\"></a>連結 \n* [Service Pack 原則](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Microsoft Office for Mac 2011 的主要支援已如本文所示延長，為所有客戶提供標準生命週期轉換時間表。\n\n## <a name=\"editions\"></a>版本 \n* Academic\n* 家用及中小企業版\n* Home and Business 家用計畫\n* 家用版\n* 標準版"
+content: "\n## <a name=\"links\"></a>連結 \n* [Service Pack 原則](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Microsoft Office for Mac 2011 的主要支援已如本文所示延長，為所有客戶提供標準生命週期轉換時間表。\n\n## <a name=\"editions\"></a>版本 \n* Academic\n* Home and Business\n* Home and Business 家用計畫\n* Home and Student\n* Standard"

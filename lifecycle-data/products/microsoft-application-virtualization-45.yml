@@ -15,7 +15,7 @@ summary: >
   Microsoft Application Virtualization 4.5 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
 
 
-  本文適用於下列版本：適用於 Terminal Services、適用於 Windows Desktops
+  本文適用於下列版本：Terminal Services、Windows Desktops
 
 
   > [!IMPORTANT]
@@ -38,4 +38,4 @@ releases:
 - version: Original Release
   startDate: 11/23/2008
   endDate: 01/11/2011
-content: "\n## <a name=\"links\"></a>連結 \n* [移轉指引](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Service Pack 原則](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> App-V 4.6 用戶端會利用 App-V 4.5 伺服器，因此在與支援的 App-V 4.6 用戶端一起使用時，會根據 App-V 4.6 用戶端的生命週期日期，持續支援 App-V 4.5 伺服器。\n\n## <a name=\"editions\"></a>版本 \n* 適用於 Terminal Services\n* 適用於 Windows Desktops"
+content: "\n## <a name=\"links\"></a>連結 \n* [移轉指引](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Service Pack 原則](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> App-V 4.6 用戶端會利用 App-V 4.5 伺服器，因此在與支援的 App-V 4.6 用戶端一起使用時，會根據 App-V 4.6 用戶端的生命週期日期，持續支援 App-V 4.5 伺服器。\n\n## <a name=\"editions\"></a>版本 \n* Terminal Services\n* Windows Desktops"
