@@ -15,7 +15,7 @@ summary: >
   Windows Embedded 8 Industry 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
 
 
-  本文適用於下列版本：Enterprise, Pro
+  本文適用於下列版本：Enterprise、Pro
 
 
   > [!IMPORTANT]
@@ -32,4 +32,4 @@ releases:
 - version: Original Release
   startDate: 06/24/2013
   endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>連結 \n* [移轉指引](https://www.microsoft.com/download/details.aspx?id=40279)\n* [生命週期常見問題集 - Windows 產品](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>版本 \n* Enterprise\n* 專業版"
+content: "\n## <a name=\"links\"></a>連結 \n* [移轉指引](https://www.microsoft.com/download/details.aspx?id=40279)\n* [生命週期常見問題集 - Windows 產品](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>版本 \n* Enterprise\n* Pro"

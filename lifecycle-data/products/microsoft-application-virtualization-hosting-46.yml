@@ -1,6 +1,6 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 適用于 Windows 桌面的 Microsoft Application Virtualization Hosting 4.6
+  title: Microsoft Application Virtualization Hosting 4.6 for Windows Desktops
   description: Microsoft Application Virtualization Hosting 4.6 for Windows Desktops 遵循固定生命週期原則。
   ms.date: 09/01/2020
   keywords: for Windows Desktops
@@ -10,12 +10,12 @@ metadata:
   ms.contentlocale: zh-TW
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "935440"
-name: 適用于 Windows 桌面的 Microsoft Application Virtualization Hosting 4.6
+name: Microsoft Application Virtualization Hosting 4.6 for Windows Desktops
 summary: >+
   Microsoft Application Virtualization Hosting 4.6 for Windows Desktops 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
 
 
-  本文適用於下列版本：適用於 Windows Desktops
+  本文適用於下列版本：Windows Desktops
 
 products:
 - windows
@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 05/27/2010
   endDate: 04/10/2012
-content: "\n## <a name=\"links\"></a>連結 \n* [產品和移轉資訊](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Service Pack 原則](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> App-V 4.6 用戶端會利用 App-V 4.5 伺服器，因此在與支援的 App-V 4.6 用戶端一起使用時，會根據 App-V 4.6 用戶端的生命週期日期，持續支援 App-V 4.5 伺服器。\n\n## <a name=\"editions\"></a>版本 \n* 適用於 Windows Desktops"
+content: "\n## <a name=\"links\"></a>連結 \n* [產品和移轉資訊](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Service Pack 原則](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> App-V 4.6 用戶端會利用 App-V 4.5 伺服器，因此在與支援的 App-V 4.6 用戶端一起使用時，會根據 App-V 4.6 用戶端的生命週期日期，持續支援 App-V 4.5 伺服器。\n\n## <a name=\"editions\"></a>版本 \n* Windows Desktops"

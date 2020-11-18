@@ -15,7 +15,7 @@ summary: >
   Microsoft Forefront Threat Management Gateway 2010 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
 
 
-  本文適用於下列版本：Enterprise，Standard
+  本文適用於下列版本：Enterprise、Standard
 
 
   > [!IMPORTANT]
@@ -38,4 +38,4 @@ releases:
 - version: Original Release
   startDate: 12/01/2009
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>連結 \n* [移轉指引](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/bg-p/Identity)\n\n\n## <a name=\"editions\"></a>版本 \n* Enterprise\n* 標準版"
+content: "\n## <a name=\"links\"></a>連結 \n* [移轉指引](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/bg-p/Identity)\n\n\n## <a name=\"editions\"></a>版本 \n* Enterprise\n* Standard"

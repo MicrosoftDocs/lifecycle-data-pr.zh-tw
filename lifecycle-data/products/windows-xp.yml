@@ -44,4 +44,4 @@ releases:
 - version: Original Release
   startDate: 12/31/2001
   endDate: 08/30/2005
-content: "\n## <a name=\"links\"></a>連結 \n* [移轉指引](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Service Pack 原則](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Microsoft Windows XP Professional x64 Edition 的開始日期為 2005 年 4 月 24 日。\n\n## <a name=\"editions\"></a>版本 \n* Home\n* Professional\n* 適用於內嵌系統的專業版\n* Professional x64\n* Starter"
+content: "\n## <a name=\"links\"></a>連結 \n* [移轉指引](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Service Pack 原則](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Microsoft Windows XP Professional x64 版本的開始日期為 2005 年 4 月 24 日。\n\n## <a name=\"editions\"></a>版本 \n* Home\n* Professional\n* Professional for Embedded Systems\n* Professional x64\n* Starter"
