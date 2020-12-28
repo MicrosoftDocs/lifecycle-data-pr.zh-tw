@@ -2,13 +2,14 @@
 metadata:
   title: Dynamics AX 2009
   description: Dynamics AX 2009 遵循固定生命週期原則。
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 20756fcbadc2386830d4eecb9129443bef1a2bc2
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 12/17/2020
+  keywords: 
+  ms.openlocfilehash: 45d386654df8e87dc58f4445cecb94e3e5de2353
+  ms.sourcegitcommit: 4e42a9063f11353b16a25fce40ad96cc6146dd96
   ms.translationtype: HT
   ms.contentlocale: zh-TW
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "806894"
+  ms.lasthandoff: 12/18/2020
+  ms.locfileid: "1348146"
 name: Dynamics AX 2009
 summary: >+
   Dynamics AX 2009 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
@@ -20,12 +21,12 @@ policyType: fixed
 supportDates:
   start: 08/14/2008
   end: 10/09/2018
-  extendedEnd: 10/12/2021
+  extendedEnd: 04/12/2022
 releases:
 - version: Service Pack 1
   startDate: 11/03/2008
-  endDate: 10/12/2021
+  endDate: 04/12/2022
 - version: Original Release
   startDate: 08/14/2008
   endDate: 01/11/2011
-content: "\n## <a name=\"links\"></a>連結 \n* [移轉指引](/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/data-migration-tool)\n* [Dynamics 365 移轉計畫](https://dynamics.microsoft.com/migration-program/)\n* [其他生命週期資訊](/dynamics365/fin-ops-core/fin-ops/get-started/mainstream-support-ax-2009-2012)\n* [Service Pack 原則](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> 如畫面所示，主要支援已經延長。"
+content: "\n## <a name=\"links\"></a>連結 \n* [移轉指引](/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/data-migration-tool)\n* [Dynamics 365 移轉計畫](https://dynamics.microsoft.com/migration-program/)\n* [其他生命週期資訊](/dynamics365/fin-ops-core/fin-ops/get-started/mainstream-support-ax-2009-2012)\n* [Service Pack 原則](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Dynamics AX 2009 (Service Pack 1) 的終止支援日期從 2021 年 10 年 12 日延長到 2022 年 4 月 12 日。"
