@@ -1,25 +1,25 @@
 ---
 title: 生命週期資料匯出
 description: 匯出產品生命週期資訊
-ms.date: 11/29/2020
+ms.date: 01/06/2021
 layout: ContentPage
-ms.openlocfilehash: 210af0cf60630cbdbf43847641022283aca78366
-ms.sourcegitcommit: 272dedcf92e644b57865e78c716f937b66e534c3
+ms.openlocfilehash: 4a27cd96ddaa1b3d128d9f1d711504d88c28e36e
+ms.sourcegitcommit: f24c8653f7fd67e5b3f9f41e17b47edcecb5856e
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "1335875"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "1367554"
 ---
-# <a name="lifecycle-data-export"></a><span data-ttu-id="db5eb-103">生命週期資料匯出</span><span class="sxs-lookup"><span data-stu-id="db5eb-103">Lifecycle data export</span></span>
+# <a name="lifecycle-data-export"></a><span data-ttu-id="9ce5d-103">生命週期資料匯出</span><span class="sxs-lookup"><span data-stu-id="9ce5d-103">Lifecycle data export</span></span>
 
-## <a name="export-all-products"></a><span data-ttu-id="db5eb-104">匯出所有產品</span><span class="sxs-lookup"><span data-stu-id="db5eb-104">Export all products</span></span>
-<span data-ttu-id="db5eb-105">於下方按一下，即可匯出所有產品的生命週期資料：</span><span class="sxs-lookup"><span data-stu-id="db5eb-105">Export lifecycle data for all products by clicking below:</span></span>
+## <a name="export-all-products"></a><span data-ttu-id="9ce5d-104">匯出所有產品</span><span class="sxs-lookup"><span data-stu-id="9ce5d-104">Export all products</span></span>
+<span data-ttu-id="9ce5d-105">於下方按一下，即可匯出所有產品的生命週期資料：</span><span class="sxs-lookup"><span data-stu-id="9ce5d-105">Export lifecycle data for all products by clicking below:</span></span>
 
 > [!div class="nextstepaction"]
-> [<span data-ttu-id="db5eb-106">匯出所有產品</span><span class="sxs-lookup"><span data-stu-id="db5eb-106">Export All Products</span></span>](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
+> [<span data-ttu-id="9ce5d-106">匯出所有產品</span><span class="sxs-lookup"><span data-stu-id="9ce5d-106">Export All Products</span></span>](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
 
-## <a name="export-products-by-family-and-group"></a><span data-ttu-id="db5eb-107">依照 [系列] 和 [群組] 匯出產品</span><span class="sxs-lookup"><span data-stu-id="db5eb-107">Export products by Family and Group</span></span>
-<span data-ttu-id="db5eb-108">選取 [系列]，然後選取要匯出的 [群組]。</span><span class="sxs-lookup"><span data-stu-id="db5eb-108">Select a Family and then a Group to export.</span></span> <span data-ttu-id="db5eb-109">注意：選取 [群組] 值之後，隨即開始匯出。</span><span class="sxs-lookup"><span data-stu-id="db5eb-109">Note: Export will begin when Group value is selected.</span></span> 
+## <a name="export-products-by-family-and-group"></a><span data-ttu-id="9ce5d-107">依照 [系列] 和 [群組] 匯出產品</span><span class="sxs-lookup"><span data-stu-id="9ce5d-107">Export products by Family and Group</span></span>
+<span data-ttu-id="9ce5d-108">選取 [系列]，然後選取要匯出的 [群組]。</span><span class="sxs-lookup"><span data-stu-id="9ce5d-108">Select a Family and then a Group to export.</span></span> <span data-ttu-id="9ce5d-109">注意：選取 [群組] 值之後，隨即開始匯出。</span><span class="sxs-lookup"><span data-stu-id="9ce5d-109">Note: Export will begin when Group value is selected.</span></span> 
 
 > [!div class="op_multi_selector" title1="系列" title2="群組"]
 > - [(.NET | 全部)](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(family='.NET'))
@@ -81,13 +81,12 @@ ms.locfileid: "1335875"
 > - [(Windows | 安全性)](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(family='Windows',group='Security'))
 > - [(Windows | 伺服器)](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(family='Windows',group='Server'))
 
-## <a name="export-products-by-end-of-support-date"></a><span data-ttu-id="db5eb-170">依照終止支援日期匯出產品</span><span class="sxs-lookup"><span data-stu-id="db5eb-170">Export products by end of support date</span></span>
-<span data-ttu-id="db5eb-171">選擇年份以查看即將終止支援的產品。</span><span class="sxs-lookup"><span data-stu-id="db5eb-171">Select a year to see products reaching the end of support.</span></span> <span data-ttu-id="db5eb-172">注意：選取 [年份] 值之後，隨即開始匯出。</span><span class="sxs-lookup"><span data-stu-id="db5eb-172">Note: Export will begin when Year value is selected.</span></span>
+## <a name="export-products-by-end-of-support-date"></a><span data-ttu-id="9ce5d-170">依照終止支援日期匯出產品</span><span class="sxs-lookup"><span data-stu-id="9ce5d-170">Export products by end of support date</span></span>
+<span data-ttu-id="9ce5d-171">選擇年份以查看即將終止支援的產品。</span><span class="sxs-lookup"><span data-stu-id="9ce5d-171">Select a year to see products reaching the end of support.</span></span> <span data-ttu-id="9ce5d-172">注意：選取 [年份] 值之後，隨即開始匯出。</span><span class="sxs-lookup"><span data-stu-id="9ce5d-172">Note: Export will begin when Year value is selected.</span></span>
 
 > [!div class="op_single_selector"]
 > - [未來 12 個月](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportMonths=12))
 > - [未來 6 個月](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportMonths=6))
-> - [2015](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2015))
 > - [2016](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2016))
 > - [2017 年](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2017))
 > - [2018](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2018))
