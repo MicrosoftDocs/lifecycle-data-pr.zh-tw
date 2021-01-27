@@ -1,17 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Azure 虛擬機器 (經典) (請與 Azure 確認後再行發佈 - 資料格上沒有結束日期)
-  description: Microsoft Azure 虛擬機器 (經典) (請與 Azure 確認後再行發佈 - 資料格上沒有結束日期) 遵循新式生命週期原則。
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 62691a5a8045c8744b291cd5475ad7b6828542e8
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  title: Microsoft Azure 虛擬機器 (傳統版)
+  description: Microsoft Azure 虛擬機器 (傳統版) 遵循新式生命週期原則。
+  ms.date: 01/21/2021
+  keywords: 
+  ms.openlocfilehash: 0e575c15aa31b8d3147bfbca806bf0c90db48731
+  ms.sourcegitcommit: b565a66121b149da703e6b457e86868768499385
   ms.translationtype: HT
   ms.contentlocale: zh-TW
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "849946"
-name: Microsoft Azure 虛擬機器 (經典) (請與 Azure 確認後再行發佈 - 資料格上沒有結束日期)
+  ms.lasthandoff: 01/21/2021
+  ms.locfileid: "1416306"
+name: Microsoft Azure 虛擬機器 (傳統版)
 summary: >+
-  Microsoft Azure 虛擬機器 (經典) (請與 Azure 確認後再行發佈 - 資料格上沒有結束日期) 遵循[新式](/lifecycle/policies/modern)生命週期原則。
+  Microsoft Azure 虛擬機器 (傳統版) 遵循[新式](/lifecycle/policies/modern)生命週期原則。
 
 
 products:
