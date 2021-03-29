@@ -2,14 +2,14 @@
 metadata:
   title: Microsoft Lync Server 2010
   description: Microsoft Lync Server 2010 遵循固定生命週期原則。
-  ms.date: 09/01/2020
-  keywords: Enterprise,Group Chat Software Development Kit,SDK,Standard
-  ms.openlocfilehash: 9095849697c158ed1ff78a7a1bdd940cbfc8170f
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.date: 03/22/2021
+  keywords: 
+  ms.openlocfilehash: 754de7798ae8bf2ddd76952bf1a7c2634e68f06a
+  ms.sourcegitcommit: 9b7056d33d458209e428510e4c1408f5e968f322
   ms.translationtype: HT
   ms.contentlocale: zh-TW
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "936920"
+  ms.lasthandoff: 03/22/2021
+  ms.locfileid: "1486063"
 name: Microsoft Lync Server 2010
 summary: >+
   Microsoft Lync Server 2010 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
@@ -22,10 +22,10 @@ products:
 policyType: fixed
 supportDates:
   start: 01/25/2011
-  end: 04/10/2018
-  extendedEnd: 04/11/2023
+  end: 04/12/2016
+  extendedEnd: 04/13/2021
 releases:
 - version: Original Release
   startDate: 01/25/2011
-  endDate: 04/11/2023
+  endDate: 04/13/2021
 content: "\n## <a name=\"links\"></a>連結 \n* [Lync Phone Edition](/lifecycle/products/microsoft-lync-phone-edition?branch=live)\n\n> [!NOTE]\n> Lync Server 2010 與 Lync Server 2013 均支援 Lync Phone Edition。 Lync Phone Edition 的支援日期已延長 2 年，以與 Lync Server 2013 生命週期對應。\n\n## <a name=\"editions\"></a>版本 \n* Enterprise\n* Group Chat 軟體開發套件\n* SDK\n* 標準版"
