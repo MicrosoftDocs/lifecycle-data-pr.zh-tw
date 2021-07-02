@@ -2,28 +2,31 @@
 metadata:
   title: Windows 10 IoT Core
   description: Windows 10 IoT 核心版遵循新式生命週期原則。
-  ms.date: 01/07/2021
+  ms.date: 06/23/2021
   keywords: 
-  ms.openlocfilehash: 0eb6508d3bae724e55598450d6aeb156ad727048
-  ms.sourcegitcommit: 699a750c1174c44e9aca20f79e837d8cd401de71
+  ms.openlocfilehash: ca9f69e7cbaf902414f8eca6c763d2eb07646d96
+  ms.sourcegitcommit: 51a7221b87d358960376e2569c3b1e69ba056b54
   ms.translationtype: HT
   ms.contentlocale: zh-TW
-  ms.lasthandoff: 01/07/2021
-  ms.locfileid: "1369482"
+  ms.lasthandoff: 06/25/2021
+  ms.locfileid: "2028867"
 name: Windows 10 IoT Core
-summary: >
+summary: >+
   Windows 10 IoT 核心版遵循[新式](/lifecycle/policies/modern)生命週期原則。
+
+
 
 
 
   > [!IMPORTANT]
 
   > 此產品已於 2020 年 11 月 10 日淘汰。 若要持續獲得支援，請移轉至 [IoT 核心版服務](https://docs.microsoft.com/windows-hardware/manufacture/iot/iotcoreservicesoverview?tabs=azure-portal)。
+
 products:
 - windows
 policyType: modern-on-prem
 supportDates:
-  start: 08/02/2016
+  start: 11/10/2015
   end: 11/10/2020
 releases:
 - version: Version 1809
@@ -41,4 +44,7 @@ releases:
 - version: Version 1607
   startDate: 08/02/2016
   endDate: 04/10/2018
-content: "\n## <a name=\"links\"></a>連結 \n* [生命週期常見問題集 - Windows 產品](/lifecycle/faq/windows)\n* [Windows 生命週期資料表](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Windows 即服務 (WaaS)](/windows/deployment/update/waas-quick-start)"
+- version: Version 1511
+  startDate: 11/10/2015
+  endDate: 10/10/2017
+content: "\n\n## <a name=\"links\"></a>連結 \n* [生命週期常見問題集 - Windows 產品](/lifecycle/faq/windows)\n* [Windows 生命週期資料表](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Windows 即服務 (WaaS)](/windows/deployment/update/waas-quick-start)"
