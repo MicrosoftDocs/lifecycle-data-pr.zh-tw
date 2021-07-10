@@ -2,13 +2,14 @@
 metadata:
   title: 適用於 Windows 10 的 Windows Defender
   description: 適用於 Windows 10 的 Windows Defender 遵循元件生命週期原則。
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 4bebd1c04c81844b3d0dde309f7fd75b1856fdf6
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 04/28/2021
+  keywords: 
+  ms.openlocfilehash: ba8be3a314dd861f34d24f346ff9ca06266dfa1f
+  ms.sourcegitcommit: 51a7221b87d358960376e2569c3b1e69ba056b54
   ms.translationtype: HT
   ms.contentlocale: zh-TW
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "807332"
+  ms.lasthandoff: 06/25/2021
+  ms.locfileid: "2029015"
 name: 適用於 Windows 10 的 Windows Defender
 summary: >+
   適用於 Windows 10 的 Windows Defender 遵循[元件](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)生命週期原則。
@@ -24,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 07/29/2015
   endDate: 10/14/2025
-content: "\n## <a name=\"links\"></a>連結 \n* [Windows 10](/lifecycle/products/?terms=windows%2010)\n\n> [!NOTE]\n> 此版本被稱為元件，遵循其上層產品 Windows 10 的生命週期。"
+content: "\n## <a name=\"links\"></a>連結 \n* [Windows 10](/lifecycle/products/?terms=windows%2010)\n* [服務指導方針](/microsoft-365/security/defender-endpoint/manage-updates-baselines-microsoft-defender-antivirus?view=o365-worldwide#microsoft-defender-antivirus-platform-support)\n\n> [!NOTE]\n> 此版本被稱為元件，遵循其上層產品 Windows 10 的生命週期。"
