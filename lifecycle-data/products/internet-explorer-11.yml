@@ -2,17 +2,25 @@
 metadata:
   title: Internet Explorer 11
   description: Internet Explorer 11 遵循元件生命週期原則。
-  ms.date: 08/12/2020
-  ms.openlocfilehash: 62c563784a27bf046f85b65ff75c31ec969d0bb6
-  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
+  ms.date: 05/18/2021
+  keywords: 
+  ms.openlocfilehash: e8c2c3268966c81d4dd08589587bd41da21148c2
+  ms.sourcegitcommit: 51a7221b87d358960376e2569c3b1e69ba056b54
   ms.translationtype: HT
   ms.contentlocale: zh-TW
-  ms.lasthandoff: 08/13/2020
-  ms.locfileid: "893637"
+  ms.lasthandoff: 06/25/2021
+  ms.locfileid: "2029496"
 name: Internet Explorer 11
 summary: >+
   Internet Explorer 11 遵循[元件](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)生命週期原則。
 
+
+
+
+
+  > [!IMPORTANT]
+
+  > 請注意，Internet Explorer (IE) 11 桌面應用程式將從 2022 年 6 月 15 日開始終止對某些作業系統的支援。 鼓勵客戶使用 IE 模式轉移到 Microsoft Edge。 IE 模式可實現回溯相容性，至少在 2029 年之前將得到支援。 此外，Microsoft 將在淘汰 IE 模式前一年提供通知。 請前往[這裡](https://docs.microsoft.com/lifecycle/faq/internet-explorer-microsoft-edge#what-is-the-lifecycle-policy-for-internet-explorer-)，取得有關 Internet Explorer 支援的作業系統，包括受本公告影響的版本。
 
 products:
 - internet-explorer
@@ -22,4 +30,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 11/13/2013
-content: "\n## <a name=\"links\"></a>連結 \n* [移轉指引](https://www.microsoft.com/itpro/microsoft-edge)\n* [Internet Explorer 生命週期原則常見問題集](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> 2016 年 1 月 12 日起，只有支援的作業系統可使用的最新 Internet Explorer 版本才會收到技術支援和安全性更新。"
+content: "\n\n## <a name=\"links\"></a>連結 \n* [移轉指引](https://www.microsoft.com/itpro/microsoft-edge)\n* [Internet Explorer 和 Microsoft Edge 生命週期常見問題集](/lifecycle/faq/internet-explorer-microsoft-edge)\n* [Internet Explorer 支援的作業系統](/lifecycle/faq/internet-explorer-microsoft-edge#what-is-the-lifecycle-policy-for-internet-explorer-)\n* [Microsoft Edge 支援的作業系統](/deployedge/microsoft-edge-supported-operating-systems)\n\n\n> [!NOTE]\n> 延伸安全性更新 (ESU) 可使用時，可能會在最新的作業系統結束日期之後支援某些版本的 Internet Explorer。 請移至[這裡](https://docs.microsoft.com/lifecycle/faq/extended-security-updates)以取得提供 ESU 的產品清單。"
