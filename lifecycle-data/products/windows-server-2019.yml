@@ -2,20 +2,23 @@
 metadata:
   title: Windows Server 2019
   description: Windows Server 2019 遵循固定生命週期原則。
-  ms.date: 09/01/2020
-  keywords: Datacenter,Essentials,Standard
-  ms.openlocfilehash: 8967355f6556b020b48bca6259870c05be45f09e
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.date: 07/09/2021
+  keywords: 
+  ms.openlocfilehash: dbba3f3d791a3646dc46974ddf37f64c83207bed
+  ms.sourcegitcommit: 4e981a76c3185e8691faa3033ff05c685bba0999
   ms.translationtype: HT
   ms.contentlocale: zh-TW
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "939325"
+  ms.lasthandoff: 07/28/2021
+  ms.locfileid: "2255318"
 name: Windows Server 2019
 summary: >+
   Windows Server 2019 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
 
 
+
   本文適用於下列版本：Datacenter、Essentials、Standard
+
+
 
 products:
 - windows
@@ -28,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 11/13/2018
   endDate: 01/09/2029
-content: "\n## <a name=\"links\"></a>連結 \n* [產品資訊](/windows-server/get-started-19/whats-new-19)\n* [Windows Server 2019 可用性更新 (英文)](https://aka.ms/WSRelaunchBlog)\n* [生命週期常見問題集 - Windows 產品](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Windows Server 2019 和 Windows Server 1809 版已於 2018 年 11 月 13 日重新發行。 支持日期作了相應調整。\n\n## <a name=\"editions\"></a>版本 \n* Datacenter\n* Essentials\n* 標準版"
+content: "\n\n## <a name=\"links\"></a>連結 \n* [產品資訊](/windows-server/get-started-19/whats-new-19)\n* [Windows Server 2019 可用性更新 (英文)](https://aka.ms/WSRelaunchBlog)\n* [生命週期常見問題集 - Windows 產品](/lifecycle/faq/windows)\n* [Windows 容器基底映像服務生命週期。](/virtualization/windowscontainers/deploy-containers/base-image-lifecycle)\n\n\n> [!NOTE]\n> 隨 Windows Server 2019 發行的容器遵循相同的生命週期日期。\n> [!NOTE]\n> Windows Server 2019 和 Windows Server 1809 版已於 2018 年 11 月 13 日重新發行。 支持日期作了相應調整。\n\n\n## <a name=\"editions\"></a>版本 \n* Datacenter\n* Essentials\n* 標準版"
