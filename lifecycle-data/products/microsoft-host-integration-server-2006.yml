@@ -4,14 +4,14 @@ metadata:
   description: Microsoft Host Integration Server 2006 遵循固定生命週期原則。
   ms.date: 09/01/2020
   keywords: Developer,Standard
-  ms.openlocfilehash: b7da52c555619a2d4222ae264140f646fb161913
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.openlocfilehash: bd6dcc8dcd4e871989ce6cf9f1ce22f611aa63fede1ac0acf71d09e0cee46fbd
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: zh-TW
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "933775"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2484702"
 name: Microsoft Host Integration Server 2006
-summary: "Microsoft Host Integration Server 2006 遵循[固定](/lifecycle/policies/fixed)生命週期原則。\n\n本文適用於下列版本：Developer、Standard\n\n> [!IMPORTANT]\n> 此產品的支援已終止。 請參閱下面的移轉指引。 \n"
+summary: "Microsoft Host Integration Server 2006 遵循[固定](/lifecycle/policies/fixed)生命週期原則。\n\n本文適用於下列版本：Developer，Standard\n\n> [!IMPORTANT]\n> 此產品的支援已終止。 請參閱下面的移轉指引。 \n"
 products:
 - microsoft-servers
 policyType: fixed
@@ -26,4 +26,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2007
   endDate: 04/12/2011
-content: "\n## <a name=\"links\"></a>連結 \n* [移轉指引](https://blogs.msdn.microsoft.com/hostintegrationserver/2016/09/06/end-of-support-for-host-integration-server-2006)\n* [Service Pack 原則](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>版本 \n* Developer\n* Standard"
+content: "\n## <a name=\"links\"></a>連結 \n* [移轉指引](https://blogs.msdn.microsoft.com/hostintegrationserver/2016/09/06/end-of-support-for-host-integration-server-2006)\n* [Service Pack 原則](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>版本 \n* Developer\n* 標準版"

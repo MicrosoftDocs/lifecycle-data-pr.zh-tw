@@ -4,18 +4,18 @@ metadata:
   description: Windows Mobile 2003 遵循固定生命週期原則。
   ms.date: 09/10/2020
   keywords: for Pocket PC,for Smartphones,Second Edition software for Pocket PC Phone,Second Edition software for Smartphone
-  ms.openlocfilehash: c52bd0f85c680da23bee4cb5e6ae669a53c1038c
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
+  ms.openlocfilehash: 7d7a86e29b2495fd19423f48166f023430bc728c36d921604a5980c5bfabaff8
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: zh-TW
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1002083"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2483740"
 name: Windows Mobile 2003
 summary: >
   Windows Mobile 2003 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
 
 
-  本文適用於下列版本：Pocket PC、Smartphones、Second Edition software for Pocket PC Phone、Second Edition software for Smartphone
+  本文適用於下列版本：適用於 Pocket PC、適用於 Smartphones、適用於 Pocket PC  Phone 的 Second Edition 軟體、適用於 Smartphone 的 Second Edition 軟體
 
 
   > [!IMPORTANT]
@@ -32,4 +32,4 @@ releases:
 - version: Original Release
   startDate: 05/31/2004
   endDate: 07/08/2014
-content: "\n\n\n## <a name=\"editions\"></a>版本 \n* for Pocket PC\n* for Smartphones\n* Second Edition software for Pocket PC Phone\n* Second Edition software for Smartphone"
+content: "\n\n\n## <a name=\"editions\"></a>版本 \n* 適用於 Pocket PC\n* 適用於 Smartphones\n* 適用於 Pocket PC Phone 的 Second Edition 軟體\n* 適用於 Smartphone 的 Second Edition 軟體"
