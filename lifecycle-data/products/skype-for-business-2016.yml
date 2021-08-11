@@ -3,12 +3,12 @@ metadata:
   title: 商務用 Skype 2016
   description: 商務用 Skype 2016 遵循固定生命週期原則。
   ms.date: 07/28/2020
-  ms.openlocfilehash: bb612be489d44c4dbac85d1fffce7797eaef57d2
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.openlocfilehash: dcebe58cbbe5840a00292ed6bc3784c029e9c6f928065b8aa022890f3807f2a7
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: zh-TW
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "850008"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2501796"
 name: 商務用 Skype 2016
 summary: >+
   商務用 Skype 2016 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
