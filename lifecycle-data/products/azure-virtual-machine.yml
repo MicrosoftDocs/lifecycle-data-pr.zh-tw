@@ -3,12 +3,12 @@ metadata:
   title: Azure 虛擬機器
   description: Azure 虛擬機器遵循新式生命週期原則。
   ms.date: 07/28/2020
-  ms.openlocfilehash: 84ee256cb8f83f04ce94702234a380442fb2e69a
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.openlocfilehash: b3ff08b20e814714ed03667a0bdccb3b1d54ce918894b121352c66a29f3e21a1
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: zh-TW
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "849853"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2492435"
 name: Azure 虛擬機器
 summary: >+
   Azure 虛擬機器遵循[新式](/lifecycle/policies/modern)生命週期原則。
