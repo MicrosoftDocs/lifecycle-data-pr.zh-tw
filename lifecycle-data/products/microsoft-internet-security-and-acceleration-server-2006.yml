@@ -4,12 +4,12 @@ metadata:
   description: Microsoft Internet Security and Acceleration Server 2006 遵循固定生命週期原則。
   ms.date: 09/10/2020
   keywords: Enterprise,Standard
-  ms.openlocfilehash: 75511749f62f184e0c55f573060d6906f09d4c4f
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
+  ms.openlocfilehash: 172aa83f81e162682b76bc830571452b5b2d9802421b753c4beb7d685f9e6423
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: zh-TW
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1001824"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2511453"
 name: Microsoft Internet Security and Acceleration Server 2006
 summary: "Microsoft Internet Security and Acceleration Server 2006 遵循[固定](/lifecycle/policies/fixed)生命週期原則。\n\n本文適用於下列版本：Enterprise，Standard\n\n> [!IMPORTANT]\n> 此產品的支援已終止。 \n"
 products:
