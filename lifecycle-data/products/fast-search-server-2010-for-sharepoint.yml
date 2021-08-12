@@ -3,35 +3,39 @@ metadata:
   title: FAST Search Server 2010 (適用於 SharePoint、適用於 SharePoint Internet Sites)
   description: FAST Search Server 2010 (適用於 SharePoint、適用於 SharePoint Internet Sites) 遵循固定生命週期原則。
   ms.date: 09/01/2020
-  keywords: for SharePoint,for SharePoint Internet Sites
-  ms.openlocfilehash: c027838c1f802c0ed026d733a9412fe15980c093
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: zh-TW
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "936143"
+  keywords: 'for SharePoint,for SharePoint Internet Sites'
 name: FAST Search Server 2010 (適用於 SharePoint、適用於 SharePoint Internet Sites)
-summary: >+
+summary: |+
   FAST Search Server 2010 (適用於 SharePoint、適用於 SharePoint Internet Sites) 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
-
 
   本文適用於下列版本：適用於 SharePoint、適用於 SharePoint Internet Sites
 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 06/16/2010
   end: 10/13/2015
   extendedEnd: 10/13/2020
 releases:
-- version: Service Pack 2
-  startDate: 07/23/2013
-  endDate: 10/13/2020
-- version: Service Pack 1
-  startDate: 06/24/2011
-  endDate: 07/23/2014
-- version: Original Release
-  startDate: 06/16/2010
-  endDate: 07/10/2012
-content: "\n## <a name=\"links\"></a>連結 \n* [移轉指引](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101711)\n* [Service Pack 原則](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> 不包括先前已不支援的版本。 對本產品的支援受其取得條款所約束。\n\n## <a name=\"editions\"></a>版本 \n* 適用於 SharePoint\n* 適用於 SharePoint Internet Sites"
+  - version: Service Pack 2
+    startDate: 07/23/2013
+    endDate: 10/13/2020
+  - version: Service Pack 1
+    startDate: 06/24/2011
+    endDate: 07/23/2014
+  - version: Original Release
+    startDate: 06/16/2010
+    endDate: 07/10/2012
+content: |
+
+  ## <a name="links"></a>連結 
+  * [移轉指引](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101711)
+  * [Service Pack 原則](/lifecycle/policies/fixed#service-packs)
+
+  > [!NOTE]
+  > 不包括先前已不支援的版本。 對本產品的支援受其取得條款所約束。
+
+  ## <a name="editions"></a>版本 
+  * 適用於 SharePoint
+  * 適用於 SharePoint Internet Sites

@@ -3,23 +3,25 @@ metadata:
   title: Wunderlist
   description: Wunderlist 遵循固定生命週期原則。
   ms.date: 07/28/2020
-  ms.openlocfilehash: dd978a839e950577c0854ee914df4114d50a9865
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: zh-TW
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "849693"
 name: Wunderlist
-summary: "Wunderlist 遵循[固定](/lifecycle/policies/fixed)生命週期原則。\n\n\n> [!IMPORTANT]\n> 對本產品的支援受其取得條款所約束。 此產品的支援已終止。 請參閱下面的移轉指引。 \n"
+summary: |
+  Wunderlist 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
+
+
+  > [!IMPORTANT]
+  > 對本產品的支援受其取得條款所約束。 此產品的支援已終止。 請參閱下面的移轉指引。 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 06/02/2015
   end: 05/06/2020
   extendedEnd: 05/06/2020
 releases:
-- version: Original Release
-  startDate: 06/02/2015
-  endDate: 05/06/2020
-content: "\n## <a name=\"links\"></a>連結 \n* [移轉指引](https://www.wunderlist.com/blog/join-us-on-our-new-journey)"
+  - version: Original Release
+    startDate: 06/02/2015
+    endDate: 05/06/2020
+content: |+
+
+  ## <a name="links"></a>連結 
+  * [移轉指引](https://www.wunderlist.com/blog/join-us-on-our-new-journey)
