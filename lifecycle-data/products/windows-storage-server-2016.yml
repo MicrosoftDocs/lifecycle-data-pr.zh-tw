@@ -3,29 +3,31 @@ metadata:
   title: Windows Storage Server 2016
   description: Windows Storage Server 2016 遵循固定生命週期原則。
   ms.date: 09/01/2020
-  keywords: Standard,Workgroup
-  ms.openlocfilehash: 3c0a7d1d5f6f5a73282c35ad96c1b0a036f938d1
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: zh-TW
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "938955"
+  keywords: 'Standard,Workgroup'
 name: Windows Storage Server 2016
-summary: >+
+summary: |+
   Windows Storage Server 2016 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
-
 
   本文適用於下列版本：Standard, Workgroup
 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 10/15/2016
   end: 01/11/2022
   extendedEnd: 01/12/2027
 releases:
-- version: Original Release
-  startDate: 10/15/2016
-  endDate: 01/12/2027
-content: "\n## <a name=\"links\"></a>連結 \n* [生命週期常見問題集 - Windows 產品](/lifecycle/faq/windows)\n* [產品資訊](/windows-server/storage/whats-new-in-storage)\n\n\n## <a name=\"editions\"></a>版本 \n* 標準版\n* Workgroup"
+  - version: Original Release
+    startDate: 10/15/2016
+    endDate: 01/12/2027
+content: |
+
+  ## <a name="links"></a>連結 
+  * [生命週期常見問題集 - Windows 產品](/lifecycle/faq/windows)
+  * [產品資訊](/windows-server/storage/whats-new-in-storage)
+
+
+  ## <a name="editions"></a>版本 
+  * 標準版
+  * Workgroup

@@ -3,26 +3,26 @@ metadata:
   title: Windows Azure 套件 (在 Windows Server 2016 上)
   description: Windows Azure 套件 (Windows Server 2016 上) 遵循固定生命週期原則。
   ms.date: 07/28/2020
-  ms.openlocfilehash: a3bc7138c47161efae20613f28d27e015d290e41
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: zh-TW
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "849651"
 name: Windows Azure 套件 (在 Windows Server 2016 上)
-summary: >+
+summary: |+
   Windows Azure 套件 (Windows Server 2016 上) 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
 
 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 10/12/2016
   end: 01/11/2022
   extendedEnd: 01/12/2027
 releases:
-- version: Original Release
-  startDate: 10/12/2016
-  endDate: 01/12/2027
-content: "\n## <a name=\"links\"></a>連結 \n* [其他資訊](/previous-versions/azure/windows-server-azure-pack/dn296435(v=technet.10))\n\n> [!NOTE]\n> 適用於 Windows Server 的 Windows Azure 套件是一種混合式雲解決方案，可在您的資料中心引入 Windows Azure 技術。 無需額外成本，即可讓 Microsoft 客戶在您的資料中心硬體中提供豐富的自助式多租用戶雲端。"
+  - version: Original Release
+    startDate: 10/12/2016
+    endDate: 01/12/2027
+content: |+
+
+  ## <a name="links"></a>連結 
+  * [其他資訊](/previous-versions/azure/windows-server-azure-pack/dn296435(v=technet.10))
+
+  > [!NOTE]
+  > 適用於 Windows Server 的 Windows Azure 套件是一種混合式雲解決方案，可在您的資料中心引入 Windows Azure 技術。 無需額外成本，即可讓 Microsoft 客戶在您的資料中心硬體中提供豐富的自助式多租用戶雲端。
