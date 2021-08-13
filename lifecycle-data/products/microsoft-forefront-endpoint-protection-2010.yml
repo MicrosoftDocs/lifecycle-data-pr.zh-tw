@@ -3,30 +3,29 @@ metadata:
   title: Microsoft Forefront Endpoint Protection 2010
   description: Microsoft Forefront Endpoint Protection 2010 遵循固定生命週期原則。
   ms.date: 07/28/2020
-  ms.openlocfilehash: 113adafeb18c300817f2c264cf2457b0e24cbd8c
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: zh-TW
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "849929"
 name: Microsoft Forefront Endpoint Protection 2010
-summary: >
+summary: |
   Microsoft Forefront Endpoint Protection 2010 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
 
 
-
   > [!IMPORTANT]
-
   > 支援已結束。 請參閱下面的移轉指引。
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 03/31/2011
   end: 07/08/2014
   extendedEnd: 07/09/2019
 releases:
-- version: Original Release
-  startDate: 03/31/2011
-  endDate: 07/09/2019
-content: "\n## <a name=\"links\"></a>連結 \n* [移轉指引](/lifecycle/announcements/sccm-2007-forefront-2010-end-of-support)\n* [服務資訊](https://techcommunity.microsoft.com/t5/Configuration-Manager-Archive/Anti-malware-Platform-Support/ba-p/274186)\n\n> [!NOTE]\n> 客戶必須保持使用最新的反惡意程式碼平台更新，才能獲得充分支援。 涵蓋 Forefront Endpoint Protection 2010 主要與延伸支援的生命週期原則與 System Center Configuration Manager 2007 相同。"
+  - version: Original Release
+    startDate: 03/31/2011
+    endDate: 07/09/2019
+content: |+
+
+  ## <a name="links"></a>連結 
+  * [移轉指引](/lifecycle/announcements/sccm-2007-forefront-2010-end-of-support)
+  * [服務資訊](https://techcommunity.microsoft.com/t5/Configuration-Manager-Archive/Anti-malware-Platform-Support/ba-p/274186)
+
+  > [!NOTE]
+  > 客戶必須保持使用最新的反惡意程式碼平台更新，才能獲得充分支援。 涵蓋 Forefront Endpoint Protection 2010 主要與延伸支援的生命週期原則與 System Center Configuration Manager 2007 相同。

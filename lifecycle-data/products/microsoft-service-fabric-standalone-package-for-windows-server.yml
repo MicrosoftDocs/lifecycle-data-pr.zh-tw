@@ -3,23 +3,20 @@ metadata:
   title: 適用於 Windows Server 的 Service Fabric 獨立套件
   description: 適用於 Windows Server 的 Service Fabric 獨立套件遵循新式生命週期原則。
   ms.date: 07/28/2020
-  ms.openlocfilehash: d1876355f78b6c35bded38d9b1cbd039d4f0cd91
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: zh-TW
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "849931"
 name: 適用於 Windows Server 的 Service Fabric 獨立套件
-summary: >+
+summary: |+
   適用於 Windows Server 的 Service Fabric 獨立套件遵循[新式](/lifecycle/policies/modern)生命週期原則。
 
 
 products:
-- windows
+  - windows
 policyType: modern-online
 supportDates:
   start: 09/26/2016
 releases:
-- version: Original Release
-  startDate: 09/26/2016
-content: "\n## <a name=\"links\"></a>連結 \n* [服務資訊](/azure/service-fabric/service-fabric-support)"
+  - version: Original Release
+    startDate: 09/26/2016
+content: |+
+
+  ## <a name="links"></a>連結 
+  * [服務資訊](/azure/service-fabric/service-fabric-support)
