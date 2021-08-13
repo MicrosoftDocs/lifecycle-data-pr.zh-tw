@@ -1,31 +1,35 @@
 ### YamlMime:Lifecycle
 metadata:
   title: 工作流程管理員 1.0
-  description: 工作流程管理員 1.0 遵循固定生命週期原則。
+  description: Workflow Manager 1.0 遵循固定生命週期原則。
   ms.date: 09/10/2020
-  keywords: 
-  ms.openlocfilehash: 4fa17a4187f64e1ea2b46d8fdca61b81bbb7c7fa
-  ms.sourcegitcommit: 5c618c870f05989d24ebd3a61d98ce2302e85d3b
-  ms.translationtype: HT
-  ms.contentlocale: zh-TW
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1002598"
+  keywords: null
 name: 工作流程管理員 1.0
-summary: >+
-  工作流程管理員 1.0 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
+summary: |+
+  Workflow Manager 1.0 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
 
-
-  本文適用於下列版本：Client、Standard
+  本文適用於下列版本：進階版、標準版
 
 products:
-- vs
+  - vs
 policyType: fixed
 supportDates:
   start: 10/18/2012
   end: 01/09/2018
   extendedEnd: 01/10/2023
 releases:
-- version: Original Release
-  startDate: 10/18/2012
-  endDate: 01/10/2023
-content: "\n## <a name=\"links\"></a>連結 \n* [SharePoint 2016 服務資訊](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-server-2016)\n* [SharePoint 2013 服務資訊](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-2013)\n\n> [!NOTE]\n> 當工作流程管理員是 SharePoint Server 2016 或 SharePoint Server 2013 的元件時，則會根據對應的 SharePoint Server 版本終止支援日期予以支援。\n\n## <a name=\"editions\"></a>版本 \n* Client\n* Standard"
+  - version: Original Release
+    startDate: 10/18/2012
+    endDate: 01/10/2023
+content: |
+
+  ## <a name="links"></a>連結 
+  * [SharePoint 2016 服務資訊](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-server-2016)
+  * [SharePoint 2013 服務資訊](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-2013)
+
+  > [!NOTE]
+  > 當 Workflow Manager 是 SharePoint Server 2016 或 SharePoint Server 2013 的元件時，則會根據對應的 SharePoint Server 版本終止支援日期予以支援。
+
+  ## <a name="editions"></a>版本 
+  * 用戶端
+  * 標準版

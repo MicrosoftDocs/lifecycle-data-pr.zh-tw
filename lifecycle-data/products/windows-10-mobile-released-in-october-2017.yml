@@ -3,29 +3,25 @@ metadata:
   title: Windows 10 行動裝置版，2017 年 10 月發佈
   description: Windows 10 (2017 年 10 月發行) 遵循固定生命週期原則。
   ms.date: 07/28/2020
-  ms.openlocfilehash: 8b985e9de8f67c71a0a81c907664499b3cd303e2
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: HT
-  ms.contentlocale: zh-TW
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "868111"
 name: Windows 10 行動裝置版，2017 年 10 月發佈
-summary: >
+summary: |
   Windows 10 (2017 年 10 月發行) 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
 
 
-
   > [!IMPORTANT]
-
   > 此產品的支援已終止。
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 10/17/2017
   end: 12/10/2019
   extendedEnd: 01/14/2020
 releases:
-- version: Original Release
-  startDate: 10/17/2017
-content: "\n## <a name=\"links\"></a>連結 \n* [裝置作業系統生命週期常見問題集](/lifecycle/faq/device-operating-systems)\n* [Windows 10 行動裝置版已於 2019 年 12 月 10 日終止支援](/lifecycle/announcements/windows-10-mobile-end-of-support)"
+  - version: Original Release
+    startDate: 10/17/2017
+content: |+
+
+  ## <a name="links"></a>連結 
+  * [裝置作業系統生命週期常見問題集](/lifecycle/faq/device-operating-systems)
+  * [Windows 10 行動裝置版已於 2019 年 12 月 10 日終止支援](/lifecycle/announcements/windows-10-mobile-end-of-support)

@@ -3,24 +3,24 @@ metadata:
   title: 適用於 Windows Server 2019 的 Windows Server Update Service
   description: 適用於 Windows Server 2019 的 Windows Server Update Service 遵循元件生命週期元則。
   ms.date: 07/28/2020
-  ms.openlocfilehash: 9ef2f54a3fe3a1de1d28984b691c0b1ed189d9db
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: zh-TW
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "806798"
 name: 適用於 Windows Server 2019 的 Windows Server Update Service
-summary: >+
+summary: |+
   適用於 Windows Server 2019 的 Windows Server Update Service 遵循[元件](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)生命週期原則。
 
 
 products:
-- windows
+  - windows
 policyType: component
 supportDates:
   start: 03/04/2019
 releases:
-- version: Original Release
-  startDate: 03/04/2019
-  endDate: 01/09/2029
-content: "\n## <a name=\"links\"></a>連結 \n* [Windows Server 2019](/lifecycle/products/windows-server-2019)\n\n> [!NOTE]\n> 此元件遵循其父產品 Windows Server 2019 的生命週期。"
+  - version: Original Release
+    startDate: 03/04/2019
+    endDate: 01/09/2029
+content: |+
+
+  ## <a name="links"></a>連結 
+  * [Windows Server 2019](/lifecycle/products/windows-server-2019)
+
+  > [!NOTE]
+  > 此元件遵循其父產品 Windows Server 2019 的生命週期。

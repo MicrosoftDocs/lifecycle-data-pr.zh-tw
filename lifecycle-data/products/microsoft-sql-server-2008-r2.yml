@@ -3,47 +3,63 @@ metadata:
   title: Microsoft SQL Server 2008 R2
   description: Microsoft SQL Server 2008 R2 遵循固定生命週期原則。
   ms.date: 04/23/2021
-  keywords: 
-  ms.openlocfilehash: d18b8ab6918149d81b686c3a63ac65441be3d37b
-  ms.sourcegitcommit: 51a7221b87d358960376e2569c3b1e69ba056b54
-  ms.translationtype: HT
-  ms.contentlocale: zh-TW
-  ms.lasthandoff: 06/25/2021
-  ms.locfileid: "2028904"
+  keywords: null
 name: Microsoft SQL Server 2008 R2
-summary: >+
+summary: |+
   Microsoft SQL Server 2008 R2 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
-
 
   本文適用於下列版本：Datacente、Develope、Enterprise、Express、Express with Advanced Services、適用於內嵌系統、Standard、Standard Edition for Small Business、Web、Workgroup
 
 products:
-- sql-server
+  - sql-server
 policyType: fixed
 supportDates:
   start: 07/20/2010
   end: 07/08/2014
   extendedEnd: 07/09/2019
 releases:
-- version: Extended Security Update Year 3
-  startDate: 07/14/2021
-  endDate: 07/12/2022
-- version: Extended Security Update Year 2
-  startDate: 07/15/2020
-  endDate: 07/13/2021
-- version: Extended Security Update Year 1
-  startDate: 07/09/2019
-  endDate: 07/14/2020
-- version: Service Pack 3
-  startDate: 07/07/2014
-  endDate: 07/09/2019
-- version: Service Pack 2
-  startDate: 07/26/2012
-  endDate: 10/13/2015
-- version: Service Pack 1
-  startDate: 07/12/2011
-  endDate: 10/08/2013
-- version: Original Release
-  startDate: 07/20/2010
-  endDate: 07/10/2012
-content: "> [!TIP]\n> *延伸安全性更新 (ESU) 可供本產品的 Datacenter、Standard、Enterprise 和 Embedded 版本使用，結束支援後最多還可使用三年。 請連絡您的 Microsoft 合作夥伴或帳戶小組以深入了解。 \n\n## <a name=\"links\"></a>連結 \n* [SQL Server 2008 與 Windows Server 2008 結束支援選項](https://azure.microsoft.com/blog/announcing-new-options-for-sql-server-2008-and-windows-server-2008-end-of-support/)\n* [SQL Server 結束支援](/sql/sql-server/end-of-support/sql-server-end-of-life-overview)\n* [Service Pack 原則](/lifecycle/policies/fixed#service-packs)\n* [延伸安全性更新方案 (ESU)](/lifecycle/faq/extended-security-updates)\n\n> [!NOTE]\n> 只針對 IA64 支援 SP2，直到 2019 年 7 月 9 日為止。 如需詳細資訊，請參閱 SQL 發行服務部落格。\n\n## <a name=\"editions\"></a>版本 \n* Datacenter\n* Developer\n* Enterprise\n* Express\n* Express with Advanced Services\n* 適用於內嵌系統\n* 標準版\n* Standard Edition for Small Business\n* 網址\n* Workgroup"
+  - version: Extended Security Update Year 3
+    startDate: 07/14/2021
+    endDate: 07/12/2022
+  - version: Extended Security Update Year 2
+    startDate: 07/15/2020
+    endDate: 07/13/2021
+  - version: Extended Security Update Year 1
+    startDate: 07/09/2019
+    endDate: 07/14/2020
+  - version: Service Pack 3
+    startDate: 07/07/2014
+    endDate: 07/09/2019
+  - version: Service Pack 2
+    startDate: 07/26/2012
+    endDate: 10/13/2015
+  - version: Service Pack 1
+    startDate: 07/12/2011
+    endDate: 10/08/2013
+  - version: Original Release
+    startDate: 07/20/2010
+    endDate: 07/10/2012
+content: |
+  > [!TIP]
+  > *延伸安全性更新 (ESU) 可供本產品的 Datacenter、Standard、Enterprise 和 Embedded 版本使用，結束支援後最多還可使用三年。 請連絡您的 Microsoft 合作夥伴或帳戶小組以深入了解。 
+
+  ## <a name="links"></a>連結 
+  * [SQL Server 2008 與 Windows Server 2008 結束支援選項](https://azure.microsoft.com/blog/announcing-new-options-for-sql-server-2008-and-windows-server-2008-end-of-support/)
+  * [SQL Server 結束支援](/sql/sql-server/end-of-support/sql-server-end-of-life-overview)
+  * [Service Pack 原則](/lifecycle/policies/fixed#service-packs)
+  * [延伸安全性更新方案 (ESU)](/lifecycle/faq/extended-security-updates)
+
+  > [!NOTE]
+  > 只針對 IA64 支援 SP2，直到 2019 年 7 月 9 日為止。 如需詳細資訊，請參閱 SQL 發行服務部落格。
+
+  ## <a name="editions"></a>版本 
+  * Datacenter
+  * Developer
+  * Enterprise
+  * Express
+  * Express with Advanced Services
+  * 適用於內嵌系統
+  * 標準版
+  * Standard Edition for Small Business
+  * 網址
+  * Workgroup
