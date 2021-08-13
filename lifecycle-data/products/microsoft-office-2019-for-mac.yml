@@ -3,28 +3,29 @@ metadata:
   title: Mac 版 Microsoft Office 2019
   description: Microsoft Office 2019 for Mac 遵循固定生命週期原則。
   ms.date: 09/01/2020
-  keywords: Academic,Home and Business,Home and Student,Standard
-  ms.openlocfilehash: ec9caa375adfc5b23212e92160c6f3107344e1c6
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: zh-TW
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "930408"
+  keywords: 'Academic,Home and Business,Home and Student,Standard'
 name: Mac 版 Microsoft Office 2019
-summary: >+
+summary: |+
   Microsoft Office 2019 for Mac 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
-
 
   本文適用於下列版本：學術版、家用及中小企業版、家用版、標準版
 
 products:
-- office
+  - office
 policyType: fixed-mainstream-only
 supportDates:
   start: 09/24/2018
   end: 10/10/2023
 releases:
-- version: Original Release
-  startDate: 09/24/2018
-  endDate: 10/10/2023
-content: "\n\n\n## <a name=\"editions\"></a>版本 \n* Academic\n* 家用及中小企業版\n* 家用版\n* 標準版"
+  - version: Original Release
+    startDate: 09/24/2018
+    endDate: 10/10/2023
+content: |
+
+
+
+  ## <a name="editions"></a>版本 
+  * Academic
+  * 家用及中小企業版
+  * 家用版
+  * 標準版

@@ -3,29 +3,30 @@ metadata:
   title: Microsoft Lync 2010
   description: Microsoft Lync 2010 遵循固定生命週期原則。
   ms.date: 10/20/2020
-  keywords: 
-  ms.openlocfilehash: a9bb16d3231175342172806518fbae8913450493
-  ms.sourcegitcommit: c1ccf8aedb73c5410ef70b9d59a49b6f6746a52c
-  ms.translationtype: HT
-  ms.contentlocale: zh-TW
-  ms.lasthandoff: 10/20/2020
-  ms.locfileid: "1162805"
+  keywords: null
 name: Microsoft Lync 2010
-summary: >+
+summary: |+
   Microsoft Lync 2010 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
-
 
   本文適用於下列版本：Attendant、Attendee、Group Chat、Standard
 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 01/25/2011
   end: 04/12/2016
   extendedEnd: 04/13/2021
 releases:
-- version: Original Release
-  startDate: 01/25/2011
-  endDate: 04/13/2021
-content: "\n\n\n## <a name=\"editions\"></a>版本 \n* 語音應答\n* 出席者\n* 群組聊天\n* 標準版"
+  - version: Original Release
+    startDate: 01/25/2011
+    endDate: 04/13/2021
+content: |
+
+
+
+  ## <a name="editions"></a>版本 
+  * 語音應答
+  * 出席者
+  * 群組聊天
+  * 標準版
