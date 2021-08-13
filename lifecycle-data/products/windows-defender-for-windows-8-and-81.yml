@@ -3,28 +3,28 @@ metadata:
   title: 適用於 Windows 8 與 8.1 的 Windows Defender
   description: 適用於 Windows 8 與 8.1 的 Windows Defender 遵循元件生命週期原則。
   ms.date: 07/28/2020
-  ms.openlocfilehash: d4024d32c3d61568ee01854acd1422ef614fedfb
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: zh-TW
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "849649"
 name: 適用於 Windows 8 與 8.1 的 Windows Defender
-summary: >+
+summary: |+
   適用於 Windows 8 與 8.1 的 Windows Defender 遵循[元件](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)生命週期原則。
 
 
 products:
-- windows
+  - windows
 policyType: component
 supportDates:
   start: 10/30/2012
   end: 01/10/2023
 releases:
-- version: For Windows 8.1
-  startDate: 11/13/2013
-  endDate: 01/10/2023
-- version: For Windows 8
-  startDate: 10/30/2012
-  endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>連結 \n* [Windows 8](/lifecycle/)\n\n> [!NOTE]\n> 此版本即為元件，遵循其上層主要產品的生命週期。"
+  - version: For Windows 8.1
+    startDate: 11/13/2013
+    endDate: 01/10/2023
+  - version: For Windows 8
+    startDate: 10/30/2012
+    endDate: 01/12/2016
+content: |+
+
+  ## <a name="links"></a>連結 
+  * [Windows 8](/lifecycle/)
+
+  > [!NOTE]
+  > 此版本即為元件，遵循其上層主要產品的生命週期。

@@ -3,25 +3,23 @@ metadata:
   title: Silverlight 4
   description: Silverlight 4 遵循固定生命週期原則。
   ms.date: 08/19/2020
-  ms.openlocfilehash: 9635d31459c8a470c63cc90e216e4237ce7c6ca1
-  ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
-  ms.translationtype: HT
-  ms.contentlocale: zh-TW
-  ms.lasthandoff: 08/19/2020
-  ms.locfileid: "903889"
 name: Silverlight 4
-summary: >+
+summary: |+
   Silverlight 4 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
 
 
 products:
-- silverlight
+  - silverlight
 policyType: fixed-mainstream-only
 supportDates:
   start: 04/15/2010
   end: 01/08/2013
 releases:
-- version: Original Release
-  startDate: 04/15/2010
-  endDate: 01/08/2013
-content: "\n\n> [!NOTE]\n> 在工具終止支援以前，Microsoft 會提供至少 12 個月的通知。"
+  - version: Original Release
+    startDate: 04/15/2010
+    endDate: 01/08/2013
+content: |+
+
+
+  > [!NOTE]
+  > 在工具終止支援以前，Microsoft 會提供至少 12 個月的通知。

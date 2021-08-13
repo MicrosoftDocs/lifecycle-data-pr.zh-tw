@@ -3,24 +3,22 @@ metadata:
   title: Windows Phone 8
   description: Windows Phone 8 遵循固定生命週期原則。
   ms.date: 08/19/2020
-  ms.openlocfilehash: 414496ab55aa39619921de70d0df779cc4403a50
-  ms.sourcegitcommit: 37ac01a1d5492bb2bf54cbd018ea34074db8c998
-  ms.translationtype: HT
-  ms.contentlocale: zh-TW
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "940791"
 name: Windows Phone 8
-summary: >+
+summary: |+
   Windows Phone 8 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
 
 
 products:
-- windows
+  - windows
 policyType: fixed-mainstream-only
 supportDates:
   start: 12/14/2012
   end: 07/08/2014
 releases:
-- version: Original Release
-  startDate: 12/14/2012
-content: "\n\n> [!NOTE]\n> Microsoft 會在生命週期開始日期後提供適用於作業系統的更新 (包含安全性更新)，至少為期 36 個月。 這些更新將會累加，每個更新都是以它之前的更新為基礎來建置。 客戶需要安裝每個更新才能維持受到支援。 這些累加式更新的散發可能會由您向其購買手機的電信業者或手機製造商控制，並要求您的手機裝有任何之前的更新後方可安裝。 更新可用性也將會因國家/地區、地區和硬體功能而變動。"
+  - version: Original Release
+    startDate: 12/14/2012
+content: |+
+
+
+  > [!NOTE]
+  > Microsoft 會在生命週期開始日期後提供適用於作業系統的更新 (包含安全性更新)，至少為期 36 個月。 這些更新將會累加，每個更新都是以它之前的更新為基礎來建置。 客戶需要安裝每個更新才能維持受到支援。 這些累加式更新的散發可能會由您向其購買手機的電信業者或手機製造商控制，並要求您的手機裝有任何之前的更新後方可安裝。 更新可用性也將會因國家/地區、地區和硬體功能而變動。
