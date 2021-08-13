@@ -3,23 +3,25 @@ metadata:
   title: Microsoft Host Integration Server 2009
   description: Microsoft Host Integration Server 2009 遵循固定生命週期原則。
   ms.date: 07/28/2020
-  ms.openlocfilehash: 08b1c9c6b318e238412255c9008244cbd13c7605
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: zh-TW
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "807125"
 name: Microsoft Host Integration Server 2009
-summary: "Microsoft Host Integration Server 2009 遵循[固定](/lifecycle/policies/fixed)生命週期原則。\n\n\n> [!IMPORTANT]\n> 此產品的支援已終止。 請參閱下面的移轉指引。 \n"
+summary: |
+  Microsoft Host Integration Server 2009 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
+
+
+  > [!IMPORTANT]
+  > 此產品的支援已終止。 請參閱下面的移轉指引。 
 products:
-- microsoft-servers
+  - microsoft-servers
 policyType: fixed
 supportDates:
   start: 06/21/2009
   end: 07/08/2014
   extendedEnd: 07/09/2019
 releases:
-- version: Original Release
-  startDate: 06/21/2009
-  endDate: 07/09/2019
-content: "\n## <a name=\"links\"></a>連結 \n* [移轉指引](https://blogs.msdn.microsoft.com/hostintegrationserver/2017/08/16/end-of-support-for-host-integration-server-2009/)"
+  - version: Original Release
+    startDate: 06/21/2009
+    endDate: 07/09/2019
+content: |+
+
+  ## <a name="links"></a>連結 
+  * [移轉指引](https://blogs.msdn.microsoft.com/hostintegrationserver/2017/08/16/end-of-support-for-host-integration-server-2009/)

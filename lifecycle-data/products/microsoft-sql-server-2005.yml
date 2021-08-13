@@ -3,45 +3,57 @@ metadata:
   title: Microsoft SQL Server 2005
   description: Microsoft SQL Server 2005 遵循固定生命週期原則。
   ms.date: 09/01/2020
-  keywords: Compact,Developer,Embedded,Enterprise,Enterprise for Itanium-based Systems,Enterprise X64,Express,Express with Advanced Services,Standard,Standard for Itanium-based Systems,Standard X64,Workgroup
-  ms.openlocfilehash: ca451e6716bf5aed78c86dd83737d59a46a8203d
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: zh-TW
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "929742"
+  keywords: 'Compact,Developer,Embedded,Enterprise,Enterprise for Itanium-based Systems,Enterprise X64,Express,Express with Advanced Services,Standard,Standard for Itanium-based Systems,Standard X64,Workgroup'
 name: Microsoft SQL Server 2005
-summary: >
+summary: |
   Microsoft SQL Server 2005 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
-
 
   本文適用於下列版本：Compact、Developer、Embedded、Enterprise、Enterprise (適用於 Itanium 型系統)、Enterprise X64, Express、Express (含 Advanced Services)、Standard、Standard (適用於 Itanium 型系統)、Standard X64、Workgroup
 
-
   > [!IMPORTANT]
-
   > 此產品的支援已終止。 請參閱下面的移轉指引。
 products:
-- sql-server
+  - sql-server
 policyType: fixed
 supportDates:
   start: 01/14/2006
   end: 04/12/2011
   extendedEnd: 04/12/2016
 releases:
-- version: Service Pack 4
-  startDate: 12/13/2010
-  endDate: 04/12/2016
-- version: Service Pack 3
-  startDate: 12/15/2008
-  endDate: 01/10/2012
-- version: Service Pack 2
-  startDate: 02/19/2007
-  endDate: 01/12/2010
-- version: Service Pack 1
-  startDate: 04/18/2006
-  endDate: 04/08/2008
-- version: Original Release
-  startDate: 01/14/2006
-  endDate: 07/10/2007
-content: "\n## <a name=\"links\"></a>連結 \n* [移轉指引](/sql/sql-server/end-of-support/sql-server-end-of-life-overview)\n* [Service Pack 原則](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Microsoft SQL Server 2005 Compact Edition 已於 2007 年 2 月 19 日。\n\n## <a name=\"editions\"></a>版本 \n* Compact\n* Developer\n* Embedded\n* Enterprise\n* Enterprise (適用於 Itanium 型系統)\n* Enterprise X64\n* Express\n* Express with Advanced Services\n* 標準版\n* Standard (適用於 Itanium 型系統)\n* Standard X64\n* Workgroup"
+  - version: Service Pack 4
+    startDate: 12/13/2010
+    endDate: 04/12/2016
+  - version: Service Pack 3
+    startDate: 12/15/2008
+    endDate: 01/10/2012
+  - version: Service Pack 2
+    startDate: 02/19/2007
+    endDate: 01/12/2010
+  - version: Service Pack 1
+    startDate: 04/18/2006
+    endDate: 04/08/2008
+  - version: Original Release
+    startDate: 01/14/2006
+    endDate: 07/10/2007
+content: |
+
+  ## <a name="links"></a>連結 
+  * [移轉指引](/sql/sql-server/end-of-support/sql-server-end-of-life-overview)
+  * [Service Pack 原則](/lifecycle/policies/fixed#service-packs)
+
+  > [!NOTE]
+  > Microsoft SQL Server 2005 Compact Edition 已於 2007 年 2 月 19 日。
+
+  ## <a name="editions"></a>版本 
+  * Compact
+  * Developer
+  * Embedded
+  * Enterprise
+  * Enterprise (適用於 Itanium 型系統)
+  * Enterprise X64
+  * Express
+  * Express with Advanced Services
+  * 標準版
+  * Standard (適用於 Itanium 型系統)
+  * Standard X64
+  * Workgroup
