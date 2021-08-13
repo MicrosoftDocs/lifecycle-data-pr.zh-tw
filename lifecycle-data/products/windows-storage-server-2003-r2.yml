@@ -4,26 +4,34 @@ metadata:
   description: Windows Storage Server 2003 R2 遵循固定生命週期原則。
   ms.date: 09/01/2020
   keywords: Standard
-  ms.openlocfilehash: 0bbf6a9de795da54ad932124e857b89fa09d55e2
-  ms.sourcegitcommit: 37ac01a1d5492bb2bf54cbd018ea34074db8c998
-  ms.translationtype: HT
-  ms.contentlocale: zh-TW
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "940790"
 name: Windows Storage Server 2003 R2
-summary: "Windows Storage Server 2003 R2 遵循[固定](/lifecycle/policies/fixed)生命週期原則。\n\n本文適用於下列版本：Standard\n\n> [!IMPORTANT]\n> 此產品的支援已終止。\n此產品隨附於 Windows Server 2003 Service Pack 1。 \n"
+summary: |
+  Windows Storage Server 2003 R2 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
+
+  本文適用於下列版本：Standard
+
+  > [!IMPORTANT]
+  > 此產品的支援已終止。
+  此產品隨附於 Windows Server 2003 Service Pack 1。 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 03/05/2006
   end: 07/13/2010
   extendedEnd: 07/14/2015
 releases:
-- version: Service Pack 2
-  startDate: 03/13/2007
-  endDate: 07/14/2015
-- version: Original Release
-  startDate: 03/05/2006
-  endDate: 04/14/2009
-content: "\n## <a name=\"links\"></a>連結 \n* [移轉指引](/windows-server/upgrade/upgrade-overview)\n\n\n## <a name=\"editions\"></a>版本 \n* 標準版"
+  - version: Service Pack 2
+    startDate: 03/13/2007
+    endDate: 07/14/2015
+  - version: Original Release
+    startDate: 03/05/2006
+    endDate: 04/14/2009
+content: |
+
+  ## <a name="links"></a>連結 
+  * [移轉指引](/windows-server/upgrade/upgrade-overview)
+
+
+  ## <a name="editions"></a>版本 
+  * 標準版

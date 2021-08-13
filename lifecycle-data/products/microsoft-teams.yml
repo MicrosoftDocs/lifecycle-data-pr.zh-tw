@@ -3,23 +3,21 @@ metadata:
   title: Microsoft Teams
   description: Microsoft Teams 遵循新式生命週期原則。
   ms.date: 07/28/2020
-  ms.openlocfilehash: 9a95c11e5ed20489a0e571cfbab654a977a4dd1c
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: zh-TW
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "850048"
 name: Microsoft Teams
-summary: >+
+summary: |+
   Microsoft Teams 遵循[新式](/lifecycle/policies/modern)生命週期原則。
 
 
 products:
-- office
+  - office
 policyType: modern-online
 supportDates:
   start: 11/01/2016
 releases:
-- version: Original Release
-  startDate: 11/01/2016
-content: "\n## <a name=\"links\"></a>連結 \n* [系統需求](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources)\n* [服務資訊](/microsoftteams/teams-client-update)"
+  - version: Original Release
+    startDate: 11/01/2016
+content: |+
+
+  ## <a name="links"></a>連結 
+  * [系統需求](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources)
+  * [服務資訊](/microsoftteams/teams-client-update)

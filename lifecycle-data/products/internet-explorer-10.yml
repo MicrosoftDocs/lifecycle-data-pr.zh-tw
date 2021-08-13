@@ -3,25 +3,26 @@ metadata:
   title: Internet Explorer 10
   description: Internet Explorer 10 遵循元件生命週期原則。
   ms.date: 07/28/2020
-  ms.openlocfilehash: 1faf7eecca13c22c8c54ab7382dfcf21c637cb1f
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: zh-TW
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "849774"
 name: Internet Explorer 10
-summary: >+
+summary: |+
   Internet Explorer 10 遵循[元件](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)生命週期原則。
 
 
 products:
-- internet-explorer
+  - internet-explorer
 policyType: component
 supportDates:
   start: 10/30/2012
   end: 01/31/2020
 releases:
-- version: Original Release
-  startDate: 10/30/2012
-  endDate: 01/31/2020
-content: "\n## <a name=\"links\"></a>連結 \n* [移轉指引](https://www.microsoft.com/en-us/WindowsForBusiness/End-of-IE-support)\n* [Internet Explorer 生命週期原則常見問題集](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> 請造訪＜Internet Explorer 生命週期常見問題集＞，以取得支援的作業系統與瀏覽器組合清單。"
+  - version: Original Release
+    startDate: 10/30/2012
+    endDate: 01/31/2020
+content: |+
+
+  ## <a name="links"></a>連結 
+  * [移轉指引](https://www.microsoft.com/en-us/WindowsForBusiness/End-of-IE-support)
+  * [Internet Explorer 生命週期原則常見問題集](/lifecycle/faq/internet-explorer-microsoft-edge)
+
+  > [!NOTE]
+  > 請造訪＜Internet Explorer 生命週期常見問題集＞，以取得支援的作業系統與瀏覽器組合清單。

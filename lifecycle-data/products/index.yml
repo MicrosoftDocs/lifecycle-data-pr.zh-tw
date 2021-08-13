@@ -1,11 +1,13 @@
 ### YamlMime:ContentBrowser
 title: 搜尋產品和服務生命週期資訊
 browseType: lifecycle
-summary: "\n> [!NOTE]\n> 請從[生命週期匯出](/lifecycle/products/export) (部分機器翻譯) 頁面匯出生命週期資訊。\n\n\nMicrosoft 生命週期可為產品的整個生命週期提供一致且可預測的支援指導方針，幫助客戶管理其 IT 投資和環境，同時對未來進行策略性規劃。\n\n\n在下方搜尋以取得 Microsoft 商業產品和服務清單，然後選取所要結果，以尋找支援和服務時間表、必要更新、移轉資訊以及系統要求。"
-metadata:
-  ms.openlocfilehash: c874ff14f0c8c755cda09d9e1580e196ae601e7e
-  ms.sourcegitcommit: adca90be401b37b1ccfe6a6ce3fe265bd2e1f0de
-  ms.translationtype: HT
-  ms.contentlocale: zh-TW
-  ms.lasthandoff: 09/02/2020
-  ms.locfileid: "943024"
+summary: |-
+
+  > [!NOTE]
+  > 請從[生命週期匯出](/lifecycle/products/export) (部分機器翻譯) 頁面匯出生命週期資訊。
+
+
+  Microsoft 生命週期可為產品的整個生命週期提供一致且可預測的支援指導方針，幫助客戶管理其 IT 投資和環境，同時對未來進行策略性規劃。
+
+
+  在下方搜尋以取得 Microsoft 商業產品和服務清單，然後選取所要結果，以尋找支援和服務時間表、必要更新、移轉資訊以及系統要求。

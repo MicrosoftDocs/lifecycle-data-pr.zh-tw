@@ -3,17 +3,10 @@ metadata:
   title: Windows Server 2016
   description: Windows Server 2016 遵循固定生命週期原則。
   ms.date: 07/09/2021
-  keywords: 
-  ms.openlocfilehash: 07c1dc6d0d6983d6fde9a35f0fad1dacbec2de75
-  ms.sourcegitcommit: c5cb11b464035a1b4d239621b8d4bf06f574da82
-  ms.translationtype: HT
-  ms.contentlocale: zh-TW
-  ms.lasthandoff: 07/28/2021
-  ms.locfileid: "2255234"
+  keywords: null
 name: Windows Server 2016
-summary: >+
+summary: |+
   Windows Server 2016 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
-
 
 
   本文適用於下列版本：Datacenter、Essentials、MultiPoint Premium、Standard
@@ -21,14 +14,31 @@ summary: >+
 
 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 10/15/2016
   end: 01/11/2022
   extendedEnd: 01/12/2027
 releases:
-- version: Original Release
-  startDate: 10/15/2016
-  endDate: 01/12/2027
-content: "\n\n## <a name=\"links\"></a>連結 \n* [產品資訊](/windows-server/get-started/server-basics)\n* [生命週期常見問題集 - Windows 產品](/lifecycle/faq/windows)\n* [Windows 容器基底映像服務生命週期](/virtualization/windowscontainers/deploy-containers/base-image-lifecycle)\n\n\n> [!NOTE]\n> 隨 Windows Server 2016 發行的容器遵循相同的生命週期日期。\n\n\n## <a name=\"editions\"></a>版本 \n* Datacenter\n* Essentials\n* MultiPoint Premium\n* 標準版"
+  - version: Original Release
+    startDate: 10/15/2016
+    endDate: 01/12/2027
+content: |+
+
+
+  ## <a name="links"></a>連結 
+  * [產品資訊](/windows-server/get-started/server-basics)
+  * [生命週期常見問題集 - Windows 產品](/lifecycle/faq/windows)
+  * [Windows 容器基底映像服務生命週期](/virtualization/windowscontainers/deploy-containers/base-image-lifecycle)
+
+
+  > [!NOTE]
+  > 隨 Windows Server 2016 發行的容器遵循相同的生命週期日期。
+
+
+  ## <a name="editions"></a>版本 
+  * Datacenter
+  * Essentials
+  * MultiPoint Premium
+  * 標準版
