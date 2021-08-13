@@ -4,30 +4,26 @@ metadata:
   description: Windows Essential Business Server 2008 遵循固定生命週期原則。
   ms.date: 09/02/2020
   keywords: ''
-  ms.openlocfilehash: 3fdedf81f3a27848e4225c7b36b64c751c15f758
-  ms.sourcegitcommit: c1ccf8aedb73c5410ef70b9d59a49b6f6746a52c
-  ms.translationtype: HT
-  ms.contentlocale: zh-TW
-  ms.lasthandoff: 10/20/2020
-  ms.locfileid: "1162065"
 name: Windows Essential Business Server 2008
-summary: >
+summary: |
   Windows Essential Business Server 2008 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
 
 
-
   > [!IMPORTANT]
-
   > 此產品套件的支援日期由其個別元件產品各自的生命週期決定。 請檢閱個別元件產品的生命週期，以判斷其支援的時間長度。
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 12/12/2008
   end: 01/13/2015
   extendedEnd: 01/14/2020
 releases:
-- version: Original Release
-  startDate: 12/12/2008
-  endDate: 02/13/2020
-content: "\n## <a name=\"links\"></a>連結 \n* [移轉指引](https://aka.ms/AA1ovn4)\n* [產品資訊](/previous-versions/tn-archive/cc540094(v=ws.10)?redirectedfrom=MSDN)"
+  - version: Original Release
+    startDate: 12/12/2008
+    endDate: 02/13/2020
+content: |+
+
+  ## <a name="links"></a>連結 
+  * [移轉指引](https://aka.ms/AA1ovn4)
+  * [產品資訊](/previous-versions/tn-archive/cc540094(v=ws.10)?redirectedfrom=MSDN)

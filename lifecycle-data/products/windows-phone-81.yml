@@ -3,29 +3,27 @@ metadata:
   title: Windows Phone 8.1
   description: Windows Phone 8.1 遵循固定生命週期原則。
   ms.date: 07/28/2020
-  ms.openlocfilehash: d81cd34117e63701bf48f128d7d3aafdd93ac581
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: zh-TW
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "849910"
 name: Windows Phone 8.1
-summary: >
+summary: |
   Windows Phone 8.1 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
 
 
-
   > [!IMPORTANT]
-
   > 此產品的支援已終止。
 products:
-- windows
+  - windows
 policyType: fixed-mainstream-only
 supportDates:
   start: 06/24/2014
   end: 07/11/2017
 releases:
-- version: Original Release
-  startDate: 06/24/2014
-  endDate: 07/11/2017
-content: "\n## <a name=\"links\"></a>連結 \n* [Windows Phone 8.1 常見問題集](https://support.microsoft.com/help/4036480/windows-phone-8-1-end-of-support-faq)\n\n> [!NOTE]\n> Microsoft 會在生命週期開始日期後提供適用於作業系統的更新 (包含安全性更新)，至少為期 36 個月。 這些更新將會累加，每個更新都是以它之前的更新為基礎來建置。 客戶需要安裝每個更新才能維持受到支援。 這些累加式更新的散發可能會由您向其購買手機的電信業者或手機製造商控制，並要求您的手機裝有任何之前的更新後方可安裝。 更新可用性也將會因國家/地區、地區和硬體功能而變動。"
+  - version: Original Release
+    startDate: 06/24/2014
+    endDate: 07/11/2017
+content: |+
+
+  ## <a name="links"></a>連結 
+  * [Windows Phone 8.1 常見問題集](https://support.microsoft.com/help/4036480/windows-phone-8-1-end-of-support-faq)
+
+  > [!NOTE]
+  > Microsoft 會在生命週期開始日期後提供適用於作業系統的更新 (包含安全性更新)，至少為期 36 個月。 這些更新將會累加，每個更新都是以它之前的更新為基礎來建置。 客戶需要安裝每個更新才能維持受到支援。 這些累加式更新的散發可能會由您向其購買手機的電信業者或手機製造商控制，並要求您的手機裝有任何之前的更新後方可安裝。 更新可用性也將會因國家/地區、地區和硬體功能而變動。

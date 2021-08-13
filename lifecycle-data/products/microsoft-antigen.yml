@@ -3,29 +3,22 @@ metadata:
   title: Microsoft Antigen
   description: Microsoft Antigen 遵循固定生命週期原則。
   ms.date: 09/10/2020
-  keywords: 9.0 for Exchange,Enterprise Manager 9.0,for SMTP Gateways,Spam Manager
-  ms.openlocfilehash: ab3c9aa07c1afe64cd5a98d0d6a885617221afc0
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
-  ms.translationtype: HT
-  ms.contentlocale: zh-TW
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1001972"
+  keywords: '9.0 for Exchange,Enterprise Manager 9.0,for SMTP Gateways,Spam Manager'
 name: Microsoft Antigen
-summary: >+
+summary: |+
   Microsoft Antigen 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
-
 
   本文適用於下列版本：9.0 for Exchange、Enterprise Manager 9.0、適用於 SMTP Gateways、Spam Manager
 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 07/17/2006
   end: 04/08/2014
   extendedEnd: 12/31/2015
 releases:
-- version: Original Release
-  startDate: 07/17/2006
-  endDate: 12/31/2015
-content: "\n\n> [!NOTE]\n> Forefront 品牌下的安全性產品藍圖已經變更。 本產品自 2015 年 12 月 31 日起中止。\n\n## <a name=\"editions\"></a>版本 \n* 9.0 for Exchange\n* Enterprise Manager 9.0\n* 適用於 SMTP Gateways\n* Spam Manager\n"
+  - version: Original Release
+    startDate: 07/17/2006
+    endDate: 12/31/2015
+content: "\n\n> [!NOTE]\n> Forefront 品牌下的安全性產品藍圖已經變更。\_本產品自 2015 年 12 月 31 日起中止。\n\n## <a name=\"editions\"></a>版本 \n* 9.0 for Exchange\n* Enterprise Manager 9.0\n* 適用於 SMTP Gateways\n* Spam Manager\n"

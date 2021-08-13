@@ -3,26 +3,23 @@ metadata:
   title: Microsoft BizTalk Adapters for Host Systems
   description: Microsoft BizTalk Adapters for Host Systems 遵循固定生命週期原則。
   ms.date: 07/28/2020
-  ms.openlocfilehash: 8511f6bc704fc691f71e2057ce4a72da3228f163
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: zh-TW
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "807500"
 name: Microsoft BizTalk Adapters for Host Systems
-summary: >+
+summary: |+
   Microsoft BizTalk Adapters for Host Systems 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
 
 
 products:
-- microsoft-servers
+  - microsoft-servers
 policyType: fixed
 supportDates:
   start: 01/27/2007
   end: 04/10/2012
   extendedEnd: 04/11/2017
 releases:
-- version: Original Release
-  startDate: 01/27/2007
-  endDate: 04/11/2017
-content: "\n## <a name=\"links\"></a>連結 \n* [移轉指引](https://blogs.msdn.microsoft.com/hostintegrationserver/2016/09/06/end-of-support-for-host-integration-server-2006)"
+  - version: Original Release
+    startDate: 01/27/2007
+    endDate: 04/11/2017
+content: |+
+
+  ## <a name="links"></a>連結 
+  * [移轉指引](https://blogs.msdn.microsoft.com/hostintegrationserver/2016/09/06/end-of-support-for-host-integration-server-2006)

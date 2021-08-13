@@ -3,39 +3,41 @@ metadata:
   title: Microsoft Application Virtualization 4.5
   description: Microsoft Application Virtualization 4.5 遵循固定生命週期原則。
   ms.date: 09/01/2020
-  keywords: for Terminal Services,for Windows Desktops
-  ms.openlocfilehash: 2d8a71caede673b568a595526f4e1c9ce41a1778
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: zh-TW
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "935625"
+  keywords: 'for Terminal Services,for Windows Desktops'
 name: Microsoft Application Virtualization 4.5
-summary: >
+summary: |
   Microsoft Application Virtualization 4.5 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
 
-
-  本文適用於下列版本：Terminal Services、Windows Desktops
-
+  本文適用於下列版本：適用於 Terminal Services、適用於 Windows Desktops
 
   > [!IMPORTANT]
-
   > 此產品的支援已終止。 請參閱下面的移轉指引。
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 11/23/2008
   end: 01/14/2014
   extendedEnd: 01/08/2019
 releases:
-- version: Service Pack 2
-  startDate: 08/15/2010
-  endDate: 01/08/2019
-- version: Service Pack 1
-  startDate: 12/13/2009
-  endDate: 10/11/2011
-- version: Original Release
-  startDate: 11/23/2008
-  endDate: 01/11/2011
-content: "\n## <a name=\"links\"></a>連結 \n* [移轉指引](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Service Pack 原則](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> App-V 4.6 用戶端會利用 App-V 4.5 伺服器，因此在與支援的 App-V 4.6 用戶端一起使用時，會根據 App-V 4.6 用戶端的生命週期日期，持續支援 App-V 4.5 伺服器。\n\n## <a name=\"editions\"></a>版本 \n* Terminal Services\n* Windows Desktops"
+  - version: Service Pack 2
+    startDate: 08/15/2010
+    endDate: 01/08/2019
+  - version: Service Pack 1
+    startDate: 12/13/2009
+    endDate: 10/11/2011
+  - version: Original Release
+    startDate: 11/23/2008
+    endDate: 01/11/2011
+content: |
+
+  ## <a name="links"></a>連結 
+  * [移轉指引](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)
+  * [Service Pack 原則](/lifecycle/policies/fixed#service-packs)
+
+  > [!NOTE]
+  > App-V 4.6 用戶端會利用 App-V 4.5 伺服器，因此在與支援的 App-V 4.6 用戶端一起使用時，會根據 App-V 4.6 用戶端的生命週期日期，持續支援 App-V 4.5 伺服器。
+
+  ## <a name="editions"></a>版本 
+  * 適用於 Terminal Services
+  * 適用於 Windows Desktops
