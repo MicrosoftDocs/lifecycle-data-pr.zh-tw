@@ -1,0 +1,60 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Internet Information Services (IIS)
+  description: Microsoft Internet Information Services (IIS) 遵循元件生命週期原則。
+  ms.date: 08/24/2021
+  keywords: IIS
+  ms.openlocfilehash: bec839cfe6478d653bc7cd2e47a6513b3a2f5e6e
+  ms.sourcegitcommit: b06425c72d3bdf1014356364d33f8e6a2ab1f6c1
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 08/25/2021
+  ms.locfileid: "3162983"
+name: Internet Information Services (IIS)
+summary: >+
+  Microsoft Internet Information Services (IIS) 遵循[元件](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)生命週期原則。
+
+
+
+
+
+products:
+- windows
+policyType: component
+supportDates:
+  start: 05/28/2003
+releases:
+- version: IIS 10 on Windows Server 2019
+  startDate: 11/13/2018
+  endDate: 01/09/2029
+- version: IIS 10 on Windows Server (Semi-Annual Channel)
+  startDate: 10/17/2017
+- version: IIS 10 on Windows Server 2016
+  startDate: 10/15/2016
+  endDate: 01/12/2027
+- version: IIS 10 on Windows 10, Enterprise and Education
+  startDate: 07/29/2015
+- version: IIS 10 on Windows 10 Pro
+  startDate: 07/29/2015
+- version: IIS 8.5 on Windows Server 2012 R2
+  startDate: 11/25/2013
+  endDate: 10/10/2023
+- version: IIS 8.5 on Windows 8.1
+  startDate: 11/13/2013
+  endDate: 01/10/2023
+- version: IIS 8 on Windows Server 2012
+  startDate: 10/30/2012
+  endDate: 10/10/2023
+- version: IIS 7.5 on Windows 7*
+  startDate: 10/22/2009
+  endDate: 01/14/2020
+- version: IIS 7.5 on Windows Server 2008 R2*
+  startDate: 10/22/2009
+  endDate: 01/14/2020
+- version: IIS 7.0 on Windows Server 2008*
+  startDate: 05/06/2008
+  endDate: 01/14/2020
+- version: IIS 6.0 on Windows Server 2003
+  startDate: 05/28/2003
+  endDate: 07/14/2015
+content: "> [!TIP]\n> [* 延伸安全性更新 (ESU)](https://docs.microsoft.com/lifecycle/faq/extended-security-updates#esu-availability-and-end-dates) 可透過特定磁碟區授權程式集供 Windows 產品使用，終止支援後最多還可使用三年。 請連絡您的 Microsoft 合作夥伴或帳戶小組以深入了解。\n\n\n## <a name=\"links\"></a>連結 \n* [Web 平台安裝程式 (WebPI) 支援終止](https://blogs.iis.net/iisteam/web-platform-installer-end-of-support-feed)\n* [延伸安全性更新 (ESU) 方案](/lifecycle/faq/extended-security-updates)\n\n\n> [!NOTE]\n> Internet Information Services (IIS) 是 Windows 作業系統的元件，而且遵循相同的生命週期。 請移至這裡，以查看[Windows Server](https://docs.microsoft.com/lifecycle/products/windows-server)、 [Windows 10 企業版及教育版](https://docs.microsoft.com/lifecycle/products/windows-10-enterprise-and-education)及 [Windows 10 專業版](https://docs.microsoft.com/lifecycle/products/windows-10-home-and-pro)的支援時間表。"
