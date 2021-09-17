@@ -2,23 +2,26 @@
 metadata:
   title: Microsoft .NET Framework
   description: Microsoft .NET Framework 遵循元件生命週期原則。
-  ms.date: 04/26/2021
+  ms.date: 09/13/2021
   keywords: Entity Framework Core
-  ms.openlocfilehash: 8d6d645959c8da911aa7dead4718fb998116c8481890468df0f552c9edd8bd9a
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: f49285dd25e5227b9903b04ab1a7e82f720a3233
+  ms.sourcegitcommit: 997d3fcd1eb2b32835a349b558316fb0ae245510
   ms.translationtype: HT
   ms.contentlocale: zh-TW
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2489549"
+  ms.lasthandoff: 09/15/2021
+  ms.locfileid: "3452618"
 name: Microsoft .NET Framework
-summary: >
+summary: >+
   Microsoft .NET Framework 遵循[元件](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)生命週期原則。
+
+
 
 
 
   > [!IMPORTANT]
 
   > .NET Framework 4.5.2、4.6 和 4.61 將於 2022 年 4 月 26 日淘汰。 這些特定發行版本先前均使用安全雜湊演算法 (SHA-1) 憑證進行簽署。 這已不再認為是安全的演算法。 建議客戶改為使用 SHA-2。 請前往[這裡](https://devblogs.microsoft.com/dotnet/net-framework-4-5-2-4-6-4-6-1-will-reach-end-of-support-on-april-26-2022)深入了解。
+
 products:
 - dotnet
 policyType: component
@@ -50,6 +53,9 @@ releases:
 - version: .NET Framework 4.5
   startDate: 10/09/2012
   endDate: 01/12/2016
+- version: .NET Framework 4.0
+  startDate: 04/12/2010
+  endDate: 01/12/2016
 - version: .NET Framework 3.5 Service Pack 1
   startDate: 11/19/2007
   endDate: 01/09/2029
@@ -59,4 +65,4 @@ releases:
 - version: .NET Framework 2.0
   startDate: 02/17/2006
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>連結 \n* [生命週期常見問題集 - .NET Framework](/lifecycle/faq/dotnet-framework)\n* [產品資訊](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-48)\n* [.NET Framework 淘汰 4.5.2、4.6、4.61](https://devblogs.microsoft.com/dotnet/net-framework-4-5-2-4-6-4-6-1-will-reach-end-of-support-on-april-26-2022)\n\n> [!NOTE]\n> 從 Windows 10 版本 1809 和 Windows Server 2019 開始，.NET Framework 3.5 Service Pack 1 (SP1) 是遵循固定原則的獨立產品。 在此之前，都將 .NET Framework 3.5 SP1 視為其安裝所在之 Windows 作業系統的元件。"
+content: "\n\n## <a name=\"links\"></a>連結 \n* [生命週期常見問題集 - .NET Framework](/lifecycle/faq/dotnet-framework)\n* [產品資訊](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-48)\n* [.NET Framework 淘汰 4.5.2、4.6、4.61](https://devblogs.microsoft.com/dotnet/net-framework-4-5-2-4-6-4-6-1-will-reach-end-of-support-on-april-26-2022)\n\n\n> [!NOTE]\n> 從 Windows 10 版本 1809 和 Windows Server 2019 開始，.NET Framework 3.5 Service Pack 1 (SP1) 是遵循固定原則的獨立產品。 在此之前，都將 .NET Framework 3.5 SP1 視為其安裝所在之 Windows 作業系統的元件。"
