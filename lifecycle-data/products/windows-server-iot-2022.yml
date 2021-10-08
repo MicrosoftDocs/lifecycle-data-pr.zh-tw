@@ -1,0 +1,34 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Server IoT 2022
+  description: Windows Server IoT 2022 遵循固定生命週期原則。
+  ms.date: 09/30/2021
+  keywords: 
+  ms.openlocfilehash: 88410d389a0328a58d5df7cd5b20e279318fe968
+  ms.sourcegitcommit: 7c3fe4207bf2db7fe5db69c9c50fd1afb6070311
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 09/30/2021
+  ms.locfileid: "3508047"
+name: Windows Server IoT 2022
+summary: >+
+  Windows Server IoT 2022 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
+
+
+
+  本文適用於下列版本：Datacenter、Standard、Storage Standard、Storage Workgroup、Telecommunications
+
+
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 08/18/2021
+  end: 10/13/2026
+  extendedEnd: 10/14/2031
+releases:
+- version: Original Release
+  startDate: 08/18/2021
+  endDate: 10/14/2031
+content: "\n\n## <a name=\"links\"></a>連結 \n* [生命週期常見問題集 - Windows 產品](/lifecycle/faq/windows)\n\n\n> [!NOTE]\n> Microsoft Edge 遵循[新式生命週期原則](https://docs.microsoft.com/lifecycle/policies/modern)。 請參閱 [Edge 生命週期文件](https://docs.microsoft.com/deployedge/microsoft-edge-support-lifecycle)，以了解如何讓此瀏覽器保持在最新狀態且受支援。\n\n\n## <a name=\"editions\"></a>版本 \n* Datacenter\n* 標準版\n* Storage Standard\n* Storage Workgroup\n* Telecommunications"
