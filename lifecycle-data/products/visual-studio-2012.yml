@@ -2,14 +2,14 @@
 metadata:
   title: Visual Studio 2012
   description: Visual Studio 2012 遵循固定生命週期原則。
-  ms.date: 10/04/2021
+  ms.date: 10/11/2021
   keywords: 
-  ms.openlocfilehash: 9d4be228f6bc6fb4e6c418c13faa8886fcd045d1
-  ms.sourcegitcommit: 59fc218db97bb57b454b1e2a859fca5b8d4cd750
+  ms.openlocfilehash: 68a9d61205020193274f000d8aac5983e94b0b5d
+  ms.sourcegitcommit: e5d80ad2e1e33e12fda006a76248ec3fb74c7af6
   ms.translationtype: HT
   ms.contentlocale: zh-TW
-  ms.lasthandoff: 10/05/2021
-  ms.locfileid: "3509167"
+  ms.lasthandoff: 10/11/2021
+  ms.locfileid: "3514159"
 name: Visual Studio 2012
 summary: >+
   Visual Studio 2012 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 10/31/2012
   endDate: 01/10/2023
-content: "\n\n## <a name=\"links\"></a>連結 \n* [舊版 Visual Studio 的服務資訊](/visualstudio/releases/2019/servicing#support-for-older-versions-of-visual-studio)\n* [Service Pack 原則](/lifecycle/faq/fixed-policy#what-is-the-lifecycle-policy-for-service-packs-)\n\n\n> [!NOTE]\n> 以下組件的 Visual Studio 2012 版本作為 Visual Studio 2012 生命週期的一部分隨附並受支援：代理、IntelliTrace 收集器、Microsoft Azure 工具、遠距工具、SDK、Shell (整合)、Shell (獨立)、SQL Server 資料工具、Team Explorer、Visual C++ Redistributable、網頁工具擴展程式。\n\n\n## <a name=\"editions\"></a>版本 \n* Express for Web\n* Express for Windows Desktop\n* 進階版\n* Professional\n* Team Explorer\n* Ultimate"
+content: "\n\n## <a name=\"links\"></a>連結 \n* [舊版 Visual Studio 的服務資訊](/visualstudio/releases/2019/servicing-vs2019#support-for-older-versions-of-visual-studio)\n\n\n> [!NOTE]\n> 以下組件的 Visual Studio 2012 版本作為 Visual Studio 2012 生命週期的一部分隨附並受支援：代理、IntelliTrace 收集器、Microsoft Azure 工具、遠距工具、SDK、Shell (整合)、Shell (獨立)、SQL Server 資料工具、Team Explorer、Visual C++ Redistributable、網頁工具擴展程式。\n\n\n## <a name=\"editions\"></a>版本 \n* Express for Web\n* Express for Windows Desktop\n* 進階版\n* Professional\n* Team Explorer\n* Ultimate"
