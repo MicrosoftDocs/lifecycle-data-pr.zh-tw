@@ -2,14 +2,14 @@
 metadata:
   title: Windows 11 IoT 企業版 (版本 21H2)
   description: Windows 11 IoT 企業版 (版本 21H2) 遵循新式生命週期原則。
-  ms.date: 09/23/2021
+  ms.date: 10/26/2021
   keywords: 
-  ms.openlocfilehash: 9a933ca28c406dbd125712266cae66a8f1ccb338
-  ms.sourcegitcommit: 59fc218db97bb57b454b1e2a859fca5b8d4cd750
+  ms.openlocfilehash: 54c4bc26956a13152fad262355c6ea9d61e1a186
+  ms.sourcegitcommit: 6ea3221fd5475440480515f04f33988656d71748
   ms.translationtype: HT
   ms.contentlocale: zh-TW
-  ms.lasthandoff: 10/05/2021
-  ms.locfileid: "3509327"
+  ms.lasthandoff: 11/02/2021
+  ms.locfileid: "3546588"
 name: Windows 11 IoT 企業版 (版本 21H2)
 summary: >+
   Windows 11 IoT Enterprise (版本 21H2) 遵循[新式](/lifecycle/policies/modern)生命週期原則。
@@ -28,4 +28,4 @@ releases:
 - version: Original release (Version 21H2)
   startDate: 10/04/2021
   endDate: 10/08/2024
-content: "\n\n## <a name=\"links\"></a>連結 \n* [Windows 11 IoT 企業版快速入門](https://aka.ms/Windows11IoTEnterprise)\n* [Windows 即服務 (WaaS)](/windows/deployment/update/waas-quick-start)\n* [生命週期常見問題集 - Windows](/lifecycle/faq/windows)\n* [其他 Windows 資源](/windows/resources/)\n* [Windows 11 企業版與教育版](/lifecycle/products/windows-11-enterprise-and-education)\n* [Windows 11 家用版與專業版](/lifecycle/products/windows-11-home-and-pro)\n\n\n> [!NOTE]\n> 除非延期，否則後續 Windows 11 功能更新可在所列的主要支援日期結束前安裝。"
+content: "\n\n## <a name=\"links\"></a>連結 \n* [Windows 11 IoT 企業版快速入門](https://aka.ms/Windows11IoTEnterprise)\n* [Windows 即服務 (WaaS)](/windows/deployment/update/waas-quick-start)\n* [生命週期常見問題集 - Windows](/lifecycle/faq/windows)\n* [其他 Windows 資源](/windows/resources/)\n* [Windows 11 企業版與教育版](/lifecycle/products/windows-11-iot-enterprise-version-21h2)\n* [Windows 11 家用版與專業版](/lifecycle/products/windows-11-home-and-pro-version-21h2)\n\n\n> [!NOTE]\n> 除非延期，否則後續 Windows 11 功能更新可在所列的主要支援日期結束前安裝。"
