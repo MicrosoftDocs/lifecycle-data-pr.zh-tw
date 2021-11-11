@@ -2,14 +2,14 @@
 metadata:
   title: Visual Studio 2019
   description: Visual Studio 2019 遵循固定生命週期原則。
-  ms.date: 09/20/2021
+  ms.date: 10/26/2021
   keywords: 
-  ms.openlocfilehash: e23223d9d0a238c2d9784b25ab84a2195705951c
-  ms.sourcegitcommit: b7b46fb942fa16a0d96d486f6b591e470c048157
+  ms.openlocfilehash: 0f9b64cda589aef8e2cee22444c63d61d955e158
+  ms.sourcegitcommit: 6ea3221fd5475440480515f04f33988656d71748
   ms.translationtype: HT
   ms.contentlocale: zh-TW
-  ms.lasthandoff: 09/21/2021
-  ms.locfileid: "3460595"
+  ms.lasthandoff: 11/02/2021
+  ms.locfileid: "3546699"
 name: Visual Studio 2019
 summary: >+
   Visual Studio 2019 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
@@ -43,4 +43,4 @@ releases:
 - version: Version 16.0
   startDate: 04/02/2019
   endDate: 01/12/2021
-content: "\n\n## <a name=\"links\"></a>連結 \n* [Visual Studio 部落格公告](https://devblogs.microsoft.com/visualstudio/)\n* [服務資訊](/visualstudio/productinfo/vs-servicing-vs)\n* [Visual Studio 2019 下載頁面](https://my.visualstudio.com/Downloads?q=Visual%20Studio%202019)\n* [Visual Studio 2019 版本資訊](/visualstudio/releases/2019/release-notes)\n\n\n> [!NOTE]\n> 以下組件的 Visual Studio 2019 版本作為 Visual Studio 2019 生命週期的一部分隨附並受支援：Agents、Build Tools、Community、Enterprise、IntelliTrace Standalone Collector、效能工具、Remote Tools、Team Explorer、Visual C++ 可轉散發套件\n\n\n## <a name=\"editions\"></a>版本 \n* Community\n* Enterprise\n* Professional"
+content: "\n\n## <a name=\"links\"></a>連結 \n* [Visual Studio 部落格公告](https://devblogs.microsoft.com/visualstudio/)\n* [支援和生命週期資訊](/visualstudio/releases/2019/servicing-vs2019)\n* [Visual Studio 2019 下載頁面](https://my.visualstudio.com/Downloads?q=Visual%20Studio%202019)\n* [Visual Studio 2019 版本資訊](/visualstudio/releases/2019/release-notes)\n\n\n> [!NOTE]\n> 以下組件的 Visual Studio 2019 版本作為 Visual Studio 2019 生命週期的一部分隨附並受支援：Agents、Build Tools、IntelliTrace Standalone Collector、效能工具、Remote Tools、Team Explorer、Visual C++ 可轉散發套件\n\n\n## <a name=\"editions\"></a>版本 \n* Community\n* Enterprise\n* Professional"

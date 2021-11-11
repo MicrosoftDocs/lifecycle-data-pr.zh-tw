@@ -1,0 +1,29 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Project 伺服器訂閱版本
+  description: Project Server Subscription Edition 電腦版用戶端遵循新式生命週期原則。
+  ms.date: 10/19/2021
+  keywords: 
+  ms.openlocfilehash: 3775c728a11e4e8f85fd3866670d6ce7fcc5f808
+  ms.sourcegitcommit: 6ea3221fd5475440480515f04f33988656d71748
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 11/02/2021
+  ms.locfileid: "3546769"
+name: Project 伺服器訂閱版本
+summary: >+
+  Project Server Subscription Edition 遵循[新式](/lifecycle/policies/modern)生命週期原則。
+
+
+
+
+
+products:
+- office
+policyType: modern-on-prem
+supportDates:
+  start: 11/02/2021
+releases:
+- version: Original Release
+  startDate: 11/02/2021
+content: "\n\n\n\n> [!NOTE]\n> 請參閱[產品](https://docs.microsoft.com/project/project-server-2013-and-2016)和[開發人員](https://docs.microsoft.com/office/dev/add-ins/project/)文件。"
