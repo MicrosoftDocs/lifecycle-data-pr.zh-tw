@@ -4,12 +4,12 @@ metadata:
   description: Cloud Platform System 遵循固定生命週期原則。
   ms.date: 09/01/2020
   keywords: Standard
-  ms.openlocfilehash: 448affd48bc634814f54888410f728dccf178711d943addbdd2cec6388c4135e
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: 0f2c6241b0d7a814fbc29cf15994b5c1e0537fba
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: zh-TW
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2492361"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4109292"
 name: 雲端平台系統
 summary: >+
   Cloud Platform System 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
@@ -21,11 +21,11 @@ products:
 - azure
 policyType: fixed
 supportDates:
-  start: 01/29/2015
-  end: 04/14/2020
-  extendedEnd: 07/12/2022
+  start: 2015-01-29T00:00:00.000-08:00
+  end: 2020-04-14T22:59:59.999-08:00
+  extendedEnd: 2022-07-12T22:59:59.999-08:00
 releases:
 - version: Original Release
-  startDate: 01/29/2015
-  endDate: 07/12/2022
+  startDate: 2015-01-29T00:00:00.000-08:00
+  endDate: 2022-07-12T22:59:59.999-08:00
 content: "\n\n> [!NOTE]\n> Cloud Platform System 的主要支援已如本文所示延長，為所有客戶提供標準生命週期轉換時間表。\n> [!NOTE]\n> Cloud Platform System Standard 於 2017 年 9 月 18 日推出。\n\n## <a name=\"editions\"></a>版本 \n* 標準版"

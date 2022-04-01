@@ -1,0 +1,23 @@
+### YamlMime:Lifecycle
+metadata:
+  title: 商務用 OneDrive
+  description: 商務用 OneDrive 遵循新式生命週期原則。
+  ms.date: 12/13/2021
+  keywords: 
+  ms.openlocfilehash: 6bbb17652ecaee62827092a8f1ed514c8f6ac8ab
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4156220"
+name: 商務用 OneDrive
+summary: "商務用 OneDrive 遵循[新式](/lifecycle/policies/modern)生命週期原則。\n\n\n\n\n> [!IMPORTANT]\n> 從 2022 年 1 月 1 日開始，商務用 OneDrive 桌面應用程式的支援會遵循安裝的 [Windows](https://docs.microsoft.com/lifecycle/products/?products=windows) 生命週期。 請前往[這裡](https://techcommunity.microsoft.com/t5/microsoft-onedrive-blog/end-of-support-for-onedrive-desktop-application-on-windows-7-8/ba-p/2929066)深入了解。 \n\n"
+products:
+- office
+policyType: modern-on-prem
+supportDates:
+  start: 2001-05-31T00:00:00.000-08:00
+releases:
+- version: Original Release
+  startDate: 2001-05-31T00:00:00.000-08:00
+content: "\n\n## <a name=\"links\"></a>連結 \n* [版本資訊](https://support.microsoft.com/office/onedrive-release-notes-845dcf18-f921-435e-bf28-4e24b95e5fc0)\n* [系統需求](https://support.microsoft.com/office/onedrive-system-requirements-cc0cb2b8-f446-445c-9b52-d3c2627d681e)\n* [服務資訊](/onedrive/sync-client-update-process)"

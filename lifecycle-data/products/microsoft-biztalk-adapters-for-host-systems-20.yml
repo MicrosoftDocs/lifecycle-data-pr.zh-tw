@@ -3,30 +3,29 @@ metadata:
   title: Microsoft BizTalk Adapters for Host Systems 2.0
   description: Microsoft BizTalk Adapters for Host Systems 2.0 遵循固定生命週期原則。
   ms.date: 09/10/2020
-  keywords: 'Developer,Standard'
+  keywords: Developer,Standard
+  ms.openlocfilehash: dc8f8c4bd0435478c8a22812e06eb2bc9297c502
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4153655"
 name: Microsoft BizTalk Adapters for Host Systems 2.0
-summary: |+
+summary: >+
   Microsoft BizTalk Adapters for Host Systems 2.0 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
+
 
   本文適用於下列版本：Developer, Standard
 
 products:
-  - microsoft-servers
+- microsoft-servers
 policyType: fixed
 supportDates:
-  start: 06/21/2009
-  end: 07/08/2014
-  extendedEnd: 07/09/2019
+  start: 2009-06-21T00:00:00.000-08:00
+  end: 2014-07-08T22:59:59.999-08:00
+  extendedEnd: 2019-07-09T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 06/21/2009
-    endDate: 07/09/2019
-content: |
-
-  ## <a name="links"></a>連結 
-  * [移轉指引](https://techcommunity.microsoft.com/t5/Host-Integration-Blog/End-of-Support-for-BizTalk-Adapters-for-Host-Systems-2-0/ba-p/269471)
-
-
-  ## <a name="editions"></a>版本 
-  * Developer
-  * 標準版
+- version: Original Release
+  startDate: 2009-06-21T00:00:00.000-08:00
+  endDate: 2019-07-09T22:59:59.999-08:00
+content: "\n## <a name=\"links\"></a>連結 \n* [移轉指引](https://techcommunity.microsoft.com/t5/Host-Integration-Blog/End-of-Support-for-BizTalk-Adapters-for-Host-Systems-2-0/ba-p/269471)\n\n\n## <a name=\"editions\"></a>版本 \n* Developer\n* 標準版"

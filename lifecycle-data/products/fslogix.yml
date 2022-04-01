@@ -3,22 +3,24 @@ metadata:
   title: FSLogix
   description: FSLogix 遵循新式生命週期原則。
   ms.date: 12/07/2020
-  keywords: null
+  keywords: 
+  ms.openlocfilehash: 53dfde79a834aa238bcf765a5c83852974eca99d
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4155320"
 name: FSLogix
-summary: |+
+summary: >+
   FSLogix 遵循[新式](/lifecycle/policies/modern)生命週期原則。
 
 
 products:
-  - windows
+- windows
 policyType: modern-online
 supportDates:
-  start: 06/05/2020
+  start: 2020-06-05T00:00:00.000-08:00
 releases:
-  - version: Original Release
-    startDate: 06/05/2020
-content: |+
-
-  ## <a name="links"></a>連結 
-  * [下載並安裝 FSLogix](/fslogix/install-ht)
-  * [如何開啟 FSLogix 支援要求](https://social.msdn.microsoft.com/Forums/14ea5f6f-760b-4ad2-83cf-23c3cbc1bcc4/how-to-open-a-fslogix-support-request?forum=FSLogix)
+- version: Original Release
+  startDate: 2020-06-05T00:00:00.000-08:00
+content: "\n## <a name=\"links\"></a>連結 \n* [下載並安裝 FSLogix](/fslogix/install-ht)\n* [如何開啟 FSLogix 支援要求](https://social.msdn.microsoft.com/Forums/14ea5f6f-760b-4ad2-83cf-23c3cbc1bcc4/how-to-open-a-fslogix-support-request?forum=FSLogix)"

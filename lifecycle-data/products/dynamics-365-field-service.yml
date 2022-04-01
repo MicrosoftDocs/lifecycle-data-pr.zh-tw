@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Dynamics 365 Field Service
+  description: Dynamics 365 Field Service 遵循新式生命週期原則。
+  ms.date: 2022/03/11
+  keywords: Xamarin, field service mobile, mobile
+  ms.openlocfilehash: 76b0b6832ddeb85a55d84e377c8d26482e7eb87d
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4156511"
+name: Dynamics 365 Field Service
+summary: >+
+  Dynamics 365 Field Service 遵循[新式](/lifecycle/policies/modern)生命週期原則。
+
+
+
+
+
+  > [!IMPORTANT]
+
+  > 請注意，舊版 Field Service Mobile (Xamarin) 應用程式在 2022 年 6 月 30 日內停用。 客戶應在該日期之前，遷移至 [Field Service (Dynamics 365) ](https://docs.microsoft.com/dynamics365/field-service/mobile-2020-power-platform)行動裝置應用程式。 如需詳細資訊，請參閱 [現場服務 Mobile Xamarin 結束支援常見問題](https://docs.microsoft.com/dynamics365/field-service/activate-fs-mobile-app-license#faqs)。
+
+products:
+- dynamics
+policyType: modern-online
+supportDates:
+  start: 2016-05-02T00:00:00.000-08:00
+releases:
+- version: Original Release
+  startDate: 2016-05-02T00:00:00.000-08:00
+content: "\n\n## <a name=\"links\"></a>連結 \n* [產品資訊](/dynamics365/field-service/overview)\n* [Dynamics 365 Field Service 行動應用程式移轉資訊](https://aka.ms/fsmobile-adoption)"

@@ -3,25 +3,22 @@ metadata:
   title: Mac 版 Microsoft Word 2011
   description: Microsoft Word for Mac 2011 遵循固定生命週期原則。
   ms.date: 07/28/2020
+  ms.openlocfilehash: ca5c7b7a44694186475648211fc62b7fca33409e
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4131529"
 name: Mac 版 Microsoft Word 2011
-summary: |
-  Microsoft Word for Mac 2011 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
-
-
-  > [!IMPORTANT]
-  > 此產品的支援已終止。 
+summary: "Microsoft Word for Mac 2011 遵循[固定](/lifecycle/policies/fixed)生命週期原則。\n\n\n> [!IMPORTANT]\n> 此產品的支援已終止。 \n"
 products:
-  - office
+- office
 policyType: fixed-mainstream-only
 supportDates:
-  start: 12/09/2010
-  end: 10/10/2017
+  start: 2010-12-09T00:00:00.000-08:00
+  end: 2017-10-10T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 12/09/2010
-    endDate: 10/10/2017
-content: |+
-
-
-  > [!NOTE]
-  > Outlook 2011 for Mac 的主要支援已如示延長，為所有客戶提供標準生命週期轉換時間表。
+- version: Original Release
+  startDate: 2010-12-09T00:00:00.000-08:00
+  endDate: 2017-10-10T22:59:59.999-08:00
+content: "\n\n> [!NOTE]\n> Outlook 2011 for Mac 的主要支援已如示延長，為所有客戶提供標準生命週期轉換時間表。"
