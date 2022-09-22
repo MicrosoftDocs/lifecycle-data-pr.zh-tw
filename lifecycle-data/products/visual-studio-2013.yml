@@ -2,14 +2,14 @@
 metadata:
   title: Visual Studio 2013
   description: Visual Studio 2013 遵循固定生命週期原則。
-  ms.date: 10/11/2021
+  ms.date: 2022/04/14
   keywords: 
-  ms.openlocfilehash: 74908b552844ac27651393960fa567b4971842b6
-  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.openlocfilehash: 26531cc6c88e5781b92affe65d38caf6f78b63d4
+  ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
   ms.translationtype: HT
   ms.contentlocale: zh-TW
-  ms.lasthandoff: 03/18/2022
-  ms.locfileid: "4142777"
+  ms.lasthandoff: 09/09/2022
+  ms.locfileid: "4516438"
 name: Visual Studio 2013
 summary: >+
   Visual Studio 2013 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
@@ -33,5 +33,5 @@ releases:
   endDate: 2024-04-09T22:59:59.999-08:00
 - version: Original Release
   startDate: 2014-01-15T00:00:00.000-08:00
-  endDate: 2024-04-09T22:59:59.999-08:00
+  endDate: 2016-10-11T22:59:59.999-08:00
 content: "\n\n## <a name=\"links\"></a>連結 \n* [服務資訊](/visualstudio/releases/2019/servicing-vs2019#support-for-older-versions-of-visual-studio)\n\n\n> [!NOTE]\n> 以下組件的 Visual Studio 2013 版本作為 Visual Studio 2013 生命週期的一部分隨附並受支援：代理、IntelliTrace Collector、Modelling SDK、Multibyte MFC Library、遠距工具、SDK、Shell (整合)、Shell (獨立)、Team Explorer、Visual C++ Redistributable、網頁工具擴展程式\n\n\n## <a name=\"editions\"></a>版本 \n* Community\n* Express for Web\n* Express for Windows\n* Express for Windows Desktop\n* 進階版\n* Professional\n* Release Management\n* Test Professional\n* Ultimate"

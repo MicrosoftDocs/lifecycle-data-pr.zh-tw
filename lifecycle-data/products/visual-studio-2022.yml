@@ -2,19 +2,21 @@
 metadata:
   title: 'Visual Studio 2022 '
   description: Visual Studio 2022 遵循固定生命週期原則。
-  ms.date: 11/05/2021
+  ms.date: 2022/05/11
   keywords: 
-  ms.openlocfilehash: 4c4a28cfa9ed1963deb6afc84c17c4003b8e65a8
-  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.openlocfilehash: 0b35faaba3b6e2d2d3b3f7711d84292c7f63c94d
+  ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
   ms.translationtype: HT
   ms.contentlocale: zh-TW
-  ms.lasthandoff: 03/18/2022
-  ms.locfileid: "4156535"
+  ms.lasthandoff: 09/09/2022
+  ms.locfileid: "4516297"
 name: 'Visual Studio 2022 '
 summary: >+
   Visual Studio 2022 遵循[固定](/lifecycle/policies/fixed)生命週期原則。
 
 
+
+  本文適用於下列版本：Community、Enterprise、Professional
 
 
 
@@ -26,10 +28,13 @@ supportDates:
   end: 2027-01-12T22:59:59.999-08:00
   extendedEnd: 2032-01-13T22:59:59.999-08:00
 releases:
+- version: Version 17.2 (LTSC channel)
+  startDate: 2022-05-10T00:00:00.000-08:00
+  endDate: 2024-01-09T22:59:59.999-08:00
 - version: Version 17.0 (LTSC channel)
   startDate: 2021-11-08T00:00:00.000-08:00
   endDate: 2023-07-11T22:59:59.999-08:00
 - version: Visual Studio 2022 (Current channel)
   startDate: 2021-11-08T00:00:00.000-08:00
   endDate: 2032-01-13T22:59:59.999-08:00
-content: "\n\n## <a name=\"links\"></a>連結 \n* [Visual Studio 部落格公告](https://devblogs.microsoft.com/visualstudio/)\n* [支援和生命週期資訊](/visualstudio/releases/2022/servicing-vs2022)\n* [Visual Studio 下載頁面](https://visualstudio.microsoft.com/)\n* [Visual Studio 版本資訊](/visualstudio/releases/2022/release-notes)\n* [系統需求](/visualstudio/releases/2022/system-requirements)\n\n\n> [!NOTE]\n> 以下組件的 Visual Studio 2022 版本作為 Visual Studio 2022 生命週期的一部分隨附並受支援：Agents、Build Tools、IntelliTrace Standalone Collector、效能工具、遠距工具、Team Explorer、Visual C++ Redistributable。\n> [!NOTE]\n> 只有在目前的通道上，使用最新版次要 Visual Studio 版本的最新服務 Visual Studio Community 發行版本才受支援。 請前往[這裡](https://docs.microsoft.com/visualstudio/releases/2022/servicing-vs2022)深入了解。"
+content: "\n\n## <a name=\"links\"></a>連結 \n* [Visual Studio 部落格公告](https://devblogs.microsoft.com/visualstudio/)\n* [支援和生命週期資訊](/visualstudio/releases/2022/servicing-vs2022)\n* [Visual Studio 下載頁面](https://visualstudio.microsoft.com/)\n* [Visual Studio 版本資訊](/visualstudio/releases/2022/release-notes)\n* [系統需求](/visualstudio/releases/2022/system-requirements)\n\n\n> [!NOTE]\n> 以下組件的 Visual Studio 2022 版本作為 Visual Studio 2022 生命週期的一部分隨附並受支援：Agents、Build Tools、IntelliTrace Standalone Collector、效能工具、遠距工具、Team Explorer、Visual C++ Redistributable。\n> [!NOTE]\n> 只有在目前的通道上，使用最新版次要 Visual Studio 版本的最新服務 Visual Studio Community 發行版本才受支援。 請前往[這裡](https://docs.microsoft.com/visualstudio/releases/2022/servicing-vs2022)深入了解。 \n\n\n## <a name=\"editions\"></a>版本 \n* Community\n* Enterprise\n* Professional"
