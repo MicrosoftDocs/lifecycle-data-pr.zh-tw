@@ -2,14 +2,14 @@
 metadata:
   title: Azure 資訊保護傳統用戶端
   description: Azure 資訊保護傳統用戶端遵循新式生命週期原則。
-  ms.date: 11/17/2021
+  ms.date: 2022/05/27
   keywords: 
-  ms.openlocfilehash: 440c0337f73f25c109b206264547034b1a4ece68
-  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.openlocfilehash: d316768b36d12f3ce3e4b70bcc7d0e26d4b432ca
+  ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
   ms.translationtype: HT
   ms.contentlocale: zh-TW
-  ms.lasthandoff: 03/18/2022
-  ms.locfileid: "4156541"
+  ms.lasthandoff: 09/09/2022
+  ms.locfileid: "4518628"
 name: Azure 資訊保護傳統用戶端
 summary: >+
   Azure 資訊保護傳統用戶端遵循[新式](/lifecycle/policies/modern)生命週期原則。
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 2016-10-01T00:00:00.000-08:00
   endDate: 2021-03-31T22:59:59.999-08:00
-content: "\n\n## <a name=\"links\"></a>連結 \n* [服務資訊](/information-protection/rms-client/client-version-release-history#servicing-information-and-timelines)\n* [移轉指引](https://techcommunity.microsoft.com/t5/azure-information-protection/announcing-timelines-for-sunsetting-label-management-in-the/ba-p/1226179)\n\n\n> [!NOTE]\n> 為了提供統一且簡化的客戶體驗，Azure 入口網站中的 Azure 資訊保護用戶端 (傳統) 和標籤管理即將從 2021 年 3 月 31 日起淘汰。 所有目前的 Azure 資訊保護客戶可在這段時間範圍內，使用 Microsoft 資訊保護統一標籤平台轉換為統一的標籤解決方案。"
+content: "\n\n## <a name=\"links\"></a>連結 \n* [服務資訊](/information-protection/rms-client/client-version-release-history#servicing-information-and-timelines)\n* [移轉指引](https://techcommunity.microsoft.com/t5/azure-information-protection/announcing-timelines-for-sunsetting-label-management-in-the/ba-p/1226179)\n\n\n> [!NOTE]\n> 為了提供統一且簡化的客戶體驗，Azure 入口網站中的 Azure 資訊保護用戶端 (傳統) 和標籤管理即將從 2021 年 3 月 31 日起淘汰。 所有目前的 Azure 資訊保護客戶可在這段時間範圍內，使用 Microsoft Purview 資訊保護轉換為統一的標籤平台。"

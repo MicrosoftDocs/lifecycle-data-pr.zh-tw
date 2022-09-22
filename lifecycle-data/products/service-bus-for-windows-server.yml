@@ -2,22 +2,26 @@
 metadata:
   title: Windows Server 服務匯流排
   description: Windows Server 服務匯流排遵循元件生命週期原則。
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 2d94e7c188c7164e0f7be80bc8eca33c3ede0edf
-  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.date: 2022/03/24
+  keywords: 
+  ms.openlocfilehash: c8a4ac8dc6f815bcc7b2a8caeb9d42bb1bf2aa7e
+  ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
   ms.translationtype: HT
   ms.contentlocale: zh-TW
-  ms.lasthandoff: 03/18/2022
-  ms.locfileid: "4147624"
+  ms.lasthandoff: 09/09/2022
+  ms.locfileid: "4518813"
 name: Windows Server 服務匯流排
-summary: >
+summary: >+
   Windows Server 服務匯流排遵循[元件](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)生命週期原則。
+
+
 
 
 
   > [!IMPORTANT]
 
-  > 服務務匯流排 1.1 是 SharePoint Server 2016 或 SharePoint Server 2013 的元件時，將會依照對應 SharePoint Server 版本的結束支援日期提供支援。
+  > 服務匯流 1.1 是 SharePoint Server 訂閱版、SharePoint Server 2019、SharePoint Server 2016 和 SharePoint Server 2013 的組件，並遵循其上層產品的生命週期。
+
 products:
 - windows
 policyType: component

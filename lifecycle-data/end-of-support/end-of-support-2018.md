@@ -1,13 +1,13 @@
 ---
 title: 2018 年終止支援的產品
 description: 了解在 2018 年會有哪些產品淘汰、終止支援或從主要支援轉為延伸支援。
-ms.date: 09/17/2021
-ms.openlocfilehash: ef79682a4e68c31ab569281f438557d6d71b11ea
-ms.sourcegitcommit: 203d765be641181ebf7b895f783ce497a9568616
+ms.date: 07/26/2022
+ms.openlocfilehash: 657bdb28ba9fa0c5151cb9a394d9ade3af39a2b3
+ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/18/2021
-ms.locfileid: "4027750"
+ms.lasthandoff: 09/09/2022
+ms.locfileid: "4518258"
 ---
 # <a name="products-ending-support-in-2018"></a>2018 年終止支援的產品
 
@@ -52,7 +52,7 @@ ms.locfileid: "4027750"
 | --- | --- |
 | [Dynamics C5 2014](/lifecycle/products/dynamics-c5-2014?branch=live)<br>[Microsoft Office Communications Server 2007](/lifecycle/products/microsoft-office-communications-server-2007?branch=live)<br>[Microsoft Office Communications Server 2007 R2](/lifecycle/products/microsoft-office-communications-server-2007-r2?branch=live)<br>[Microsoft Office Communicator 2007](/lifecycle/products/microsoft-office-communicator-2007?branch=live)<br>[Microsoft Office Communicator 2007 R2](/lifecycle/products/microsoft-office-communicator-2007-r2?branch=live)<br>[Microsoft Office PerformancePoint 2007](/lifecycle/products/microsoft-office-performancepoint-2007?branch=live)<br>[Microsoft Office PerformancePoint Server 2007](/lifecycle/products/microsoft-office-performancepoint-server-2007?branch=live)<br>[Microsoft PlayReady Server Software Development Kit 2.0](/lifecycle/products/microsoft-playready-server-software-development-kit-20?branch=live)<br>[Microsoft System Center Data Protection Manager 2007](/lifecycle/products/microsoft-system-center-data-protection-manager-2007?branch=live)<br>[Microsoft System Center Virtual Machine Manager 2007](/lifecycle/products/microsoft-system-center-virtual-machine-manager-2007?branch=live)<br>[Software Licensing and Protection Server](/lifecycle/products/software-licensing-and-protection-server?branch=live)<br>[SQL Server 2016](/lifecycle/products/sql-server-2016?branch=live)<br>[Windows 10 行動裝置企業版 (2015 年 11 月發行)](/lifecycle/products/windows-10-mobile-enterprise-released-in-november-2015?branch=live)<br>[Windows 10 行動裝置版 (2015 年 11 月發行)](/lifecycle/products/windows-10-mobile-released-in-november-2015?branch=live)<br>[Windows Embedded Device Manager 2011](/lifecycle/products/windows-embedded-device-manager-2011?branch=live)<br> | 2018 年 1 月 9 日 |
 | [Dynamics CRM 4.0](/lifecycle/products/dynamics-crm-40?branch=live)<br>[Microsoft SQL Server Compact 3.5](/lifecycle/products/microsoft-sql-server-compact-35?branch=live)<br>[Microsoft System Center Capacity Planner 2007](/lifecycle/products/microsoft-system-center-capacity-planner-2007?branch=live)<br>[Visual Studio 2008](/lifecycle/products/visual-studio-2008?branch=live)<br>[Visual Studio Team Foundation Server 2015](/lifecycle/products/visual-studio-team-foundation-server-2015?branch=live)<br>[Visual Studio Team System 2008](/lifecycle/products/visual-studio-team-system-2008?branch=live)<br>[Windows Embedded CE 6.0](/lifecycle/products/windows-embedded-ce-60?branch=live)<br> | 2018 年 4 月 10 日 |
-| [Dynamics CRM 2016 (Dynamics 365) 、原始發行版本 (版本 8.0)](/lifecycle/products/dynamics-crm-2016-dynamics-365?branch=live)<br>[Microsoft Search Server 2008](/lifecycle/products/microsoft-search-server-2008?branch=live)<br>[Microsoft System Center Mobile Device Manager 2008](/lifecycle/products/microsoft-system-center-mobile-device-manager-2008?branch=live)<br>[Visual Studio Team Foundation Server 2015 Update 3](/lifecycle/products/visual-studio-team-foundation-server-2015?branch=live)<br>[Windows Web Server 2008](/lifecycle/products/windows-web-server-2008?branch=live)<br> | 2018 年 7 月 10 日 |
+| [Dynamics CRM 2016 (Dynamics 365)、原始發行版本 (版本 8.0)](/lifecycle/products/dynamics-crm-2016-dynamics-365?branch=live)<br>[Microsoft Search Server 2008](/lifecycle/products/microsoft-search-server-2008?branch=live)<br>[Microsoft System Center Mobile Device Manager 2008](/lifecycle/products/microsoft-system-center-mobile-device-manager-2008?branch=live)<br>[Visual Studio Team Foundation Server 2015 Update 3](/lifecycle/products/visual-studio-team-foundation-server-2015?branch=live)<br>[Windows Web Server 2008](/lifecycle/products/windows-web-server-2008?branch=live)<br> | 2018 年 7 月 10 日 |
 | [增強的風險降低體驗工具組（EMET）](/lifecycle/products/enhanced-mitigation-experience-toolkit-emet?branch=live)<br> | 2018 年 7 月 31 日 |
 | [Adxstudio 入口網站 v7.x](/lifecycle/products/adxstudio-portals-v7x?branch=live)<br> | 2018 年 8 月 1 日 |
 | [Expression 2](/lifecycle/products/expression-blend-2?branch=live)<br>[Lync 會議室](/lifecycle/products/lync-meeting-room?branch=live)<br>[Microsoft Enterprise Desktop Virtualization 1.0](/lifecycle/products/microsoft-enterprise-desktop-virtualization-10?branch=live)<br>[Mac 2011 版 Microsoft Lync](/lifecycle/products/microsoft-lync-for-mac-2011?branch=live)<br>[Microsoft SQL Server 2012 Service Pack 3](/lifecycle/products/microsoft-sql-server-2012?branch=live)<br>[Windows 10 行動裝置企業版 (2016 年 8 月發行)](/lifecycle/products/windows-10-mobile-enterprise-released-in-august-2016?branch=live)<br>[Windows 10 行動裝置版 (2016 年 8 月發行)](/lifecycle/products/windows-10-mobile-released-in-august-2016?branch=live)<br> | 2018 年 10 月 9 日 |
