@@ -1,13 +1,13 @@
 ---
 title: 2023 年終止支援的產品
 description: 了解在 2023 年會有哪些產品淘汰、終止支援或從主要支援轉為延伸支援。
-ms.date: 09/13/2022
-ms.openlocfilehash: 14252d5922ab850dbdc90c4ef3a8d58cad40892f
-ms.sourcegitcommit: b88b4db4bcd8ffe5d63ffa23a2a518ac25a4f635
+ms.date: 09/21/2022
+ms.openlocfilehash: facaf412f81123ef165642fd5c6692dc121fe123
+ms.sourcegitcommit: 369efbff28148903c4c47e5d1ae453fcc2cc9ae6
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/13/2022
-ms.locfileid: "4521049"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "4526857"
 ---
 # <a name="products-ending-support-in-2023"></a>2023 年終止支援的產品
 
@@ -36,13 +36,12 @@ ms.locfileid: "4521049"
 | 產品 | 維護終止 |
 | --- | --- |
 | [Microsoft Endpoint Configuration Manager 版本 2107](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 2023 年 2 月 2 日 |
-| [Microsoft Endpoint Configuration Manager 版本 2207](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 2023 年 2 月 12 日 |
 | [Dynamics 365 Business Central 內部部署 (新式原則) 2021 年第 2 波發行 19.x 版](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br> | 2023 年 4 月 12 日 |
 | [Windows 10 企業版和教育版 (版本 20H2)](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 IoT 企業版 (版本 20H2)](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br> | 2023 年 5 月 9 日 |
 | [Microsoft Endpoint Configuration Manager 版本 2111](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 2023 年 6 月 1 日 |
 | [Windows 10 家用版和專業版 (版本 21H2)](/lifecycle/products/windows-10-home-and-pro?branch=live)<br> | 2023 年 6 月 13 日 |
 | [Microsoft Endpoint Configuration Manager 版本 2203](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 2023 年 10 月 6 日 |
-| [Dynamics 365 Business Central 內部部署 (新式原則) 2022 年第 1 波發行 20.x 版](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br>[Windows 11 家庭版與專業版 (版本 21H2) ，原始版本 (版本 21H2) ](/lifecycle/products/windows-11-home-and-pro-version-21h2?branch=live)<br> | 2023 年 10 月 10 日 |
+| [Dynamics 365 Business Central 內部部署 (新式原則) 2022 年第 1 波發行 20.x 版](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br>[Windows 11 家用版和專業版 (版本 21H2)](/lifecycle/products/windows-11-home-and-pro?branch=live)<br> | 2023 年 10 月 10 日 |
 
 
 ## <a name="products-reaching-end-of-support"></a>終止支援的產品

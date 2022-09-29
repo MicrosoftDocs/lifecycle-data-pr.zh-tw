@@ -1,0 +1,35 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows 11 家用版與專業版
+  description: Windows 11 家用版與專業版遵循新式生命週期原則。
+  ms.date: 09/15/2022
+  keywords: win11,Home,Pro,Pro Education,Pro for Workstations,SE
+  ms.openlocfilehash: 6a3600f3ab8bbb303af68313e97f39d75bcb8173
+  ms.sourcegitcommit: 271be77bfed364b789251cdc113296e7e7842cbb
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 09/20/2022
+  ms.locfileid: "4526273"
+name: Windows 11 家用版與專業版
+summary: >+
+  Windows 11 家用版與專業版遵循[新式](/lifecycle/policies/modern)生命週期原則。
+
+
+
+  本文適用於下列版本：家用版、專業版、專業教育版、工作站專業版、SE
+
+
+
+products:
+- windows
+policyType: modern-on-prem
+supportDates:
+  start: 2021-10-04T00:00:00.000-08:00
+releases:
+- version: Version 22H2
+  startDate: 2022-09-20T00:00:00.000-08:00
+  endDate: 2024-10-14T22:59:59.999-08:00
+- version: Version 21H2
+  startDate: 2021-10-04T00:00:00.000-08:00
+  endDate: 2023-10-10T22:59:59.999-08:00
+content: "\n\n## <a name=\"links\"></a>連結 \n* [Windows 即服務 (WaaS)](/windows/deployment/update/waas-overview)\n* [生命週期常見問題集 - Windows](/lifecycle/faq/windows)\n* [其他 Windows 資源](/windows/resources/)\n* [Windows 11 企業版與教育版](/lifecycle/products/windows-11-enterprise-and-education-version-21h2)\n* [Windows 11 IoT 企業版](/lifecycle/products/windows-11-iot-enterprise-version-21h2)\n\n\n\n\n## <a name=\"editions\"></a>版本 \n* Home\n* 專業版\n* 專業教育版\n* 工作站專業版。\n* SE"
